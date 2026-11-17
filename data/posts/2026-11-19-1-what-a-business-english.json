@@ -1,0 +1,51 @@
+{
+  "alt_text": "Photo in Roma Norte, Mexico City. Text on the image: What a Business English programme should include",
+  "attempts": 0,
+  "caption": "What a Business English programme should include. • A level test, not a guess.\n• Goals tied to real meetings.\n• Practice with your own documents.\n• Progress you can measure.\n\n#languagetraining #corporatetraining #cursodeingles #cdmx #growingconnections\n\nBook a free 15-min level chat: WhatsApp +52 1 55 1370 6864 or livinwithme.net/custom-offers\nReserva tu llamada gratis de nivel: WhatsApp +52 1 55 1370 6864",
+  "cover_path": "posts/2026-11-19-1-what-a-business-english/cover.jpg",
+  "created": "2026-11-17T06:35:38.754249+00:00",
+  "date": "2026-11-19",
+  "headline": "What a Business English programme should include",
+  "id": "2026-11-19-1-what-a-business-english",
+  "kind": "reel",
+  "location_id": null,
+  "location_name": "Roma Norte, Mexico City",
+  "media": [
+    "posts/2026-11-19-1-what-a-business-english/reel.mp4",
+    "posts/2026-11-19-1-what-a-business-english/cover.jpg"
+  ],
+  "moment": null,
+  "photo": null,
+  "photo_credit": null,
+  "pillar": "consulting",
+  "region": "mexico_city",
+  "scheduled_for": "2026-11-19T19:00:00+00:00",
+  "slides": [
+    {
+      "body": "",
+      "headline": "What a Business English programme should include",
+      "role": "cover"
+    },
+    {
+      "body": "A level test, not a guess.",
+      "headline": "1",
+      "role": "body"
+    },
+    {
+      "body": "Goals tied to real meetings.",
+      "headline": "2",
+      "role": "body"
+    },
+    {
+      "body": "WhatsApp +52 1 55 1370 6864",
+      "headline": "Book your free level chat",
+      "role": "cta"
+    }
+  ],
+  "status": "pending",
+  "warnings": [
+    "no verified real photo available; slides use the brand background",
+    "Reels location tag may not be applied through the API; place name is in the caption",
+    "no Facebook location ID yet (run Find location IDs)"
+  ]
+}

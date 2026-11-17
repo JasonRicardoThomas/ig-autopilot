@@ -1,0 +1,32 @@
+{
+  "last_published": null,
+  "mix_debt": {
+    "carousel": -0.1,
+    "reel": -0.19999999999999973,
+    "single": 0.3
+  },
+  "moment_posts": {},
+  "moment_week": {},
+  "pillar_debt": {
+    "business_english": 0.3846153846153848,
+    "city_life": -0.3076923076923076,
+    "consulting": -0.3076923076923076,
+    "english_tips": -0.07692307692307687,
+    "level_test": 0.46153846153846156,
+    "resources": -0.07692307692307687,
+    "writing": -0.07692307692307687
+  },
+  "region_debt": {
+    "madrid": 0.5,
+    "mexico_city": 0.0,
+    "seville": -0.5
+  },
+  "topic_used": {
+    "be_interrupt": "2026-11-18",
+    "cl_lunch": "2026-11-19",
+    "co_programme": "2026-11-19",
+    "et_used_to": "2026-11-19",
+    "re_news_class": "2026-11-18",
+    "wr_first_line": "2026-11-18"
+  }
+}
