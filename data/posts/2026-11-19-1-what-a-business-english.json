@@ -22,27 +22,19 @@
   "scheduled_for": "2026-11-19T19:00:00+00:00",
   "slides": [
     {
-      "body": "Four things to look for before you commit to any course.",
-      "headline": "What a Business English programme needs",
-      "role": "cover"
+      "headline": "What a Business English programme needs"
     },
     {
-      "body": "A level test replaces guessing. Then goals attach to real situations: the quarterly review, the client call, the presentation you dread.",
-      "headline": "Start with a test, aim at meetings",
-      "role": "body"
+      "headline": "Start with a test, aim at meetings"
     },
     {
-      "body": "Practise on your own emails, decks and reports. Then check progress against clear markers, not a feeling that you're improving.",
-      "headline": "Use your documents, measure progress",
-      "role": "body"
+      "headline": "Use your documents, measure progress"
     },
     {
-      "body": "Business English consulting for professionals in Mexico City, Madrid and Seville.",
-      "headline": "Built around your work",
-      "role": "cta"
+      "headline": "Built around your work"
     }
   ],
-  "status": "pending",
+  "status": "approved",
   "warnings": [
     "Reels location tag may not be applied through the API; place name is in the caption",
     "no Facebook location ID yet (run Find location IDs)"
