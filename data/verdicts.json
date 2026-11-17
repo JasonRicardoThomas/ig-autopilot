@@ -102,6 +102,25 @@
     "source_key": "unsplash-Hx-4TbpsoIw",
     "stage": "claude"
   },
+  "unsplash-I-YvZzFmxVk": {
+    "alt": "Several men sit around a long wooden conference table in a plain meeting room, with one man in a cap gesturing as he speaks while others listen.",
+    "categories": [
+      "people",
+      "work"
+    ],
+    "city": "unknown",
+    "confidence": 0.6,
+    "country": "unknown",
+    "generic_scene": true,
+    "has_text_or_logo": false,
+    "is_drawing_or_graphic": false,
+    "is_photograph": true,
+    "people_present": true,
+    "place": "meeting room",
+    "season": "any",
+    "source_key": "unsplash-I-YvZzFmxVk",
+    "stage": "claude"
+  },
   "unsplash-JWuMQZlLygk": {
     "alt": "Golden-hour view down a tree-lined street toward a Baroque church with twin bell towers and a tiled dome, with a DMX bus and pedestrians in the foreground and purple jacaranda trees in bloom.",
     "categories": [

@@ -1,4 +1,16 @@
 {
+  "campo_grande_valladolid": {
+    "id": null,
+    "name": "Campo Grande, Valladolid"
+  },
+  "casco_viejo_bilbao": {
+    "id": null,
+    "name": "Casco Viejo, Bilbao"
+  },
+  "catedral_palma": {
+    "id": null,
+    "name": "Catedral de Mallorca, Palma"
+  },
   "centro_cdmx": {
     "id": null,
     "name": "Centro Histórico, Mexico City"
@@ -7,17 +19,69 @@
     "id": null,
     "name": "Bosque de Chapultepec"
   },
+  "eixample_barcelona": {
+    "id": null,
+    "name": "Eixample, Barcelona"
+  },
+  "escultura_valladolid": {
+    "id": null,
+    "name": "Museo Nacional de Escultura, Valladolid"
+  },
+  "gothic_barcelona": {
+    "id": null,
+    "name": "Barri Gòtic, Barcelona"
+  },
   "granvia_madrid": {
     "id": null,
     "name": "Gran Vía, Madrid"
+  },
+  "guggenheim_bilbao": {
+    "id": null,
+    "name": "Guggenheim Museum Bilbao"
+  },
+  "la_concha_san_sebastian": {
+    "id": null,
+    "name": "La Concha, San Sebastián"
+  },
+  "lomas_chapultepec_cdmx": {
+    "id": null,
+    "name": "Lomas de Chapultepec, Mexico City"
+  },
+  "magdalena_santander": {
+    "id": null,
+    "name": "Palacio de la Magdalena, Santander"
+  },
+  "obradoiro_santiago": {
+    "id": null,
+    "name": "Praza do Obradoiro, Santiago de Compostela"
+  },
+  "paseo_maritimo_palma": {
+    "id": null,
+    "name": "Paseo Marítimo, Palma"
+  },
+  "passeig_gracia_barcelona": {
+    "id": null,
+    "name": "Passeig de Gràcia, Barcelona"
+  },
+  "pereda_santander": {
+    "id": null,
+    "name": "Paseo de Pereda, Santander"
   },
   "plaza_espana_seville": {
     "id": null,
     "name": "Plaza de España, Seville"
   },
+  "plaza_mayor_valladolid": {
+    "id": null,
+    "name": "Plaza Mayor, Valladolid"
+  },
   "polanco_cdmx": {
     "id": null,
     "name": "Polanco, Mexico City"
+  },
+  "reforma_cdmx": {
+    "id": null,
+    "name": "Paseo de la Reforma, Mexico City"
   },
   "retiro_madrid": {
     "id": null,
@@ -27,13 +91,33 @@
     "id": null,
     "name": "Roma Norte, Mexico City"
   },
+  "rua_franco_santiago": {
+    "id": null,
+    "name": "Rúa do Franco, Santiago de Compostela"
+  },
   "salamanca_madrid": {
     "id": null,
     "name": "Barrio de Salamanca, Madrid"
   },
+  "santa_catalina_palma": {
+    "id": null,
+    "name": "Santa Catalina, Palma"
+  },
   "santa_cruz_seville": {
     "id": null,
     "name": "Barrio Santa Cruz, Seville"
+  },
+  "santa_fe_cdmx": {
+    "id": null,
+    "name": "Santa Fe, Mexico City"
+  },
+  "sardinero_santander": {
+    "id": null,
+    "name": "El Sardinero, Santander"
+  },
+  "torre_hercules_coruna": {
+    "id": null,
+    "name": "Torre de Hércules, A Coruña"
   },
   "triana_seville": {
     "id": null,
