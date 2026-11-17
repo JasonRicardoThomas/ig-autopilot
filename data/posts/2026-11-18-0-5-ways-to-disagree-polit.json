@@ -22,32 +22,22 @@
   "scheduled_for": "2026-11-18T14:30:00+00:00",
   "slides": [
     {
-      "body": "",
-      "headline": "5 ways to disagree politely in meetings",
-      "role": "cover"
+      "headline": "5 ways to disagree politely in meetings"
     },
     {
-      "body": "\"I see your point, however…\"",
-      "headline": "1",
-      "role": "body"
+      "headline": "1"
     },
     {
-      "body": "\"Could we look at this from another angle?\"",
-      "headline": "2",
-      "role": "body"
+      "headline": "2"
     },
     {
-      "body": "\"I'd like to offer a different perspective.\"",
-      "headline": "3",
-      "role": "body"
+      "headline": "3"
     },
     {
-      "body": "WhatsApp +52 1 55 1370 6864",
-      "headline": "Book your free level chat",
-      "role": "cta"
+      "headline": "Book your free level chat"
     }
   ],
-  "status": "pending",
+  "status": "approved",
   "warnings": [
     "Reels location tag may not be applied through the API; place name is in the caption",
     "no Facebook location ID yet (run Find location IDs)"
