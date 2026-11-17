@@ -1,0 +1,42 @@
+{
+  "centro_cdmx": {
+    "id": null,
+    "name": "Centro Histórico, Mexico City"
+  },
+  "chapultepec_cdmx": {
+    "id": null,
+    "name": "Bosque de Chapultepec"
+  },
+  "granvia_madrid": {
+    "id": null,
+    "name": "Gran Vía, Madrid"
+  },
+  "plaza_espana_seville": {
+    "id": null,
+    "name": "Plaza de España, Seville"
+  },
+  "polanco_cdmx": {
+    "id": null,
+    "name": "Polanco, Mexico City"
+  },
+  "retiro_madrid": {
+    "id": null,
+    "name": "Parque del Retiro, Madrid"
+  },
+  "roma_condesa_cdmx": {
+    "id": null,
+    "name": "Roma Norte, Mexico City"
+  },
+  "salamanca_madrid": {
+    "id": null,
+    "name": "Barrio de Salamanca, Madrid"
+  },
+  "santa_cruz_seville": {
+    "id": null,
+    "name": "Barrio Santa Cruz, Seville"
+  },
+  "triana_seville": {
+    "id": null,
+    "name": "Triana, Seville"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "photos": {
+    "unsplash-alw-CwGFmwQ": {
+      "alt": "Two men in business attire look at a smartphone together in a bright modern meeting room with large windows and a long wooden conference table.",
+      "attribution_required": false,
+      "categories": [
+        "people",
+        "work"
+      ],
+      "city": null,
+      "country": null,
+      "credit": "Muhammad Faiz Zulkeflee / Unsplash",
+      "generic_ok": true,
+      "id": "unsplash-alw-CwGFmwQ",
+      "license": "Unsplash License",
+      "origin": "unsplash",
+      "people_present": true,
+      "place": "modern office meeting room",
+      "season": "any",
+      "url": "https://images.unsplash.com/photo-1577415124269-fc1140a69e91?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTM2NDAwfDB8MXxzZWFyY2h8M3x8YnVzaW5lc3MlMjBtZWV0aW5nJTIwcHJvZmVzc2lvbmFsc3xlbnwwfDF8fHwxNzk0ODk2NzA4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "verified": true
+    },
+    "unsplash-rRWiVQzLm7k": {
+      "alt": "A woman with her hair in a bun, seen from behind in a dark green shirt, talks with a man in a gray t-shirt beside a whiteboard in a warmly lit indoor workspace, with a plastic cup with a red straw on the table.",
+      "attribution_required": false,
+      "categories": [
+        "people",
+        "work"
+      ],
+      "city": null,
+      "country": null,
+      "credit": "charlesdeluvio / Unsplash",
+      "generic_ok": true,
+      "id": "unsplash-rRWiVQzLm7k",
+      "license": "Unsplash License",
+      "origin": "unsplash",
+      "people_present": true,
+      "place": null,
+      "season": "any",
+      "url": "https://images.unsplash.com/photo-1511376979163-f804dff7ad7b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTM2NDAwfDB8MXxzZWFyY2h8MXx8YnVzaW5lc3MlMjBtZWV0aW5nJTIwcHJvZmVzc2lvbmFsc3xlbnwwfDF8fHwxNzk0ODk2NzA4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "verified": true
+    }
+  }
+}
