@@ -1,22 +1,22 @@
 {
-  "alt_text": "Photo in Triana, Seville. Text on the image: Write a stronger first line",
+  "alt_text": "Visitors walk across the tiled plaza of Seville's Plaza de España, with its brick Renaissance Revival palace, tall tower, fountain, and canal under a clear blue sky. in Barrio Santa Cruz, Seville. Text on the image: Write a stronger first line",
   "attempts": 0,
-  "caption": "Write a stronger first line. • Start in the middle of the action.\n• Make one specific promise.\n• Cut warm-up sentences.\n• Read it aloud: does it pull you in?\n\n#escribir #writingcommunity #writingtips #sevilla #growingconnections\n\nBook a free 15-min level chat: WhatsApp +52 1 55 1370 6864 or livinwithme.net/custom-offers\nReserva tu llamada gratis de nivel: WhatsApp +52 1 55 1370 6864",
+  "caption": "Write a stronger first line. • Start in the middle of the action.\n• Make one specific promise.\n• Cut warm-up sentences.\n• Read it aloud: does it pull you in?\n\n#writingcommunity #writingtips #creativewriting #sevilla #growingconnections\n\nBook a free 15-min level chat: WhatsApp +52 1 55 1370 6864 or livinwithme.net/custom-offers\nReserva tu llamada gratis de nivel: WhatsApp +52 1 55 1370 6864",
   "cover_path": "posts/2026-11-18-1-write-a-stronger-first-l/cover.jpg",
-  "created": "2026-11-17T06:34:49.753911+00:00",
+  "created": "2026-11-17T06:44:25.407165+00:00",
   "date": "2026-11-18",
   "headline": "Write a stronger first line",
   "id": "2026-11-18-1-write-a-stronger-first-l",
   "kind": "reel",
   "location_id": null,
-  "location_name": "Triana, Seville",
+  "location_name": "Barrio Santa Cruz, Seville",
   "media": [
     "posts/2026-11-18-1-write-a-stronger-first-l/reel.mp4",
     "posts/2026-11-18-1-write-a-stronger-first-l/cover.jpg"
   ],
   "moment": null,
-  "photo": null,
-  "photo_credit": null,
+  "photo": "unsplash-vpgx4xHLtE4",
+  "photo_credit": "Klaudia Piaskowska / Unsplash",
   "pillar": "writing",
   "region": "seville",
   "scheduled_for": "2026-11-18T19:00:00+00:00",
@@ -44,7 +44,6 @@
   ],
   "status": "pending",
   "warnings": [
-    "no verified real photo available; slides use the brand background",
     "Reels location tag may not be applied through the API; place name is in the caption",
     "no Facebook location ID yet (run Find location IDs)"
   ]

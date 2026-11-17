@@ -1,0 +1,50 @@
+{
+  "alt_text": "An open blank notebook, a closed-screen laptop, and a glass of water sit on a light wooden desk in a bright room near a window. in Barrio de Salamanca, Madrid. Text on the image: Free lesson plans for English teachers",
+  "attempts": 0,
+  "caption": "Free lesson plans for English teachers. • Real news and video, ready to teach.\n• Student worksheet + slides + teacher plan.\n• Levels A2 to C1.\n• New plans on the blog every week.\n\n#eslteacher #tefl #teachingresources #madrid #growingconnections\n\nBook a free 15-min level chat: WhatsApp +52 1 55 1370 6864 or livinwithme.net/custom-offers\nReserva tu llamada gratis de nivel: WhatsApp +52 1 55 1370 6864",
+  "created": "2026-11-17T06:44:45.143173+00:00",
+  "date": "2026-11-18",
+  "headline": "Free lesson plans for English teachers",
+  "id": "2026-11-18-2-free-lesson-plans-for-en",
+  "kind": "carousel",
+  "location_id": null,
+  "location_name": "Barrio de Salamanca, Madrid",
+  "media": [
+    "posts/2026-11-18-2-free-lesson-plans-for-en/slide_1.jpg",
+    "posts/2026-11-18-2-free-lesson-plans-for-en/slide_2.jpg",
+    "posts/2026-11-18-2-free-lesson-plans-for-en/slide_3.jpg",
+    "posts/2026-11-18-2-free-lesson-plans-for-en/slide_4.jpg"
+  ],
+  "moment": null,
+  "photo": "unsplash-WDg7DlQmfhg",
+  "photo_credit": "Marissa Grootes / Unsplash",
+  "pillar": "resources",
+  "region": "madrid",
+  "scheduled_for": "2026-11-19T01:00:00+00:00",
+  "slides": [
+    {
+      "body": "",
+      "headline": "Free lesson plans for English teachers",
+      "role": "cover"
+    },
+    {
+      "body": "Real news and video, ready to teach.",
+      "headline": "1",
+      "role": "body"
+    },
+    {
+      "body": "Student worksheet + slides + teacher plan.",
+      "headline": "2",
+      "role": "body"
+    },
+    {
+      "body": "WhatsApp +52 1 55 1370 6864",
+      "headline": "Book your free level chat",
+      "role": "cta"
+    }
+  ],
+  "status": "pending",
+  "warnings": [
+    "no Facebook location ID yet (run Find location IDs)"
+  ]
+}
