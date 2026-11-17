@@ -22,32 +22,22 @@
   "scheduled_for": "2026-11-20T01:00:00+00:00",
   "slides": [
     {
-      "body": "",
-      "headline": "The English you need for a business lunch in Seville",
-      "role": "cover"
+      "headline": "The English you need for a business lunch in Seville"
     },
     {
-      "body": "Recommend a dish with confidence.",
-      "headline": "1",
-      "role": "body"
+      "headline": "1"
     },
     {
-      "body": "Move from small talk to business.",
-      "headline": "2",
-      "role": "body"
+      "headline": "2"
     },
     {
-      "body": "Pay the bill gracefully.",
-      "headline": "3",
-      "role": "body"
+      "headline": "3"
     },
     {
-      "body": "WhatsApp +52 1 55 1370 6864",
-      "headline": "Book your free level chat",
-      "role": "cta"
+      "headline": "Book your free level chat"
     }
   ],
-  "status": "pending",
+  "status": "approved",
   "warnings": [
     "Reels location tag may not be applied through the API; place name is in the caption",
     "no Facebook location ID yet (run Find location IDs)"
