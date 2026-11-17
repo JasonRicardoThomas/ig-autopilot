@@ -1,0 +1,21 @@
+name: Reset everything
+on:
+  workflow_dispatch:
+    inputs:
+      confirm: {description: 'Type RESET to confirm', required: true}
+      wipe_index: {description: 'Also forget the photo library and verdicts', type: boolean, default: false}
+concurrency: {group: autopilot-data, cancel-in-progress: false}
+permissions: {contents: write}
+jobs:
+  reset:
+    if: ${{ github.event.inputs.confirm == 'RESET' }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with: {fetch-depth: 0}
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.12", cache: pip}
+      - run: pip install -r requirements.txt
+      - run: pip install -e . 2>/dev/null || echo "PYTHONPATH=src" >> $GITHUB_ENV
+      - run: PYTHONPATH=src python -m autopilot reset ${{ github.event.inputs.wipe_index == 'true' && '--wipe-index' || '' }}
+      - run: ./scripts/commit.sh "reset autopilot"

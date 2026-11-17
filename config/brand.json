@@ -1,0 +1,16 @@
+{
+  "name": "Our Days & Futures",
+  "handle": "@growing.connections",
+  "tagline": "Growing Connections",
+  "website": "https://livinwithme.net",
+  "booking_url": "https://livinwithme.net/custom-offers/",
+  "level_test_url": "https://livinwithme.net/business-english-level-test/",
+  "lessons_url": "https://livinwithme.net/category/esl-lessons/",
+  "whatsapp_display": "+52 1 55 1370 6864",
+  "whatsapp_url": "https://wa.me/5215513706864",
+  "brand_hashtag": "#growingconnections",
+  "colors": {"ink": "#0A1525", "teal": "#00838F", "gold": "#D4A017", "cream": "#F6F1E1", "white": "#FFFFFF"},
+  "cta_en": "Book a free 15-min level chat: WhatsApp +52 1 55 1370 6864 or livinwithme.net/custom-offers",
+  "cta_es": "Reserva tu llamada gratis de nivel: WhatsApp +52 1 55 1370 6864",
+  "booking_card": {"headline": "Book your free level chat", "sub": "WhatsApp +52 1 55 1370 6864", "url": "livinwithme.net/custom-offers"}
+}

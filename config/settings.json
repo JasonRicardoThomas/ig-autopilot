@@ -1,0 +1,28 @@
+{
+  "timezone": "America/Mexico_City",
+  "posts_per_day": 3,
+  "mix": {"reel": 0.8, "carousel": 0.15, "single": 0.05},
+  "moments_per_week": 2,
+  "moment_weekdays": [1, 4],
+  "max_hashtags": 5,
+  "no_reuse_days": 90,
+  "post_times_local": ["08:30", "13:00", "19:00"],
+  "min_gap_minutes": 90,
+  "allowed_countries": ["Mexico", "Spain"],
+  "require_verified_country": "place_posts",
+  "min_vision_confidence": 0.7,
+  "max_vision_calls_per_run": 25,
+  "text_model": "claude-sonnet-5-5",
+  "vision_model": "claude-haiku-5-5",
+  "media_branch": "media",
+  "media_bases": [
+    "https://cdn.jsdelivr.net/gh/{repo}@{branch}",
+    "https://raw.githubusercontent.com/{repo}/{branch}"
+  ],
+  "webhook_retries": 3,
+  "max_publish_attempts": 3,
+  "drive_folder_id_env": "DRIVE_FOLDER_ID",
+  "carousel_sizes": [4, 5, 6],
+  "reel_frames": [4, 5],
+  "caption_max_chars": 2200
+}

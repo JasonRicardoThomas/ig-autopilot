@@ -1,0 +1,493 @@
+[
+ {
+  "id": "new_year_goals",
+  "name": "New Year goals",
+  "start": "01-01",
+  "end": "01-15",
+  "lead_days": 5,
+  "priority": 4,
+  "campaign": true,
+  "hook": "New year, new English goals",
+  "photo_themes": [
+   "people",
+   "study",
+   "city"
+  ],
+  "regions": [
+   "all"
+  ]
+ },
+ {
+  "id": "reyes",
+  "name": "Día de Reyes",
+  "start": "01-06",
+  "end": "01-06",
+  "lead_days": 4,
+  "priority": 2,
+  "hook": "Día de Reyes: a gift that lasts is learning",
+  "photo_themes": [
+   "culture",
+   "food",
+   "people"
+  ],
+  "regions": [
+   "mexico_city",
+   "madrid",
+   "seville"
+  ]
+ },
+ {
+  "id": "valentine",
+  "name": "Amor y Amistad",
+  "start": "02-14",
+  "end": "02-14",
+  "lead_days": 3,
+  "priority": 1,
+  "hook": "Learn with someone you care about",
+  "photo_themes": [
+   "people",
+   "cafe"
+  ],
+  "regions": [
+   "all"
+  ]
+ },
+ {
+  "id": "mother_language",
+  "name": "International Mother Language Day",
+  "start": "02-21",
+  "end": "02-21",
+  "lead_days": 3,
+  "priority": 2,
+  "hook": "Your language is a bridge, not a wall",
+  "photo_themes": [
+   "books",
+   "people",
+   "culture"
+  ],
+  "regions": [
+   "all"
+  ]
+ },
+ {
+  "id": "womens_day",
+  "name": "International Women's Day",
+  "start": "03-08",
+  "end": "03-08",
+  "lead_days": 3,
+  "priority": 3,
+  "hook": "Women who write, teach and lead",
+  "photo_themes": [
+   "people",
+   "work",
+   "books"
+  ],
+  "regions": [
+   "all"
+  ]
+ },
+ {
+  "id": "semana_santa",
+  "name": "Semana Santa",
+  "dates": [
+   [
+    "2026-03-29",
+    "2026-04-05"
+   ],
+   [
+    "2027-03-21",
+    "2027-03-28"
+   ]
+  ],
+  "lead_days": 4,
+  "priority": 2,
+  "hook": "Slow week, big reading list",
+  "photo_themes": [
+   "culture",
+   "city",
+   "architecture"
+  ],
+  "regions": [
+   "mexico_city",
+   "madrid",
+   "seville"
+  ]
+ },
+ {
+  "id": "feria_sevilla",
+  "name": "Feria de Abril (Seville)",
+  "dates": [
+   [
+    "2026-04-21",
+    "2026-04-26"
+   ],
+   [
+    "2027-04-13",
+    "2027-04-18"
+   ]
+  ],
+  "approx": true,
+  "lead_days": 5,
+  "priority": 3,
+  "hook": "Feria season: tell your story in English",
+  "photo_themes": [
+   "culture",
+   "events",
+   "people"
+  ],
+  "regions": [
+   "seville"
+  ]
+ },
+ {
+  "id": "book_day",
+  "name": "World Book Day & Cervantes Prize",
+  "start": "04-23",
+  "end": "04-23",
+  "lead_days": 5,
+  "priority": 4,
+  "hook": "Book Day: read one page in English today",
+  "photo_themes": [
+   "books",
+   "writing",
+   "cafe"
+  ],
+  "regions": [
+   "all"
+  ]
+ },
+ {
+  "id": "mothers_day_mx",
+  "name": "Día de las Madres (Mexico)",
+  "start": "05-10",
+  "end": "05-10",
+  "lead_days": 3,
+  "priority": 1,
+  "hook": "Learning is a gift for the whole family",
+  "photo_themes": [
+   "people",
+   "food"
+  ],
+  "regions": [
+   "mexico_city"
+  ]
+ },
+ {
+  "id": "teachers_day_mx",
+  "name": "Día del Maestro (Mexico)",
+  "start": "05-15",
+  "end": "05-15",
+  "lead_days": 4,
+  "priority": 4,
+  "hook": "Thank a teacher who changed your English",
+  "photo_themes": [
+   "classroom",
+   "people",
+   "study"
+  ],
+  "regions": [
+   "mexico_city"
+  ]
+ },
+ {
+  "id": "san_isidro",
+  "name": "San Isidro (Madrid)",
+  "start": "05-15",
+  "end": "05-15",
+  "lead_days": 3,
+  "priority": 2,
+  "hook": "Madrid in May: perfect for meeting new people",
+  "photo_themes": [
+   "culture",
+   "events",
+   "city"
+  ],
+  "regions": [
+   "madrid"
+  ]
+ },
+ {
+  "id": "hot_sale",
+  "name": "Hot Sale (Mexico)",
+  "start": "05-25",
+  "end": "06-02",
+  "approx": true,
+  "lead_days": 5,
+  "priority": 3,
+  "campaign": true,
+  "hook": "Invest in a skill, not just a discount",
+  "photo_themes": [
+   "work",
+   "study"
+  ],
+  "regions": [
+   "mexico_city"
+  ]
+ },
+ {
+  "id": "feria_libro_madrid",
+  "name": "Feria del Libro de Madrid",
+  "start": "05-29",
+  "end": "06-14",
+  "approx": true,
+  "lead_days": 5,
+  "priority": 3,
+  "hook": "Book fair season: build your reading habit",
+  "photo_themes": [
+   "books",
+   "events",
+   "city"
+  ],
+  "regions": [
+   "madrid"
+  ]
+ },
+ {
+  "id": "exam_season",
+  "name": "Exams & graduation season",
+  "start": "06-01",
+  "end": "07-15",
+  "lead_days": 0,
+  "priority": 2,
+  "campaign": true,
+  "hook": "Finish strong: exam-day English",
+  "photo_themes": [
+   "study",
+   "people",
+   "classroom"
+  ],
+  "regions": [
+   "all"
+  ]
+ },
+ {
+  "id": "summer_start",
+  "name": "Summer begins",
+  "start": "06-21",
+  "end": "06-21",
+  "lead_days": 3,
+  "priority": 1,
+  "hook": "Summer plan: 15 minutes of English a day",
+  "photo_themes": [
+   "city",
+   "cafe",
+   "nature"
+  ],
+  "regions": [
+   "all"
+  ]
+ },
+ {
+  "id": "back_to_school",
+  "name": "Back to school",
+  "start": "08-24",
+  "end": "09-14",
+  "lead_days": 7,
+  "priority": 4,
+  "campaign": true,
+  "hook": "Back to school: set your English goal",
+  "photo_themes": [
+   "study",
+   "classroom",
+   "people"
+  ],
+  "regions": [
+   "all"
+  ]
+ },
+ {
+  "id": "literacy_day",
+  "name": "International Literacy Day",
+  "start": "09-08",
+  "end": "09-08",
+  "lead_days": 3,
+  "priority": 3,
+  "hook": "Literacy opens doors in every language",
+  "photo_themes": [
+   "books",
+   "classroom"
+  ],
+  "regions": [
+   "all"
+  ]
+ },
+ {
+  "id": "independence_mx",
+  "name": "Fiestas Patrias (Mexico)",
+  "start": "09-15",
+  "end": "09-16",
+  "lead_days": 3,
+  "priority": 2,
+  "hook": "¡Viva México! Say it in English too",
+  "photo_themes": [
+   "culture",
+   "city",
+   "events"
+  ],
+  "regions": [
+   "mexico_city"
+  ]
+ },
+ {
+  "id": "teachers_day",
+  "name": "World Teachers' Day",
+  "start": "10-05",
+  "end": "10-05",
+  "lead_days": 4,
+  "priority": 4,
+  "hook": "Teachers shape futures",
+  "photo_themes": [
+   "classroom",
+   "people"
+  ],
+  "regions": [
+   "all"
+  ]
+ },
+ {
+  "id": "hispanidad",
+  "name": "Fiesta Nacional de España",
+  "start": "10-12",
+  "end": "10-12",
+  "lead_days": 2,
+  "priority": 1,
+  "hook": "Two languages, many opportunities",
+  "photo_themes": [
+   "culture",
+   "city"
+  ],
+  "regions": [
+   "madrid",
+   "seville"
+  ]
+ },
+ {
+  "id": "dia_muertos",
+  "name": "Día de Muertos",
+  "start": "11-01",
+  "end": "11-02",
+  "lead_days": 5,
+  "priority": 4,
+  "hook": "Stories that outlive us: write one",
+  "photo_themes": [
+   "culture",
+   "events",
+   "people"
+  ],
+  "regions": [
+   "mexico_city"
+  ]
+ },
+ {
+  "id": "buen_fin",
+  "name": "El Buen Fin (Mexico)",
+  "start": "11-13",
+  "end": "11-17",
+  "approx": true,
+  "lead_days": 5,
+  "priority": 3,
+  "campaign": true,
+  "hook": "The best deal: a skill you keep",
+  "photo_themes": [
+   "work",
+   "study"
+  ],
+  "regions": [
+   "mexico_city"
+  ]
+ },
+ {
+  "id": "fil_guadalajara",
+  "name": "FIL Guadalajara (book fair)",
+  "start": "11-28",
+  "end": "12-06",
+  "approx": true,
+  "lead_days": 4,
+  "priority": 2,
+  "hook": "Book fair week: what are you reading?",
+  "photo_themes": [
+   "books",
+   "events"
+  ],
+  "regions": [
+   "mexico_city"
+  ]
+ },
+ {
+  "id": "black_friday",
+  "name": "Black Friday / Cyber Monday",
+  "rule": {
+   "type": "nth_weekday",
+   "month": 11,
+   "weekday": 4,
+   "n": 4,
+   "before": 3,
+   "after": 3
+  },
+  "lead_days": 4,
+  "priority": 3,
+  "campaign": true,
+  "hook": "Skip the gadgets: gift a skill",
+  "photo_themes": [
+   "work",
+   "study"
+  ],
+  "regions": [
+   "all"
+  ]
+ },
+ {
+  "id": "constitucion_es",
+  "name": "Día de la Constitución (Spain)",
+  "start": "12-06",
+  "end": "12-06",
+  "lead_days": 2,
+  "priority": 1,
+  "hook": "A long weekend to learn something new",
+  "photo_themes": [
+   "city",
+   "culture"
+  ],
+  "regions": [
+   "madrid",
+   "seville"
+  ]
+ },
+ {
+  "id": "posadas",
+  "name": "Las Posadas & Christmas",
+  "start": "12-16",
+  "end": "12-26",
+  "lead_days": 10,
+  "priority": 5,
+  "campaign": true,
+  "hook": "Christmas English: the gift of confident conversation",
+  "photo_themes": [
+   "culture",
+   "food",
+   "people",
+   "events"
+  ],
+  "regions": [
+   "all"
+  ]
+ },
+ {
+  "id": "new_years_eve",
+  "name": "Nochevieja / New Year's Eve",
+  "start": "12-31",
+  "end": "12-31",
+  "lead_days": 3,
+  "priority": 3,
+  "campaign": true,
+  "hook": "Write your English goals before midnight",
+  "photo_themes": [
+   "people",
+   "events",
+   "city"
+  ],
+  "regions": [
+   "all"
+  ]
+ }
+]

@@ -1,0 +1,25 @@
+<!doctype html><html><head><meta charset="utf-8"><style>
+*{box-sizing:border-box;margin:0;padding:0}
+html,body{width:{{w}}px;height:{{h}}px;overflow:hidden;font-family:"DejaVu Sans",Helvetica,Arial,sans-serif}
+.bg{position:absolute;inset:0;background:{{ink}} {% if photo %}url("{{photo}}") center/cover{% endif %}}
+.shade{position:absolute;inset:0;background:linear-gradient(180deg,rgba(10,21,37,.55) 0%,rgba(10,21,37,.15) 35%,rgba(10,21,37,.88) 100%)}
+.cta .shade{background:{{ink}}}
+.safe{position:absolute;left:80px;right:80px;top:{{safe_top}}px;bottom:{{safe_bottom}}px;display:flex;flex-direction:column;justify-content:flex-end}
+.cover .safe{justify-content:flex-end}
+.tag{align-self:flex-start;background:{{gold}};color:{{ink}};font-weight:700;font-size:28px;letter-spacing:2px;padding:10px 22px;border-radius:40px;margin-bottom:28px}
+h1{color:{{white}};font-size:{{h1}}px;line-height:1.08;font-weight:800}
+p{color:{{cream}};font-size:44px;line-height:1.3;margin-top:28px}
+.num{color:{{gold}};font-size:120px;font-weight:800;line-height:1}
+.bar{height:8px;width:140px;background:{{teal}};margin:34px 0 0}
+.foot{position:absolute;left:80px;right:80px;bottom:{{foot_bottom}}px;display:flex;justify-content:space-between;color:{{cream}};font-size:26px;opacity:.9}
+.cta h1{color:{{gold}}}
+.cta .url{color:{{white}};font-size:40px;margin-top:30px}
+</style></head><body class="{{role}}">
+<div class="bg"></div><div class="shade"></div>
+<div class="safe">
+ {% if role=='cover' %}<div class="tag">{{tag}}</div><h1>{{headline}}</h1>{% if body %}<p>{{body}}</p>{% endif %}<div class="bar"></div>
+ {% elif role=='cta' %}<h1>{{headline}}</h1><p>{{body}}</p><div class="url">{{url}}</div><div class="bar"></div>
+ {% else %}<div class="num">{{headline}}</div><p style="font-size:54px;color:{{white}}">{{body}}</p><div class="bar"></div>{% endif %}
+</div>
+<div class="foot"><span>{{handle}}</span><span>{{index}}</span></div>
+</body></html>

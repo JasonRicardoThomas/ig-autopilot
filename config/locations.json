@@ -1,0 +1,12 @@
+{
+  "polanco_cdmx": {"name": "Polanco, Mexico City", "query": "Polanco Mexico City", "region": "mexico_city"},
+  "roma_condesa_cdmx": {"name": "Roma Norte, Mexico City", "query": "Roma Norte Mexico City", "region": "mexico_city"},
+  "chapultepec_cdmx": {"name": "Bosque de Chapultepec", "query": "Bosque de Chapultepec Mexico City", "region": "mexico_city"},
+  "centro_cdmx": {"name": "Centro Histórico, Mexico City", "query": "Centro Historico Mexico City", "region": "mexico_city"},
+  "salamanca_madrid": {"name": "Barrio de Salamanca, Madrid", "query": "Barrio de Salamanca Madrid", "region": "madrid"},
+  "retiro_madrid": {"name": "Parque del Retiro, Madrid", "query": "Parque del Retiro Madrid", "region": "madrid"},
+  "granvia_madrid": {"name": "Gran Vía, Madrid", "query": "Gran Via Madrid", "region": "madrid"},
+  "santa_cruz_seville": {"name": "Barrio Santa Cruz, Seville", "query": "Barrio Santa Cruz Sevilla", "region": "seville"},
+  "triana_seville": {"name": "Triana, Seville", "query": "Triana Sevilla", "region": "seville"},
+  "plaza_espana_seville": {"name": "Plaza de España, Seville", "query": "Plaza de Espana Sevilla", "region": "seville"}
+}

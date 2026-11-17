@@ -1,0 +1,405 @@
+[
+ {
+  "id": "business_english",
+  "name": "Business English",
+  "weight": 3,
+  "needs_place": false,
+  "categories": [
+   "work",
+   "people",
+   "city",
+   "study"
+  ],
+  "hashtags": [
+   "#businessenglish",
+   "#englishforwork",
+   "#inglesdenegocios",
+   "#learnenglishonline",
+   "#englishforprofessionals"
+  ],
+  "topics": [
+   {
+    "id": "be_disagree",
+    "title": "5 ways to disagree politely in meetings",
+    "points": [
+     "\"I see your point, however…\"",
+     "\"Could we look at this from another angle?\"",
+     "\"I'd like to offer a different perspective.\"",
+     "\"Let's revisit this once we have the numbers.\""
+    ]
+   },
+   {
+    "id": "be_email_openers",
+    "title": "Email openers that sound confident, not stiff",
+    "points": [
+     "\"I'm writing to confirm…\"",
+     "\"Following up on our call…\"",
+     "\"Just a quick note to flag…\"",
+     "\"Further to your message…\""
+    ]
+   },
+   {
+    "id": "be_negotiate",
+    "title": "Negotiation English: 4 softeners that keep deals alive",
+    "points": [
+     "\"We'd be open to…\"",
+     "\"Would it be possible to…?\"",
+     "\"If we could…, we'd be able to…\"",
+     "\"That might be difficult, but…\""
+    ]
+   },
+   {
+    "id": "be_numbers",
+    "title": "Talk about numbers like a pro",
+    "points": [
+     "Revenue rose by 12%.",
+     "Costs remained flat.",
+     "A slight dip in Q3.",
+     "Year-on-year growth of 8%."
+    ]
+   },
+   {
+    "id": "be_interrupt",
+    "title": "How to interrupt without sounding rude",
+    "points": [
+     "\"Sorry to jump in, but…\"",
+     "\"May I add something here?\"",
+     "\"Before we move on…\"",
+     "\"Can I just clarify one point?\""
+    ]
+   },
+   {
+    "id": "be_smalltalk",
+    "title": "Small talk that builds client trust",
+    "points": [
+     "Ask about their week, then listen.",
+     "\"How was the trip in?\"",
+     "\"What's keeping you busy these days?\"",
+     "Link small talk to the agenda."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "english_tips",
+  "name": "English tips",
+  "weight": 2,
+  "needs_place": false,
+  "categories": [
+   "study",
+   "books",
+   "people"
+  ],
+  "hashtags": [
+   "#learnenglish",
+   "#englishgrammar",
+   "#englishvocabulary",
+   "#aprenderingles",
+   "#englishtips"
+  ],
+  "topics": [
+   {
+    "id": "et_false_friends",
+    "title": "False friends: words that look Spanish but aren't",
+    "points": [
+     "embarazada ≠ embarrassed (pregnant)",
+     "actually ≠ actualmente (in fact)",
+     "library ≠ librería (biblioteca)",
+     "assist ≠ asistir (help)"
+    ]
+   },
+   {
+    "id": "et_make_do",
+    "title": "Make vs do: stop mixing them up",
+    "points": [
+     "make a decision, make progress",
+     "do the work, do research",
+     "make a mistake, do your best",
+     "make an effort, do a favour"
+    ]
+   },
+   {
+    "id": "et_used_to",
+    "title": "\"I'm used to working\" vs \"I used to work\"",
+    "points": [
+     "be used to + -ing = familiar with",
+     "used to + verb = a past habit",
+     "I'm used to working late.",
+     "I used to work late."
+    ]
+   },
+   {
+    "id": "et_ed_endings",
+    "title": "The three sounds of -ed endings",
+    "points": [
+     "/t/ after unvoiced sounds: worked",
+     "/d/ after voiced sounds: played",
+     "/ɪd/ after t or d: wanted",
+     "Say it out loud, then record yourself."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "writing",
+  "name": "Writing",
+  "weight": 2,
+  "needs_place": false,
+  "categories": [
+   "writing",
+   "books",
+   "cafe"
+  ],
+  "hashtags": [
+   "#writingtips",
+   "#writingcommunity",
+   "#amwriting",
+   "#creativewriting",
+   "#escribir"
+  ],
+  "topics": [
+   {
+    "id": "wr_first_line",
+    "title": "Write a stronger first line",
+    "points": [
+     "Start in the middle of the action.",
+     "Make one specific promise.",
+     "Cut warm-up sentences.",
+     "Read it aloud: does it pull you in?"
+    ]
+   },
+   {
+    "id": "wr_cut_20",
+    "title": "Cut 20% of your words",
+    "points": [
+     "Delete \"very\", \"really\", \"just\".",
+     "Replace weak verb + adverb with one strong verb.",
+     "Remove sentences that repeat.",
+     "Keep what changes the reader."
+    ]
+   },
+   {
+    "id": "wr_habit",
+    "title": "A 5-minute daily writing habit",
+    "points": [
+     "Same time, same place.",
+     "One prompt, five minutes.",
+     "Do not edit while you write.",
+     "Keep a streak, not a standard."
+    ]
+   },
+   {
+    "id": "wr_show",
+    "title": "Show, don't tell: three swaps",
+    "points": [
+     "\"She was nervous\" → her fingers tapped the table.",
+     "\"It was cold\" → breath fogged the glass.",
+     "\"He was tired\" → he read the same line twice.",
+     "Pick one detail the senses can check."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "resources",
+  "name": "Teaching resources",
+  "weight": 2,
+  "needs_place": false,
+  "categories": [
+   "classroom",
+   "study",
+   "books"
+  ],
+  "hashtags": [
+   "#eslteacher",
+   "#tefl",
+   "#teachingresources",
+   "#eslresources",
+   "#englishteacher"
+  ],
+  "topics": [
+   {
+    "id": "re_free_plans",
+    "title": "Free lesson plans for English teachers",
+    "points": [
+     "Real news and video, ready to teach.",
+     "Student worksheet + slides + teacher plan.",
+     "Levels A2 to C1.",
+     "New plans on the blog every week."
+    ]
+   },
+   {
+    "id": "re_news_class",
+    "title": "Turn a news article into a 45-minute speaking class",
+    "points": [
+     "Warm-up question from the topic.",
+     "Pre-teach 8 words.",
+     "Read or watch with a task.",
+     "Finish with a role-play."
+    ]
+   },
+   {
+    "id": "re_fact_claim",
+    "title": "Fact, claim or opinion? A B2+ skill",
+    "points": [
+     "Fact: can be checked.",
+     "Claim: someone says it is true.",
+     "Opinion: a personal view.",
+     "Label first, then discuss."
+    ]
+   },
+   {
+    "id": "re_warmups",
+    "title": "Warm-ups that work in 1-to-1 classes",
+    "points": [
+     "Two truths and a lie, at work.",
+     "\"Answer without thinking\" starters.",
+     "A photo and three questions.",
+     "One minute, no pauses."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "consulting",
+  "name": "Consulting",
+  "weight": 1.5,
+  "needs_place": false,
+  "categories": [
+   "work",
+   "people",
+   "city"
+  ],
+  "hashtags": [
+   "#corporatetraining",
+   "#languagetraining",
+   "#businesscommunication",
+   "#professionaldevelopment",
+   "#cursodeingles"
+  ],
+  "topics": [
+   {
+    "id": "co_programme",
+    "title": "What a Business English programme should include",
+    "points": [
+     "A level test, not a guess.",
+     "Goals tied to real meetings.",
+     "Practice with your own documents.",
+     "Progress you can measure."
+    ]
+   },
+   {
+    "id": "co_generic",
+    "title": "Why generic courses fail corporate teams",
+    "points": [
+     "They teach topics nobody uses.",
+     "No link to daily tasks.",
+     "No feedback on real emails.",
+     "Progress is never measured."
+    ]
+   },
+   {
+    "id": "co_curriculum",
+    "title": "Curriculum design and teacher training",
+    "points": [
+     "Map levels to job tasks.",
+     "Build units teachers can reuse.",
+     "Train teachers on the method.",
+     "Review results each quarter."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "city_life",
+  "name": "City life",
+  "weight": 1.5,
+  "needs_place": true,
+  "categories": [
+   "city",
+   "architecture",
+   "cafe",
+   "culture",
+   "people"
+  ],
+  "hashtags": [
+   "#expatlife",
+   "#workremote",
+   "#networking",
+   "#internationalbusiness",
+   "#englishspeaking"
+  ],
+  "topics": [
+   {
+    "id": "cl_lunch",
+    "title": "The English you need for a business lunch in {city}",
+    "points": [
+     "Recommend a dish with confidence.",
+     "Move from small talk to business.",
+     "Pay the bill gracefully.",
+     "Follow up the next morning."
+    ]
+   },
+   {
+    "id": "cl_cafe",
+    "title": "A writing hour in a {city} café",
+    "points": [
+     "Pick a corner and a time limit.",
+     "One scene, one email, one page.",
+     "Notebook first, screen later.",
+     "Write about the room you are in."
+    ]
+   },
+   {
+    "id": "cl_intro",
+    "title": "Introduce yourself at a {city} networking event",
+    "points": [
+     "Name, role, one clear result.",
+     "Ask one open question.",
+     "Offer something useful.",
+     "Exchange contacts, then follow up."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "level_test",
+  "name": "Free level test",
+  "weight": 1,
+  "needs_place": false,
+  "categories": [
+   "study",
+   "people",
+   "work"
+  ],
+  "hashtags": [
+   "#englishtest",
+   "#englishlevel",
+   "#cefr",
+   "#nivelingles",
+   "#learnenglish"
+  ],
+  "topics": [
+   {
+    "id": "lt_find",
+    "title": "Find your Business English level in 15 minutes",
+    "points": [
+     "Free, online, no sign-up first.",
+     "Covers grammar, vocabulary and reading.",
+     "You get a CEFR level and next steps.",
+     "Then book a free chat."
+    ]
+   },
+   {
+    "id": "lt_levels",
+    "title": "A1 to C1: what each level can do at work",
+    "points": [
+     "A2: simple emails and small talk.",
+     "B1: handle most meetings.",
+     "B2: negotiate and present.",
+     "C1: lead in English."
+    ]
+   }
+  ]
+ }
+]
