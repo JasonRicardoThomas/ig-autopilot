@@ -1,5 +1,72 @@
 {
   "photos": {
+    "unsplash-L0MTvo-s5TU": {
+      "alt": "A blue-and-white azulejo ceramic urn in the foreground frames the brick Renaissance Revival tower of Seville's Plaza de España under a partly cloudy sky, with a few people walking near the arches.",
+      "attribution_required": false,
+      "categories": [
+        "city",
+        "architecture",
+        "attractions",
+        "culture",
+        "people"
+      ],
+      "city": "Seville",
+      "country": "Spain",
+      "credit": "Freysteinn G. Jonsson / Unsplash",
+      "generic_ok": false,
+      "id": "unsplash-L0MTvo-s5TU",
+      "license": "Unsplash License",
+      "origin": "unsplash",
+      "people_present": true,
+      "place": "Plaza de España",
+      "season": "any",
+      "url": "https://images.unsplash.com/photo-1658096719610-93a52614c495?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTM2NDAwfDB8MXxzZWFyY2h8M3x8U2V2aWxsZSUyMHBsYXphfGVufDB8MXx8fDE3OTQ4OTc3MjF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "verified": true
+    },
+    "unsplash-QsusPXj3f54": {
+      "alt": "Visitors stroll across the tiled plaza in front of the ornate brick Renaissance Revival arcades and towers of Seville's Plaza de España under a clear blue sky.",
+      "attribution_required": false,
+      "categories": [
+        "city",
+        "architecture",
+        "attractions",
+        "people"
+      ],
+      "city": "Seville",
+      "country": "Spain",
+      "credit": "Gary Ruiz / Unsplash",
+      "generic_ok": false,
+      "id": "unsplash-QsusPXj3f54",
+      "license": "Unsplash License",
+      "origin": "unsplash",
+      "people_present": true,
+      "place": "Plaza de España",
+      "season": "winter",
+      "url": "https://images.unsplash.com/photo-1704825466346-3cdb6be7727d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTM2NDAwfDB8MXxzZWFyY2h8Mnx8U2V2aWxsZSUyMHBsYXphfGVufDB8MXx8fDE3OTQ4OTc3MjF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "verified": true
+    },
+    "unsplash-WDg7DlQmfhg": {
+      "alt": "An open blank notebook, a closed-screen laptop, and a glass of water sit on a light wooden desk in a bright room near a window.",
+      "attribution_required": false,
+      "categories": [
+        "work",
+        "writing",
+        "books",
+        "study"
+      ],
+      "city": null,
+      "country": null,
+      "credit": "Marissa Grootes / Unsplash",
+      "generic_ok": true,
+      "id": "unsplash-WDg7DlQmfhg",
+      "license": "Unsplash License",
+      "origin": "unsplash",
+      "people_present": false,
+      "place": "indoor desk by a window",
+      "season": "any",
+      "url": "https://images.unsplash.com/photo-1554325139-bbd006cd3e5a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTM2NDAwfDB8MXxzZWFyY2h8MXx8b3BlbiUyMGJvb2slMjBkZXNrfGVufDB8MXx8fDE3OTQ4OTc2MzZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "verified": true
+    },
     "unsplash-alw-CwGFmwQ": {
       "alt": "Two men in business attire look at a smartphone together in a bright modern meeting room with large windows and a long wooden conference table.",
       "attribution_required": false,
@@ -20,6 +87,68 @@
       "url": "https://images.unsplash.com/photo-1577415124269-fc1140a69e91?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTM2NDAwfDB8MXxzZWFyY2h8M3x8YnVzaW5lc3MlMjBtZWV0aW5nJTIwcHJvZmVzc2lvbmFsc3xlbnwwfDF8fHwxNzk0ODk2NzA4fDA&ixlib=rb-4.1.0&q=80&w=1080",
       "verified": true
     },
+    "unsplash-d5vpK2XFF5E": {
+      "alt": "Ornate cream-stone Beaux-Arts facade of the Palacio de Cibeles in Madrid under a bright blue sky, with a Spanish flag flying from the roofline.",
+      "attribution_required": false,
+      "categories": [
+        "city",
+        "architecture",
+        "attractions"
+      ],
+      "city": "Madrid",
+      "country": "Spain",
+      "credit": "Álvaro Bernal / Unsplash",
+      "generic_ok": false,
+      "id": "unsplash-d5vpK2XFF5E",
+      "license": "Unsplash License",
+      "origin": "unsplash",
+      "people_present": false,
+      "place": "Palacio de Cibeles (Palacio de Comunicaciones), Plaza de Cibeles",
+      "season": "any",
+      "url": "https://images.unsplash.com/photo-1574556462575-eb106a5865a0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTM2NDAwfDB8MXxzZWFyY2h8Mnx8TWFkcmlkJTIwYXJjaGl0ZWN0dXJlfGVufDB8MXx8fDE3OTQ4OTc3MDJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "verified": true
+    },
+    "unsplash-e5j8v-a35GY": {
+      "alt": "Two students sit at wooden desks in a classroom with a green chalkboard, a wall clock, and a wooden floor, with warm light falling across the room.",
+      "attribution_required": false,
+      "categories": [
+        "classroom",
+        "study",
+        "people"
+      ],
+      "city": null,
+      "country": null,
+      "credit": "Pesce Huang / Unsplash",
+      "generic_ok": true,
+      "id": "unsplash-e5j8v-a35GY",
+      "license": "Unsplash License",
+      "origin": "unsplash",
+      "people_present": true,
+      "place": null,
+      "season": "any",
+      "url": "https://images.unsplash.com/photo-1719498861257-44589f1d6b73?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTM2NDAwfDB8MXxzZWFyY2h8Mnx8Y2xhc3Nyb29tJTIwdGVhY2hlcnxlbnwwfDF8fHwxNzk0ODk3NjY1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "verified": true
+    },
+    "unsplash-nNMBa7Y1Ymk": {
+      "alt": "Two people work at a dark table, one pointing at a laptop screen while the other rests hands together nearby, with a smartphone and a second laptop on the table.",
+      "attribution_required": false,
+      "categories": [
+        "people",
+        "work"
+      ],
+      "city": null,
+      "country": null,
+      "credit": "Priscilla Du Preez 🇨🇦 / Unsplash",
+      "generic_ok": true,
+      "id": "unsplash-nNMBa7Y1Ymk",
+      "license": "Unsplash License",
+      "origin": "unsplash",
+      "people_present": true,
+      "place": null,
+      "season": "any",
+      "url": "https://images.unsplash.com/photo-1579389083046-e3df9c2b3325?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTM2NDAwfDB8MXxzZWFyY2h8Mnx8YnVzaW5lc3MlMjBtZWV0aW5nJTIwcHJvZmVzc2lvbmFsc3xlbnwwfDF8fHwxNzk0ODk3NTk5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "verified": true
+    },
     "unsplash-rRWiVQzLm7k": {
       "alt": "A woman with her hair in a bun, seen from behind in a dark green shirt, talks with a man in a gray t-shirt beside a whiteboard in a warmly lit indoor workspace, with a plastic cup with a red straw on the table.",
       "attribution_required": false,
@@ -38,6 +167,139 @@
       "place": null,
       "season": "any",
       "url": "https://images.unsplash.com/photo-1511376979163-f804dff7ad7b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTM2NDAwfDB8MXxzZWFyY2h8MXx8YnVzaW5lc3MlMjBtZWV0aW5nJTIwcHJvZmVzc2lvbmFsc3xlbnwwfDF8fHwxNzk0ODk2NzA4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "verified": true
+    },
+    "unsplash-ute2XAFQU2I": {
+      "alt": "A woman with long brown hair works on a silver laptop at a wooden counter by a cafe window, with a backpack, a coffee cup, and an orange external hard drive nearby.",
+      "attribution_required": false,
+      "categories": [
+        "people",
+        "cafe",
+        "work"
+      ],
+      "city": null,
+      "country": null,
+      "credit": "Andrew Neel / Unsplash",
+      "generic_ok": true,
+      "id": "unsplash-ute2XAFQU2I",
+      "license": "Unsplash License",
+      "origin": "unsplash",
+      "people_present": true,
+      "place": "cafe window seat",
+      "season": "any",
+      "url": "https://images.unsplash.com/photo-1491975474562-1f4e30bc9468?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTM2NDAwfDB8MXxzZWFyY2h8MXx8c3R1ZGVudCUyMHN0dWR5aW5nJTIwbGFwdG9wfGVufDB8MXx8fDE3OTQ4OTc2MTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "verified": true
+    },
+    "unsplash-vpgx4xHLtE4": {
+      "alt": "Visitors walk across the tiled plaza of Seville's Plaza de España, with its brick Renaissance Revival palace, tall tower, fountain, and canal under a clear blue sky.",
+      "attribution_required": false,
+      "categories": [
+        "city",
+        "architecture",
+        "attractions",
+        "people",
+        "nature"
+      ],
+      "city": "Seville",
+      "country": "Spain",
+      "credit": "Klaudia Piaskowska / Unsplash",
+      "generic_ok": false,
+      "id": "unsplash-vpgx4xHLtE4",
+      "license": "Unsplash License",
+      "origin": "unsplash",
+      "people_present": true,
+      "place": "Plaza de España",
+      "season": "any",
+      "url": "https://images.unsplash.com/photo-1571081334408-45c7a65ffc23?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTM2NDAwfDB8MXxzZWFyY2h8MXx8U2V2aWxsZSUyMHBsYXphfGVufDB8MXx8fDE3OTQ4OTc3MjF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "verified": true
+    },
+    "wikimedia-185815500": {
+      "alt": "Visitors row a small boat along the canal at Seville's Plaza de España, past the tiled bridge and ornate brick regionalist buildings under a clear blue sky.",
+      "attribution_required": true,
+      "categories": [
+        "city",
+        "architecture",
+        "attractions",
+        "people",
+        "culture",
+        "nature"
+      ],
+      "city": "Seville",
+      "country": "Spain",
+      "credit": "a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/46721 / Wikimedia Commons (CC BY 2.0)",
+      "generic_ok": false,
+      "id": "wikimedia-185815500",
+      "license": "CC BY 2.0",
+      "origin": "wikimedia",
+      "people_present": true,
+      "place": "Plaza de España",
+      "season": "summer",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Seville%2C_Plaza_de_Espa%C3%B1a_%2838625005691%29_%28edited%29.jpg/1920px-Seville%2C_Plaza_de_Espa%C3%B1a_%2838625005691%29_%28edited%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "verified": true
+    },
+    "wikimedia-43494048": {
+      "alt": "Late-afternoon view of Seville's Plaza de España, with its curved brick Renaissance Revival building, tiled alcoves, canal, fountain, and tower, and a few people strolling across the paved square.",
+      "attribution_required": true,
+      "categories": [
+        "city",
+        "architecture",
+        "attractions",
+        "people"
+      ],
+      "city": "Seville",
+      "country": "Spain",
+      "credit": "a href=\"//commons.wikimedia.org/wiki/User:Kadellar\" title=\"User:Kadellar\"Carlos  / Wikimedia Commons (CC BY-SA 4.0)",
+      "generic_ok": false,
+      "id": "wikimedia-43494048",
+      "license": "CC BY-SA 4.0",
+      "origin": "wikimedia",
+      "people_present": true,
+      "place": "Plaza de España",
+      "season": "any",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Plaza_de_Espa%C3%B1a_%28Sevilla%29_-_01.jpg/1920px-Plaza_de_Espa%C3%B1a_%28Sevilla%29_-_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "verified": true
+    },
+    "wikimedia-74504797": {
+      "alt": "A view through a large paned window of the domed Almudena Cathedral with its twin bell towers, beside the classical facade of the Royal Palace under a partly cloudy sky.",
+      "attribution_required": true,
+      "categories": [
+        "architecture",
+        "attractions",
+        "city",
+        "culture"
+      ],
+      "city": "Madrid",
+      "country": "Spain",
+      "credit": "div class=\"fn value\"\na rel=\"nofollow\" class=\"external text\" href=\"https://500px. / Wikimedia Commons (CC BY 3.0)",
+      "generic_ok": false,
+      "id": "wikimedia-74504797",
+      "license": "CC BY 3.0",
+      "origin": "wikimedia",
+      "people_present": true,
+      "place": "Almudena Cathedral, seen through a window of the Royal Palace",
+      "season": "any",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Construction_Madrid_Spain_%28120385193%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "verified": true
+    },
+    "wikimedia-78463645": {
+      "alt": "A smiling woman in glasses bites a yellow pencil while looking at a laptop on a wooden desk, with colored pencils in a mesh cup beside her.",
+      "attribution_required": false,
+      "categories": [
+        "people",
+        "work",
+        "study"
+      ],
+      "city": null,
+      "country": null,
+      "credit": "Jan Vašek / Wikimedia Commons (CC0)",
+      "generic_ok": true,
+      "id": "wikimedia-78463645",
+      "license": "CC0",
+      "origin": "wikimedia",
+      "people_present": true,
+      "place": null,
+      "season": "any",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Laptop_and_girl_biting_pencil-pixabay.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
       "verified": true
     }
   }

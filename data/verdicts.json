@@ -1,4 +1,151 @@
 {
+  "unsplash-8eSrC43qdro": {
+    "alt": "A hand holding a black gel pen writes handwritten notes in an open notebook beside a red book, with blurred potted plants on a windowsill in the background.",
+    "categories": [
+      "writing",
+      "study",
+      "books",
+      "work"
+    ],
+    "city": "unknown",
+    "confidence": 0.9,
+    "country": "unknown",
+    "generic_scene": true,
+    "has_text_or_logo": true,
+    "is_drawing_or_graphic": false,
+    "is_photograph": true,
+    "people_present": true,
+    "place": "unknown",
+    "season": "any",
+    "source_key": "unsplash-8eSrC43qdro",
+    "stage": "claude"
+  },
+  "unsplash-9XuimM9GXDg": {
+    "alt": "Evening view of a pedestrian street in a Mexican colonial city, lined with pink stone buildings and restaurants, with baroque church towers at the far end.",
+    "categories": [
+      "people",
+      "city",
+      "architecture",
+      "attractions"
+    ],
+    "city": "Morelia",
+    "confidence": 0.7,
+    "country": "Mexico",
+    "generic_scene": false,
+    "has_text_or_logo": true,
+    "is_drawing_or_graphic": false,
+    "is_photograph": true,
+    "people_present": true,
+    "place": "Pedestrian street in the historic center, likely Calle Madero, with colonial stone buildings and baroque church towers",
+    "season": "any",
+    "source_key": "unsplash-9XuimM9GXDg",
+    "stage": "claude"
+  },
+  "unsplash-Bgd_03zqF9Q": {
+    "alt": "A bundle of old books tied with red string, including a 'Gospel Primer', rests on a worn wooden school desk against a brick wall.",
+    "categories": [
+      "books",
+      "study",
+      "classroom"
+    ],
+    "city": "unknown",
+    "confidence": 0.9,
+    "country": "unknown",
+    "generic_scene": true,
+    "has_text_or_logo": true,
+    "is_drawing_or_graphic": false,
+    "is_photograph": true,
+    "people_present": false,
+    "place": "unknown",
+    "season": "any",
+    "source_key": "unsplash-Bgd_03zqF9Q",
+    "stage": "claude"
+  },
+  "unsplash-DJsbfCjhnJ4": {
+    "alt": "Students stand at a front podium holding textbooks in a classroom with a teal chalkboard while classmates sit in the foreground, with no visible clues to a specific location.",
+    "categories": [
+      "people",
+      "classroom",
+      "study",
+      "books"
+    ],
+    "city": "unknown",
+    "confidence": 0.85,
+    "country": "unknown",
+    "generic_scene": true,
+    "has_text_or_logo": true,
+    "is_drawing_or_graphic": false,
+    "is_photograph": true,
+    "people_present": true,
+    "place": "unknown",
+    "season": "any",
+    "source_key": "unsplash-DJsbfCjhnJ4",
+    "stage": "claude"
+  },
+  "unsplash-Hx-4TbpsoIw": {
+    "alt": "A top-down view of a wooden desk with a blank lined spiral notebook, a pen, an iPad, a laptop, AirPods with their case, and a small potted succulent.",
+    "categories": [
+      "work",
+      "study",
+      "writing"
+    ],
+    "city": "unknown",
+    "confidence": 0.9,
+    "country": "unknown",
+    "generic_scene": true,
+    "has_text_or_logo": true,
+    "is_drawing_or_graphic": false,
+    "is_photograph": true,
+    "people_present": false,
+    "place": "unknown",
+    "season": "any",
+    "source_key": "unsplash-Hx-4TbpsoIw",
+    "stage": "claude"
+  },
+  "unsplash-JWuMQZlLygk": {
+    "alt": "Golden-hour view down a tree-lined street toward a Baroque church with twin bell towers and a tiled dome, with a DMX bus and pedestrians in the foreground and purple jacaranda trees in bloom.",
+    "categories": [
+      "city",
+      "architecture",
+      "attractions",
+      "culture",
+      "sunset"
+    ],
+    "city": "unknown",
+    "confidence": 0.85,
+    "country": "Mexico",
+    "generic_scene": false,
+    "has_text_or_logo": true,
+    "is_drawing_or_graphic": false,
+    "is_photograph": true,
+    "people_present": true,
+    "place": "unknown",
+    "season": "spring",
+    "source_key": "unsplash-JWuMQZlLygk",
+    "stage": "claude"
+  },
+  "unsplash-L0MTvo-s5TU": {
+    "alt": "A blue-and-white azulejo ceramic urn in the foreground frames the brick Renaissance Revival tower of Seville's Plaza de España under a partly cloudy sky, with a few people walking near the arches.",
+    "categories": [
+      "city",
+      "architecture",
+      "attractions",
+      "culture",
+      "people"
+    ],
+    "city": "Seville",
+    "confidence": 0.93,
+    "country": "Spain",
+    "generic_scene": false,
+    "has_text_or_logo": false,
+    "is_drawing_or_graphic": false,
+    "is_photograph": true,
+    "people_present": true,
+    "place": "Plaza de España",
+    "season": "any",
+    "source_key": "unsplash-L0MTvo-s5TU",
+    "stage": "claude"
+  },
   "unsplash-MtcBG4y3JJ8": {
     "alt": "A child stands facing sunlit windows in an empty classroom with rows of desks and a chalkboard reading 'In The Beginning', in a soft, digitally rendered style.",
     "categories": [
@@ -19,6 +166,69 @@
     "source_key": "unsplash-MtcBG4y3JJ8",
     "stage": "claude"
   },
+  "unsplash-QsusPXj3f54": {
+    "alt": "Visitors stroll across the tiled plaza in front of the ornate brick Renaissance Revival arcades and towers of Seville's Plaza de España under a clear blue sky.",
+    "categories": [
+      "city",
+      "architecture",
+      "attractions",
+      "people"
+    ],
+    "city": "Seville",
+    "confidence": 0.9,
+    "country": "Spain",
+    "generic_scene": false,
+    "has_text_or_logo": false,
+    "is_drawing_or_graphic": false,
+    "is_photograph": true,
+    "people_present": true,
+    "place": "Plaza de España",
+    "season": "winter",
+    "source_key": "unsplash-QsusPXj3f54",
+    "stage": "claude"
+  },
+  "unsplash-WDg7DlQmfhg": {
+    "alt": "An open blank notebook, a closed-screen laptop, and a glass of water sit on a light wooden desk in a bright room near a window.",
+    "categories": [
+      "work",
+      "writing",
+      "books",
+      "study"
+    ],
+    "city": "unknown",
+    "confidence": 0.9,
+    "country": "unknown",
+    "generic_scene": true,
+    "has_text_or_logo": false,
+    "is_drawing_or_graphic": false,
+    "is_photograph": true,
+    "people_present": false,
+    "place": "indoor desk by a window",
+    "season": "any",
+    "source_key": "unsplash-WDg7DlQmfhg",
+    "stage": "claude"
+  },
+  "unsplash-aMWePU__xQo": {
+    "alt": "The domed, green-roofed Metropolis building with its winged statue on Madrid's Gran Vía, with pedestrians on the sunny street below.",
+    "categories": [
+      "city",
+      "architecture",
+      "attractions",
+      "people"
+    ],
+    "city": "Madrid",
+    "confidence": 0.95,
+    "country": "Spain",
+    "generic_scene": false,
+    "has_text_or_logo": true,
+    "is_drawing_or_graphic": false,
+    "is_photograph": true,
+    "people_present": true,
+    "place": "Edificio Metrópolis, Gran Vía",
+    "season": "any",
+    "source_key": "unsplash-aMWePU__xQo",
+    "stage": "claude"
+  },
   "unsplash-alw-CwGFmwQ": {
     "alt": "Two men in business attire look at a smartphone together in a bright modern meeting room with large windows and a long wooden conference table.",
     "categories": [
@@ -36,6 +246,150 @@
     "place": "modern office meeting room",
     "season": "any",
     "source_key": "unsplash-alw-CwGFmwQ",
+    "stage": "claude"
+  },
+  "unsplash-c-lUYtNjqxw": {
+    "alt": "A woman in a coral top and white pants works on a silver laptop while sitting on sunlit outdoor steps, with a notebook and a white thermos beside her.",
+    "categories": [
+      "people",
+      "work",
+      "study",
+      "books"
+    ],
+    "city": "unknown",
+    "confidence": 0.9,
+    "country": "unknown",
+    "generic_scene": true,
+    "has_text_or_logo": true,
+    "is_drawing_or_graphic": false,
+    "is_photograph": true,
+    "people_present": true,
+    "place": "unknown",
+    "season": "any",
+    "source_key": "unsplash-c-lUYtNjqxw",
+    "stage": "claude"
+  },
+  "unsplash-d5vpK2XFF5E": {
+    "alt": "Ornate cream-stone Beaux-Arts facade of the Palacio de Cibeles in Madrid under a bright blue sky, with a Spanish flag flying from the roofline.",
+    "categories": [
+      "city",
+      "architecture",
+      "attractions"
+    ],
+    "city": "Madrid",
+    "confidence": 0.9,
+    "country": "Spain",
+    "generic_scene": false,
+    "has_text_or_logo": false,
+    "is_drawing_or_graphic": false,
+    "is_photograph": true,
+    "people_present": false,
+    "place": "Palacio de Cibeles (Palacio de Comunicaciones), Plaza de Cibeles",
+    "season": "any",
+    "source_key": "unsplash-d5vpK2XFF5E",
+    "stage": "claude"
+  },
+  "unsplash-ddwbTn5HDdQ": {
+    "alt": "A woman with curly hair and headphones leans over a desk to write in a notebook beside a laptop displaying bar charts, with a potted plant and a black stand in a bright room behind her.",
+    "categories": [
+      "people",
+      "work",
+      "study",
+      "writing"
+    ],
+    "city": "unknown",
+    "confidence": 0.9,
+    "country": "unknown",
+    "generic_scene": true,
+    "has_text_or_logo": true,
+    "is_drawing_or_graphic": false,
+    "is_photograph": true,
+    "people_present": true,
+    "place": "unknown",
+    "season": "any",
+    "source_key": "unsplash-ddwbTn5HDdQ",
+    "stage": "claude"
+  },
+  "unsplash-e5j8v-a35GY": {
+    "alt": "Two students sit at wooden desks in a classroom with a green chalkboard, a wall clock, and a wooden floor, with warm light falling across the room.",
+    "categories": [
+      "classroom",
+      "study",
+      "people"
+    ],
+    "city": "unknown",
+    "confidence": 0.8,
+    "country": "unknown",
+    "generic_scene": true,
+    "has_text_or_logo": false,
+    "is_drawing_or_graphic": false,
+    "is_photograph": true,
+    "people_present": true,
+    "place": "unknown",
+    "season": "any",
+    "source_key": "unsplash-e5j8v-a35GY",
+    "stage": "claude"
+  },
+  "unsplash-iiaUVel-cJE": {
+    "alt": "A blank spiral notebook on a dark wooden table, with a yellow-and-black pen, a black pen, and a marker laid beside it.",
+    "categories": [
+      "work",
+      "study",
+      "writing",
+      "books"
+    ],
+    "city": "unknown",
+    "confidence": 0.9,
+    "country": "unknown",
+    "generic_scene": true,
+    "has_text_or_logo": true,
+    "is_drawing_or_graphic": false,
+    "is_photograph": true,
+    "people_present": false,
+    "place": "unknown",
+    "season": "any",
+    "source_key": "unsplash-iiaUVel-cJE",
+    "stage": "claude"
+  },
+  "unsplash-nNMBa7Y1Ymk": {
+    "alt": "Two people work at a dark table, one pointing at a laptop screen while the other rests hands together nearby, with a smartphone and a second laptop on the table.",
+    "categories": [
+      "people",
+      "work"
+    ],
+    "city": "unknown",
+    "confidence": 0.9,
+    "country": "unknown",
+    "generic_scene": true,
+    "has_text_or_logo": false,
+    "is_drawing_or_graphic": false,
+    "is_photograph": true,
+    "people_present": true,
+    "place": "unknown",
+    "season": "any",
+    "source_key": "unsplash-nNMBa7Y1Ymk",
+    "stage": "claude"
+  },
+  "unsplash-o3o47HgOBjE": {
+    "alt": "Pedestrians walk along a cobbled street lined with yellow and pink colonial buildings, with a tiled baroque church dome rising behind them in San Miguel de Allende, Mexico.",
+    "categories": [
+      "people",
+      "culture",
+      "city",
+      "architecture",
+      "attractions"
+    ],
+    "city": "San Miguel de Allende",
+    "confidence": 0.8,
+    "country": "Mexico",
+    "generic_scene": false,
+    "has_text_or_logo": true,
+    "is_drawing_or_graphic": false,
+    "is_photograph": true,
+    "people_present": true,
+    "place": "historic colonial street with a baroque church dome and tower in the background",
+    "season": "any",
+    "source_key": "unsplash-o3o47HgOBjE",
     "stage": "claude"
   },
   "unsplash-rRWiVQzLm7k": {
@@ -77,6 +431,189 @@
     "source_key": "unsplash-uYXnuQfewe0",
     "stage": "claude"
   },
+  "unsplash-ute2XAFQU2I": {
+    "alt": "A woman with long brown hair works on a silver laptop at a wooden counter by a cafe window, with a backpack, a coffee cup, and an orange external hard drive nearby.",
+    "categories": [
+      "people",
+      "cafe",
+      "work"
+    ],
+    "city": "unknown",
+    "confidence": 0.9,
+    "country": "unknown",
+    "generic_scene": true,
+    "has_text_or_logo": false,
+    "is_drawing_or_graphic": false,
+    "is_photograph": true,
+    "people_present": true,
+    "place": "cafe window seat",
+    "season": "any",
+    "source_key": "unsplash-ute2XAFQU2I",
+    "stage": "claude"
+  },
+  "unsplash-vpgx4xHLtE4": {
+    "alt": "Visitors walk across the tiled plaza of Seville's Plaza de España, with its brick Renaissance Revival palace, tall tower, fountain, and canal under a clear blue sky.",
+    "categories": [
+      "city",
+      "architecture",
+      "attractions",
+      "people",
+      "nature"
+    ],
+    "city": "Seville",
+    "confidence": 0.95,
+    "country": "Spain",
+    "generic_scene": false,
+    "has_text_or_logo": false,
+    "is_drawing_or_graphic": false,
+    "is_photograph": true,
+    "people_present": true,
+    "place": "Plaza de España",
+    "season": "any",
+    "source_key": "unsplash-vpgx4xHLtE4",
+    "stage": "claude"
+  },
+  "unsplash-x2Or94kjaqo": {
+    "alt": "Aerial view of Madrid's Gran Vía, with the ornate domed Edificio Metrópolis in the foreground and a busy boulevard and rooftops stretching toward distant mountains under a blue sky.",
+    "categories": [
+      "city",
+      "architecture",
+      "attractions"
+    ],
+    "city": "Madrid",
+    "confidence": 0.95,
+    "country": "Spain",
+    "generic_scene": false,
+    "has_text_or_logo": true,
+    "is_drawing_or_graphic": false,
+    "is_photograph": true,
+    "people_present": true,
+    "place": "Gran Vía, with the Edificio Metrópolis dome",
+    "season": "spring",
+    "source_key": "unsplash-x2Or94kjaqo",
+    "stage": "claude"
+  },
+  "wikimedia-112963110": {
+    "alt": "A bright pink mesh pencil cup holding scissors, pens, and a highlighter, topped with a colorful hair-tie ball, on a wooden desk in front of an open laptop.",
+    "categories": [
+      "work",
+      "study"
+    ],
+    "city": "unknown",
+    "confidence": 0.9,
+    "country": "unknown",
+    "generic_scene": true,
+    "has_text_or_logo": true,
+    "is_drawing_or_graphic": false,
+    "is_photograph": true,
+    "people_present": false,
+    "place": "unknown",
+    "season": "any",
+    "source_key": "wikimedia-112963110",
+    "stage": "claude"
+  },
+  "wikimedia-117883894": {
+    "alt": "A person in a purple top and jeans writes with a pen in an open notebook with an orange-edged cover, wearing a sparkly silver ring.",
+    "categories": [
+      "people",
+      "study",
+      "writing",
+      "work",
+      "books"
+    ],
+    "city": "unknown",
+    "confidence": 0.9,
+    "country": "unknown",
+    "generic_scene": true,
+    "has_text_or_logo": true,
+    "is_drawing_or_graphic": false,
+    "is_photograph": true,
+    "people_present": true,
+    "place": "unknown",
+    "season": "any",
+    "source_key": "wikimedia-117883894",
+    "stage": "claude"
+  },
+  "wikimedia-123492589": {
+    "alt": "Close-up of a warm orange brick wall with a decorative pattern of recessed and projecting bricks that cast strong shadows in the sunlight.",
+    "categories": [
+      "architecture"
+    ],
+    "city": "unknown",
+    "confidence": 0.6,
+    "country": "unknown",
+    "generic_scene": false,
+    "has_text_or_logo": false,
+    "is_drawing_or_graphic": false,
+    "is_photograph": true,
+    "people_present": false,
+    "place": "unknown",
+    "season": "any",
+    "source_key": "wikimedia-123492589",
+    "stage": "claude"
+  },
+  "wikimedia-127367605": {
+    "alt": "Two handwritten Arabic project planning posters, one with a timeline and one with a role card, are pinned to a whiteboard in an indoor room.",
+    "categories": [
+      "classroom",
+      "study",
+      "work",
+      "writing"
+    ],
+    "city": "unknown",
+    "confidence": 0.9,
+    "country": "unknown",
+    "generic_scene": true,
+    "has_text_or_logo": true,
+    "is_drawing_or_graphic": false,
+    "is_photograph": true,
+    "people_present": false,
+    "place": "classroom or office whiteboard with two handwritten Arabic project posters",
+    "season": "any",
+    "source_key": "wikimedia-127367605",
+    "stage": "claude"
+  },
+  "wikimedia-131455374": {
+    "alt": "An open handwritten notebook with a green-and-white pen rests on a wooden table beside a glass of iced tea with a lemon slice, in a booth with patterned upholstery.",
+    "categories": [
+      "cafe",
+      "study",
+      "writing",
+      "books"
+    ],
+    "city": "unknown",
+    "confidence": 0.8,
+    "country": "unknown",
+    "generic_scene": true,
+    "has_text_or_logo": true,
+    "is_drawing_or_graphic": false,
+    "is_photograph": true,
+    "people_present": false,
+    "place": "cafe or restaurant booth with an iced tea and an open handwritten notebook",
+    "season": "any",
+    "source_key": "wikimedia-131455374",
+    "stage": "claude"
+  },
+  "wikimedia-132640697": {
+    "alt": "A black-and-white photo of an ornate stone building facade with a sculpted female figure, cherubs, mythical creatures, and a numbered oval plaque reading 1.",
+    "categories": [
+      "architecture",
+      "city",
+      "attractions"
+    ],
+    "city": "unknown",
+    "confidence": 0.6,
+    "country": "unknown",
+    "generic_scene": false,
+    "has_text_or_logo": true,
+    "is_drawing_or_graphic": false,
+    "is_photograph": true,
+    "people_present": false,
+    "place": "unknown",
+    "season": "any",
+    "source_key": "wikimedia-132640697",
+    "stage": "claude"
+  },
   "wikimedia-149941400": {
     "alt": "Three people pose in front of an American Hockey League backdrop at an awards event, with the middle woman holding a certificate for Most Unique Social Media Content.",
     "categories": [
@@ -113,6 +650,294 @@
     "place": "indoor awards event with American Hockey League (AHL) backdrop",
     "season": "any",
     "source_key": "wikimedia-149941470",
+    "stage": "claude"
+  },
+  "wikimedia-149941703": {
+    "alt": "A black-and-white aerial view of Chicago's skyline and Lake Michigan, with a gold and maroon 'Team Business Meetings, Chicago, IL' AHL and VictoryLive graphic badge in the center.",
+    "categories": [
+      "city",
+      "architecture",
+      "events"
+    ],
+    "city": "Chicago",
+    "confidence": 0.9,
+    "country": "other",
+    "generic_scene": false,
+    "has_text_or_logo": true,
+    "is_drawing_or_graphic": true,
+    "is_photograph": false,
+    "people_present": false,
+    "place": "Chicago skyline with Lake Michigan shoreline, overlaid with a Team Business Meetings graphic badge",
+    "season": "any",
+    "source_key": "wikimedia-149941703",
+    "stage": "claude"
+  },
+  "wikimedia-185815500": {
+    "alt": "Visitors row a small boat along the canal at Seville's Plaza de España, past the tiled bridge and ornate brick regionalist buildings under a clear blue sky.",
+    "categories": [
+      "city",
+      "architecture",
+      "attractions",
+      "people",
+      "culture",
+      "nature"
+    ],
+    "city": "Seville",
+    "confidence": 0.95,
+    "country": "Spain",
+    "generic_scene": false,
+    "has_text_or_logo": false,
+    "is_drawing_or_graphic": false,
+    "is_photograph": true,
+    "people_present": true,
+    "place": "Plaza de España",
+    "season": "summer",
+    "source_key": "wikimedia-185815500",
+    "stage": "claude"
+  },
+  "wikimedia-190586226": {
+    "alt": "A smiling teacher sits at a desk with a road atlas and notebook while five students stand behind him in front of a chalkboard covered with physics equations.",
+    "categories": [
+      "people",
+      "classroom",
+      "study",
+      "books",
+      "work"
+    ],
+    "city": "unknown",
+    "confidence": 0.9,
+    "country": "unknown",
+    "generic_scene": true,
+    "has_text_or_logo": true,
+    "is_drawing_or_graphic": false,
+    "is_photograph": true,
+    "people_present": true,
+    "place": "classroom with a chalkboard of physics equations",
+    "season": "any",
+    "source_key": "wikimedia-190586226",
+    "stage": "claude"
+  },
+  "wikimedia-190586239": {
+    "alt": "A woman in a red jacket holds a tray of baked treats for a group of teenagers seated on bleachers in an indoor room with a chalkboard and cardboard boxes.",
+    "categories": [
+      "people",
+      "food",
+      "classroom",
+      "events"
+    ],
+    "city": "unknown",
+    "confidence": 0.8,
+    "country": "unknown",
+    "generic_scene": true,
+    "has_text_or_logo": true,
+    "is_drawing_or_graphic": false,
+    "is_photograph": true,
+    "people_present": true,
+    "place": "indoor classroom or workshop room with a chalkboard and bleacher-style seating",
+    "season": "any",
+    "source_key": "wikimedia-190586239",
+    "stage": "claude"
+  },
+  "wikimedia-201257723": {
+    "alt": "An open illuminated manuscript rests on a dark wooden desk beside an antique inkwell, a floral wingback chair, and a black metal chest in a wood-paneled room.",
+    "categories": [
+      "books",
+      "architecture",
+      "culture",
+      "study",
+      "writing"
+    ],
+    "city": "unknown",
+    "confidence": 0.5,
+    "country": "unknown",
+    "generic_scene": true,
+    "has_text_or_logo": true,
+    "is_drawing_or_graphic": false,
+    "is_photograph": true,
+    "people_present": false,
+    "place": "historic interior study with a wood-paneled room, illuminated manuscript on a desk, and a wingback chair",
+    "season": "any",
+    "source_key": "wikimedia-201257723",
+    "stage": "claude"
+  },
+  "wikimedia-201257724": {
+    "alt": "An open facsimile of an illuminated Latin manuscript with decorated initials rests on a dark wooden table beside an upholstered chair in an indoor room.",
+    "categories": [
+      "books",
+      "culture"
+    ],
+    "city": "unknown",
+    "confidence": 0.6,
+    "country": "unknown",
+    "generic_scene": true,
+    "has_text_or_logo": true,
+    "is_drawing_or_graphic": false,
+    "is_photograph": true,
+    "people_present": false,
+    "place": "unknown",
+    "season": "any",
+    "source_key": "wikimedia-201257724",
+    "stage": "claude"
+  },
+  "wikimedia-39964310": {
+    "alt": "Handmade notebooks with snowflake and deer patterned covers and blank name labels sit on lined paper beside a ballpoint pen and a sprig of yellow flowers.",
+    "categories": [
+      "books",
+      "writing",
+      "study"
+    ],
+    "city": "unknown",
+    "confidence": 0.9,
+    "country": "unknown",
+    "generic_scene": true,
+    "has_text_or_logo": true,
+    "is_drawing_or_graphic": false,
+    "is_photograph": true,
+    "people_present": false,
+    "place": "unknown",
+    "season": "any",
+    "source_key": "wikimedia-39964310",
+    "stage": "claude"
+  },
+  "wikimedia-43494048": {
+    "alt": "Late-afternoon view of Seville's Plaza de España, with its curved brick Renaissance Revival building, tiled alcoves, canal, fountain, and tower, and a few people strolling across the paved square.",
+    "categories": [
+      "city",
+      "architecture",
+      "attractions",
+      "people"
+    ],
+    "city": "Seville",
+    "confidence": 0.95,
+    "country": "Spain",
+    "generic_scene": false,
+    "has_text_or_logo": false,
+    "is_drawing_or_graphic": false,
+    "is_photograph": true,
+    "people_present": true,
+    "place": "Plaza de España",
+    "season": "any",
+    "source_key": "wikimedia-43494048",
+    "stage": "claude"
+  },
+  "wikimedia-74504797": {
+    "alt": "A view through a large paned window of the domed Almudena Cathedral with its twin bell towers, beside the classical facade of the Royal Palace under a partly cloudy sky.",
+    "categories": [
+      "architecture",
+      "attractions",
+      "city",
+      "culture"
+    ],
+    "city": "Madrid",
+    "confidence": 0.85,
+    "country": "Spain",
+    "generic_scene": false,
+    "has_text_or_logo": false,
+    "is_drawing_or_graphic": false,
+    "is_photograph": true,
+    "people_present": true,
+    "place": "Almudena Cathedral, seen through a window of the Royal Palace",
+    "season": "any",
+    "source_key": "wikimedia-74504797",
+    "stage": "claude"
+  },
+  "wikimedia-78463645": {
+    "alt": "A smiling woman in glasses bites a yellow pencil while looking at a laptop on a wooden desk, with colored pencils in a mesh cup beside her.",
+    "categories": [
+      "people",
+      "work",
+      "study"
+    ],
+    "city": "unknown",
+    "confidence": 0.9,
+    "country": "unknown",
+    "generic_scene": true,
+    "has_text_or_logo": false,
+    "is_drawing_or_graphic": false,
+    "is_photograph": true,
+    "people_present": true,
+    "place": "unknown",
+    "season": "any",
+    "source_key": "wikimedia-78463645",
+    "stage": "claude"
+  },
+  "wikimedia-79599299": {
+    "alt": "A covered, tile-lined promenade with ornate benches and bougainvillea overhead leads toward a sea view under bright sunlight.",
+    "categories": [
+      "architecture",
+      "attractions",
+      "nature",
+      "city"
+    ],
+    "city": "unknown",
+    "confidence": 0.5,
+    "country": "Spain",
+    "generic_scene": false,
+    "has_text_or_logo": false,
+    "is_drawing_or_graphic": false,
+    "is_photograph": true,
+    "people_present": false,
+    "place": "covered tiled promenade with bench seating overlooking the sea, possibly in the Canary Islands",
+    "season": "summer",
+    "source_key": "wikimedia-79599299",
+    "stage": "claude"
+  },
+  "wikimedia-86889009": {
+    "alt": "A curved, horizontally banded glass office tower rises between a gray stone-clad block and a dark glass tower, with a Fiesta Americana hotel sign visible on a building to the left.",
+    "categories": [
+      "city",
+      "architecture"
+    ],
+    "city": "Mexico City",
+    "confidence": 0.8,
+    "country": "Mexico",
+    "generic_scene": false,
+    "has_text_or_logo": true,
+    "is_drawing_or_graphic": false,
+    "is_photograph": true,
+    "people_present": false,
+    "place": "Fiesta Americana hotel tower area, likely Paseo de la Reforma",
+    "season": "any",
+    "source_key": "wikimedia-86889009",
+    "stage": "claude"
+  },
+  "wikimedia-91154813": {
+    "alt": "A tree-lined urban street in Mexico City with overhead power lines, a pink-and-white taxi, parked cars, a green colonial-style building, and a pedestrian walking a dog past a sign reading \"CHOFERES.\"",
+    "categories": [
+      "city",
+      "architecture",
+      "people",
+      "nature"
+    ],
+    "city": "Mexico City",
+    "confidence": 0.8,
+    "country": "Mexico",
+    "generic_scene": false,
+    "has_text_or_logo": true,
+    "is_drawing_or_graphic": false,
+    "is_photograph": true,
+    "people_present": true,
+    "place": "unknown",
+    "season": "any",
+    "source_key": "wikimedia-91154813",
+    "stage": "claude"
+  },
+  "wikimedia-95629789": {
+    "alt": "A grayscale scanned printout of a social media profile page showing a man's portrait photo, profile details, and a document exhibit label.",
+    "categories": [
+      "people"
+    ],
+    "city": "unknown",
+    "confidence": 0.9,
+    "country": "other",
+    "generic_scene": false,
+    "has_text_or_logo": true,
+    "is_drawing_or_graphic": true,
+    "is_photograph": false,
+    "people_present": true,
+    "place": "unknown",
+    "season": "any",
+    "source_key": "wikimedia-95629789",
     "stage": "claude"
   }
 }
