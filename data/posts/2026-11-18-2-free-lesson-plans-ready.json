@@ -23,27 +23,19 @@
   "scheduled_for": "2026-11-19T01:00:00+00:00",
   "slides": [
     {
-      "body": "Built on real news and video, so your class starts from something worth talking about.",
-      "headline": "Free lesson plans, ready to teach",
-      "role": "cover"
+      "headline": "Free lesson plans, ready to teach"
     },
     {
-      "body": "A student worksheet, slides and a teacher plan. Nothing to piece together the night before.",
-      "headline": "Everything in one plan",
-      "role": "body"
+      "headline": "Everything in one plan"
     },
     {
-      "body": "Choose the plan that fits your group, from elementary learners to advanced professionals.",
-      "headline": "Levels from A2 to C1",
-      "role": "body"
+      "headline": "Levels from A2 to C1"
     },
     {
-      "body": "The latest lesson plans are on the blog.",
-      "headline": "New plans every week",
-      "role": "cta"
+      "headline": "New plans every week"
     }
   ],
-  "status": "pending",
+  "status": "approved",
   "warnings": [
     "no Facebook location ID yet (run Find location IDs)"
   ]
