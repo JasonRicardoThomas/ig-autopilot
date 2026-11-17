@@ -1,12 +1,157 @@
 {
-  "polanco_cdmx": {"name": "Polanco, Mexico City", "query": "Polanco Mexico City", "region": "mexico_city"},
-  "roma_condesa_cdmx": {"name": "Roma Norte, Mexico City", "query": "Roma Norte Mexico City", "region": "mexico_city"},
-  "chapultepec_cdmx": {"name": "Bosque de Chapultepec", "query": "Bosque de Chapultepec Mexico City", "region": "mexico_city"},
-  "centro_cdmx": {"name": "Centro Histórico, Mexico City", "query": "Centro Historico Mexico City", "region": "mexico_city"},
-  "salamanca_madrid": {"name": "Barrio de Salamanca, Madrid", "query": "Barrio de Salamanca Madrid", "region": "madrid"},
-  "retiro_madrid": {"name": "Parque del Retiro, Madrid", "query": "Parque del Retiro Madrid", "region": "madrid"},
-  "granvia_madrid": {"name": "Gran Vía, Madrid", "query": "Gran Via Madrid", "region": "madrid"},
-  "santa_cruz_seville": {"name": "Barrio Santa Cruz, Seville", "query": "Barrio Santa Cruz Sevilla", "region": "seville"},
-  "triana_seville": {"name": "Triana, Seville", "query": "Triana Sevilla", "region": "seville"},
-  "plaza_espana_seville": {"name": "Plaza de España, Seville", "query": "Plaza de Espana Sevilla", "region": "seville"}
+ "polanco_cdmx": {
+  "name": "Polanco, Mexico City",
+  "query": "Polanco Mexico City",
+  "region": "mexico_city"
+ },
+ "roma_condesa_cdmx": {
+  "name": "Roma Norte, Mexico City",
+  "query": "Roma Norte Mexico City",
+  "region": "mexico_city"
+ },
+ "chapultepec_cdmx": {
+  "name": "Bosque de Chapultepec",
+  "query": "Bosque de Chapultepec Mexico City",
+  "region": "mexico_city"
+ },
+ "centro_cdmx": {
+  "name": "Centro Histórico, Mexico City",
+  "query": "Centro Historico Mexico City",
+  "region": "mexico_city"
+ },
+ "salamanca_madrid": {
+  "name": "Barrio de Salamanca, Madrid",
+  "query": "Barrio de Salamanca Madrid",
+  "region": "madrid"
+ },
+ "retiro_madrid": {
+  "name": "Parque del Retiro, Madrid",
+  "query": "Parque del Retiro Madrid",
+  "region": "madrid"
+ },
+ "granvia_madrid": {
+  "name": "Gran Vía, Madrid",
+  "query": "Gran Via Madrid",
+  "region": "madrid"
+ },
+ "santa_cruz_seville": {
+  "name": "Barrio Santa Cruz, Seville",
+  "query": "Barrio Santa Cruz Sevilla",
+  "region": "seville"
+ },
+ "triana_seville": {
+  "name": "Triana, Seville",
+  "query": "Triana Sevilla",
+  "region": "seville"
+ },
+ "plaza_espana_seville": {
+  "name": "Plaza de España, Seville",
+  "query": "Plaza de Espana Sevilla",
+  "region": "seville"
+ },
+ "lomas_chapultepec_cdmx": {
+  "name": "Lomas de Chapultepec, Mexico City",
+  "query": "Lomas de Chapultepec Mexico City",
+  "region": "mexico_city"
+ },
+ "reforma_cdmx": {
+  "name": "Paseo de la Reforma, Mexico City",
+  "query": "Paseo de la Reforma Mexico City",
+  "region": "mexico_city"
+ },
+ "santa_fe_cdmx": {
+  "name": "Santa Fe, Mexico City",
+  "query": "Santa Fe Mexico City",
+  "region": "mexico_city"
+ },
+ "eixample_barcelona": {
+  "name": "Eixample, Barcelona",
+  "query": "Eixample Barcelona",
+  "region": "barcelona"
+ },
+ "gothic_barcelona": {
+  "name": "Barri Gòtic, Barcelona",
+  "query": "Barri Gotic Barcelona",
+  "region": "barcelona"
+ },
+ "passeig_gracia_barcelona": {
+  "name": "Passeig de Gràcia, Barcelona",
+  "query": "Passeig de Gracia Barcelona",
+  "region": "barcelona"
+ },
+ "casco_viejo_bilbao": {
+  "name": "Casco Viejo, Bilbao",
+  "query": "Casco Viejo Bilbao",
+  "region": "basque_country"
+ },
+ "guggenheim_bilbao": {
+  "name": "Guggenheim Museum Bilbao",
+  "query": "Guggenheim Museum Bilbao",
+  "region": "basque_country"
+ },
+ "la_concha_san_sebastian": {
+  "name": "La Concha, San Sebastián",
+  "query": "Playa de la Concha San Sebastian",
+  "region": "basque_country"
+ },
+ "obradoiro_santiago": {
+  "name": "Praza do Obradoiro, Santiago de Compostela",
+  "query": "Praza do Obradoiro Santiago de Compostela",
+  "region": "galicia"
+ },
+ "rua_franco_santiago": {
+  "name": "Rúa do Franco, Santiago de Compostela",
+  "query": "Rua do Franco Santiago de Compostela",
+  "region": "galicia"
+ },
+ "torre_hercules_coruna": {
+  "name": "Torre de Hércules, A Coruña",
+  "query": "Torre de Hercules A Coruna",
+  "region": "galicia"
+ },
+ "sardinero_santander": {
+  "name": "El Sardinero, Santander",
+  "query": "El Sardinero Santander",
+  "region": "cantabria"
+ },
+ "magdalena_santander": {
+  "name": "Palacio de la Magdalena, Santander",
+  "query": "Palacio de la Magdalena Santander",
+  "region": "cantabria"
+ },
+ "pereda_santander": {
+  "name": "Paseo de Pereda, Santander",
+  "query": "Paseo de Pereda Santander",
+  "region": "cantabria"
+ },
+ "plaza_mayor_valladolid": {
+  "name": "Plaza Mayor, Valladolid",
+  "query": "Plaza Mayor Valladolid",
+  "region": "valladolid"
+ },
+ "campo_grande_valladolid": {
+  "name": "Campo Grande, Valladolid",
+  "query": "Campo Grande Valladolid",
+  "region": "valladolid"
+ },
+ "escultura_valladolid": {
+  "name": "Museo Nacional de Escultura, Valladolid",
+  "query": "Museo Nacional de Escultura Valladolid",
+  "region": "valladolid"
+ },
+ "catedral_palma": {
+  "name": "Catedral de Mallorca, Palma",
+  "query": "Catedral de Mallorca Palma",
+  "region": "mallorca"
+ },
+ "santa_catalina_palma": {
+  "name": "Santa Catalina, Palma",
+  "query": "Santa Catalina Palma de Mallorca",
+  "region": "mallorca"
+ },
+ "paseo_maritimo_palma": {
+  "name": "Paseo Marítimo, Palma",
+  "query": "Paseo Maritimo Palma de Mallorca",
+  "region": "mallorca"
+ }
 }

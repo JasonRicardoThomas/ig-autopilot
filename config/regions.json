@@ -2,7 +2,7 @@
  "mexico_city": {
   "country": "Mexico",
   "city": "Mexico City",
-  "weight": 0.5,
+  "weight": 0.43,
   "tags": [
    "#cdmx"
   ],
@@ -10,7 +10,10 @@
    "polanco_cdmx",
    "roma_condesa_cdmx",
    "chapultepec_cdmx",
-   "centro_cdmx"
+   "centro_cdmx",
+   "lomas_chapultepec_cdmx",
+   "reforma_cdmx",
+   "santa_fe_cdmx"
   ],
   "lat": 19.4326,
   "lon": -99.1332,
@@ -19,7 +22,7 @@
  "madrid": {
   "country": "Spain",
   "city": "Madrid",
-  "weight": 0.25,
+  "weight": 0.05,
   "tags": [
    "#madrid"
   ],
@@ -35,7 +38,7 @@
  "seville": {
   "country": "Spain",
   "city": "Seville",
-  "weight": 0.25,
+  "weight": 0.03,
   "tags": [
    "#sevilla"
   ],
@@ -47,5 +50,101 @@
   "lat": 37.3891,
   "lon": -5.9845,
   "radius_km": 30
+ },
+ "barcelona": {
+  "country": "Spain",
+  "city": "Barcelona",
+  "weight": 0.12,
+  "tags": [
+   "#barcelona"
+  ],
+  "places": [
+   "eixample_barcelona",
+   "gothic_barcelona",
+   "passeig_gracia_barcelona"
+  ],
+  "lat": 41.3874,
+  "lon": 2.1686,
+  "radius_km": 35
+ },
+ "basque_country": {
+  "country": "Spain",
+  "city": "Bilbao",
+  "weight": 0.1,
+  "tags": [
+   "#euskadi"
+  ],
+  "places": [
+   "casco_viejo_bilbao",
+   "guggenheim_bilbao",
+   "la_concha_san_sebastian"
+  ],
+  "lat": 43.263,
+  "lon": -2.935,
+  "radius_km": 60
+ },
+ "galicia": {
+  "country": "Spain",
+  "city": "Santiago de Compostela",
+  "weight": 0.08,
+  "tags": [
+   "#galicia"
+  ],
+  "places": [
+   "obradoiro_santiago",
+   "rua_franco_santiago",
+   "torre_hercules_coruna"
+  ],
+  "lat": 42.8782,
+  "lon": -8.5448,
+  "radius_km": 70
+ },
+ "cantabria": {
+  "country": "Spain",
+  "city": "Santander",
+  "weight": 0.07,
+  "tags": [
+   "#cantabria"
+  ],
+  "places": [
+   "sardinero_santander",
+   "magdalena_santander",
+   "pereda_santander"
+  ],
+  "lat": 43.4623,
+  "lon": -3.81,
+  "radius_km": 45
+ },
+ "valladolid": {
+  "country": "Spain",
+  "city": "Valladolid",
+  "weight": 0.06,
+  "tags": [
+   "#valladolid"
+  ],
+  "places": [
+   "plaza_mayor_valladolid",
+   "campo_grande_valladolid",
+   "escultura_valladolid"
+  ],
+  "lat": 41.6523,
+  "lon": -4.7245,
+  "radius_km": 30
+ },
+ "mallorca": {
+  "country": "Spain",
+  "city": "Palma de Mallorca",
+  "weight": 0.06,
+  "tags": [
+   "#mallorca"
+  ],
+  "places": [
+   "catedral_palma",
+   "santa_catalina_palma",
+   "paseo_maritimo_palma"
+  ],
+  "lat": 39.5696,
+  "lon": 2.6502,
+  "radius_km": 60
  }
 }

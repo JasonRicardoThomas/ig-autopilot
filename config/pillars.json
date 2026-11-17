@@ -401,5 +401,246 @@
     ]
    }
   ]
+ },
+ {
+  "id": "sectors",
+  "name": "Sector English",
+  "weight": 3,
+  "needs_place": false,
+  "categories": [
+   "work",
+   "people",
+   "city",
+   "study"
+  ],
+  "hashtags": [
+   "#businessenglish",
+   "#englishforwork",
+   "#professionalenglish",
+   "#englishforprofessionals",
+   "#corporatetraining"
+  ],
+  "topics": [
+   {
+    "id": "sec_fin_1",
+    "title": "Finance: 5 phrases for presenting numbers clearly",
+    "points": [
+     "Revenue is up 8% year on year.",
+     "Margins are under pressure from costs.",
+     "Let me walk you through the variance.",
+     "Our forecast assumes flat demand."
+    ]
+   },
+   {
+    "id": "sec_fin_2",
+    "title": "Finance: Explaining risk to a non-finance audience",
+    "points": [
+     "Say the exposure in plain words.",
+     "Give one number, then the range.",
+     "Separate likely from possible.",
+     "End with the decision needed."
+    ]
+   },
+   {
+    "id": "sec_rail_1",
+    "title": "Railway & construction: Site-meeting English for railway projects",
+    "points": [
+     "Report progress against the schedule.",
+     "Flag a safety issue without blame.",
+     "Confirm a possession or access window.",
+     "Agree actions and owners aloud."
+    ]
+   },
+   {
+    "id": "sec_rail_2",
+    "title": "Railway & construction: Writing a clear method statement",
+    "points": [
+     "One step per sentence.",
+     "Name who does what.",
+     "State the hazard, then the control.",
+     "Use the same term every time."
+    ]
+   },
+   {
+    "id": "sec_retail_1",
+    "title": "Retail: Handling a customer complaint in English",
+    "points": [
+     "Listen first, then apologise once.",
+     "Say what you can do now.",
+     "Offer a clear next step.",
+     "Confirm they are happy to proceed."
+    ]
+   },
+   {
+    "id": "sec_retail_2",
+    "title": "Retail: Talking to suppliers and buyers",
+    "points": [
+     "Ask about lead times politely.",
+     "Negotiate volume, not just price.",
+     "Confirm delivery in writing.",
+     "Follow up after the first order."
+    ]
+   },
+   {
+    "id": "sec_fashion_1",
+    "title": "High fashion: Describing a collection with confidence",
+    "points": [
+     "Lead with the story, then the pieces.",
+     "Use precise words: cut, drape, finish.",
+     "Name the season and the customer.",
+     "Close with availability and price tier."
+    ]
+   },
+   {
+    "id": "sec_fashion_2",
+    "title": "High fashion: English for showroom and press events",
+    "points": [
+     "Greet buyers by name.",
+     "Explain craftsmanship simply.",
+     "Answer sizing and stock questions.",
+     "Invite orders before they leave."
+    ]
+   },
+   {
+    "id": "sec_hr_1",
+    "title": "HR: Running an interview in English",
+    "points": [
+     "Open with a warm, clear structure.",
+     "Ask for one example, not a story.",
+     "Probe with follow-up questions.",
+     "Close by explaining next steps."
+    ]
+   },
+   {
+    "id": "sec_hr_2",
+    "title": "HR: Giving feedback that lands",
+    "points": [
+     "Describe the behaviour, not the person.",
+     "Name the impact.",
+     "Ask for their view.",
+     "Agree one action."
+    ]
+   },
+   {
+    "id": "sec_legal_1",
+    "title": "Legal: Plain English for contracts and clauses",
+    "points": [
+     "Replace 'shall' with 'must' where you can.",
+     "Keep one idea per sentence.",
+     "Define a term once, use it always.",
+     "Say who does what, and by when."
+    ]
+   },
+   {
+    "id": "sec_legal_2",
+    "title": "Legal: Explaining legal risk to the business",
+    "points": [
+     "Lead with the conclusion.",
+     "Rate the risk: low, medium, high.",
+     "Give the options and the cost.",
+     "Recommend, then let them decide."
+    ]
+   },
+   {
+    "id": "sec_logistics_1",
+    "title": "Logistics: Shipping and delivery English you need daily",
+    "points": [
+     "The shipment is delayed at customs.",
+     "Can you confirm the ETA?",
+     "We need the bill of lading today.",
+     "Let's reroute via the nearest hub."
+    ]
+   },
+   {
+    "id": "sec_logistics_2",
+    "title": "Logistics: Handling a delay with a client",
+    "points": [
+     "Give the news early.",
+     "State the cause in one line.",
+     "Offer a new date and an option.",
+     "Confirm the update in writing."
+    ]
+   },
+   {
+    "id": "sec_sales_1",
+    "title": "Sales: Opening a sales call in English",
+    "points": [
+     "Introduce yourself in ten seconds.",
+     "Ask about their goals first.",
+     "Listen, then connect your offer.",
+     "Agree a clear next step."
+    ]
+   },
+   {
+    "id": "sec_sales_2",
+    "title": "Sales: Handling the price objection",
+    "points": [
+     "Acknowledge it, don't argue.",
+     "Compare cost with value.",
+     "Ask what budget they had in mind.",
+     "Offer options, not discounts."
+    ]
+   },
+   {
+    "id": "sec_ops_1",
+    "title": "Operations: Explaining a process step by step",
+    "points": [
+     "First, then, after that, finally.",
+     "Name the owner of each step.",
+     "Show where delays happen.",
+     "Agree one improvement."
+    ]
+   },
+   {
+    "id": "sec_ops_2",
+    "title": "Operations: Running a weekly operations review",
+    "points": [
+     "Start with the numbers.",
+     "Flag blockers early.",
+     "Assign actions with dates.",
+     "Summarise in three lines."
+    ]
+   },
+   {
+    "id": "sec_csuite_1",
+    "title": "C-suite: Speaking with authority in board meetings",
+    "points": [
+     "Lead with your recommendation.",
+     "Use short sentences.",
+     "Pause before the key number.",
+     "Invite challenge, then decide."
+    ]
+   },
+   {
+    "id": "sec_csuite_2",
+    "title": "C-suite: Executive presence in English",
+    "points": [
+     "Say less, mean more.",
+     "Frame every point as a decision.",
+     "Handle tough questions calmly.",
+     "End with the ask."
+    ]
+   },
+   {
+    "id": "sec_startup_1",
+    "title": "Entrepreneurship & start-ups: Pitching your start-up in 60 seconds",
+    "points": [
+     "The problem in one sentence.",
+     "Who feels it and how much.",
+     "Your solution and proof.",
+     "The ask: money, partners or pilots."
+    ]
+   },
+   {
+    "id": "sec_startup_2",
+    "title": "Entrepreneurship & start-ups: English for investor conversations",
+    "points": [
+     "Know your traction numbers.",
+     "Explain your market simply.",
+     "Answer 'why now?' clearly.",
+     "Follow up within 24 hours."
+    ]
+   }
+  ]
  }
 ]

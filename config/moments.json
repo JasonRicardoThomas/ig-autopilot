@@ -33,7 +33,13 @@
   "regions": [
    "mexico_city",
    "madrid",
-   "seville"
+   "seville",
+   "barcelona",
+   "basque_country",
+   "galicia",
+   "cantabria",
+   "valladolid",
+   "mallorca"
   ]
  },
  {
@@ -110,7 +116,13 @@
   "regions": [
    "mexico_city",
    "madrid",
-   "seville"
+   "seville",
+   "barcelona",
+   "basque_country",
+   "galicia",
+   "cantabria",
+   "valladolid",
+   "mallorca"
   ]
  },
  {
@@ -136,7 +148,14 @@
    "people"
   ],
   "regions": [
-   "seville"
+   "seville",
+   "madrid",
+   "barcelona",
+   "basque_country",
+   "galicia",
+   "cantabria",
+   "valladolid",
+   "mallorca"
   ]
  },
  {
@@ -203,7 +222,14 @@
    "city"
   ],
   "regions": [
-   "madrid"
+   "madrid",
+   "seville",
+   "barcelona",
+   "basque_country",
+   "galicia",
+   "cantabria",
+   "valladolid",
+   "mallorca"
   ]
  },
  {
@@ -239,7 +265,14 @@
    "city"
   ],
   "regions": [
-   "madrid"
+   "madrid",
+   "seville",
+   "barcelona",
+   "basque_country",
+   "galicia",
+   "cantabria",
+   "valladolid",
+   "mallorca"
   ]
  },
  {
@@ -358,7 +391,13 @@
   ],
   "regions": [
    "madrid",
-   "seville"
+   "seville",
+   "barcelona",
+   "basque_country",
+   "galicia",
+   "cantabria",
+   "valladolid",
+   "mallorca"
   ]
  },
  {
@@ -450,7 +489,13 @@
   ],
   "regions": [
    "madrid",
-   "seville"
+   "seville",
+   "barcelona",
+   "basque_country",
+   "galicia",
+   "cantabria",
+   "valladolid",
+   "mallorca"
   ]
  },
  {

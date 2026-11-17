@@ -105,8 +105,13 @@ def test_black_friday_rule_and_christmas_window():
 def test_reel_command_is_vertical_with_crossfades_and_audio():
     cmd = reels.build_command(["a.jpg", "b.jpg", "c.jpg"], "out.mp4", rng=random.Random(1))
     joined = " ".join(cmd)
-    assert "1080x1920" in joined and joined.count("xfade") == 2 and "anullsrc" in joined and cmd[-1] == "out.mp4"
+    assert "1080x1920" in joined and joined.count("xfade") == 2 and "anullsrc" not in joined and "assets/audio" in joined and cmd[-1] == "out.mp4"
     assert "-t 3.0 -i a.jpg" in joined
+
+
+def test_pick_audio_finds_bundled_tracks_and_empty_folder_is_none(tmp_path):
+    assert reels.pick_audio(random.Random(1)).suffix == ".mp3"
+    assert reels.pick_audio(directory=tmp_path) is None
 
 
 def test_reel_with_music_uses_audio_file():
@@ -204,3 +209,14 @@ def test_vision_survives_non_json_reply(tmp_path, monkeypatch):
     ok, _ = vision.judge(v)
     assert not ok
     assert not (tmp_path / "verdicts.json").exists()  # failures are not cached
+
+
+def test_every_region_place_has_a_location_and_sectors_are_covered():
+    from autopilot.util import cfg
+    locs = cfg("locations")
+    for key, r in cfg("regions").items():
+        assert all(p in locs and locs[p]["region"] == key for p in r["places"])
+    assert abs(sum(r["weight"] for r in cfg("regions").values()) - 1) < 1e-9
+    sectors = next(p for p in cfg("pillars") if p["id"] == "sectors")
+    assert len(sectors["topics"]) >= 22
+    assert {"Basque", "Cantabria", "Galicia", "Valladolid", "Mallorca", "Barcelona"} <= {r["city"].split()[0] if r["city"] not in ("Bilbao", "Santander", "Santiago de Compostela", "Palma de Mallorca") else {"Bilbao": "Basque", "Santander": "Cantabria", "Santiago de Compostela": "Galicia", "Palma de Mallorca": "Mallorca"}[r["city"]] for r in cfg("regions").values()}

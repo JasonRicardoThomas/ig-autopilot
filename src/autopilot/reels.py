@@ -3,8 +3,17 @@ import random
 import subprocess
 from pathlib import Path
 
+AUDIO_DIR = Path(__file__).resolve().parent.parent.parent / "assets" / "audio"
+AUDIO_EXT = (".mp3", ".m4a", ".wav", ".aac", ".ogg")
 W, H, FPS = 1080, 1920, 30
 STYLES = ("zoom_in", "zoom_out", "pan_left", "pan_right")
+
+
+def pick_audio(rng=None, directory=None):
+    """Random track from assets/audio (generated or your own licensed music); None only if the folder is empty."""
+    rng = rng or random.Random()
+    tracks = sorted(f for f in Path(directory or AUDIO_DIR).glob("*") if f.suffix.lower() in AUDIO_EXT)
+    return rng.choice(tracks) if tracks else None
 
 
 def zoompan_expr(style, frames):
@@ -21,6 +30,7 @@ def zoompan_expr(style, frames):
 def build_command(images, out, seconds_each=3.0, fade=0.5, styles=None, audio=None, rng=None):
     """Return the ffmpeg argv list. Pure function so tests need no ffmpeg or network."""
     rng = rng or random.Random()
+    audio = audio or pick_audio(rng)
     styles = styles or [rng.choice(STYLES) for _ in images]
     frames = int(seconds_each * FPS)
     cmd = ["ffmpeg", "-y"]
@@ -42,7 +52,7 @@ def build_command(images, out, seconds_each=3.0, fade=0.5, styles=None, audio=No
         offset += seconds_each - fade
     total = seconds_each * len(images) - fade * (len(images) - 1)
     cmd += ["-filter_complex", ";".join(parts), "-map", f"[{last}]", "-map", f"{len(images)}:a",
-            "-t", f"{total:.2f}", "-c:v", "libx264", "-preset", "veryfast", "-crf", "23", "-pix_fmt", "yuv420p",
+            "-t", f"{total:.2f}", "-af", f"afade=t=out:st={max(0, total - 1):.2f}:d=1", "-c:v", "libx264", "-preset", "veryfast", "-crf", "23", "-pix_fmt", "yuv420p",
             "-c:a", "aac", "-b:a", "128k", "-shortest", "-movflags", "+faststart", str(out)]
     return cmd
 
@@ -53,13 +63,15 @@ def build_reel(images, out, **kw):
     return Path(out)
 
 
-def clip_command(clip, card_image, out, card_seconds=3.0, max_seconds=24):
+def clip_command(clip, card_image, out, card_seconds=3.0, max_seconds=24, audio=None):
     """Short clip scaled/cropped to 1080x1920, then the booking card."""
     flt = (f"[0:v]scale={W}:{H}:force_original_aspect_ratio=increase,crop={W}:{H},fps={FPS},setsar=1,format=yuv420p[a];"
            f"[1:v]scale={W}:{H},fps={FPS},setsar=1,format=yuv420p[b];[a][b]concat=n=2:v=1:a=0[v]")
+    audio = audio or pick_audio()
+    src = ["-stream_loop", "-1", "-i", str(audio)] if audio else ["-f", "lavfi", "-i", "anullsrc=r=44100:cl=stereo"]
     return ["ffmpeg", "-y", "-t", str(max_seconds), "-i", str(clip), "-loop", "1", "-t", str(card_seconds), "-i", str(card_image),
-            "-f", "lavfi", "-i", "anullsrc=r=44100:cl=stereo", "-filter_complex", flt, "-map", "[v]", "-map", "2:a",
-            "-c:v", "libx264", "-preset", "veryfast", "-crf", "23", "-c:a", "aac", "-shortest", "-movflags", "+faststart", str(out)]
+            *src, "-filter_complex", flt, "-map", "[v]", "-map", "2:a",
+            "-af", "afade=t=out:st=%s:d=1" % max(0, max_seconds + card_seconds - 1), "-c:v", "libx264", "-preset", "veryfast", "-crf", "23", "-c:a", "aac", "-shortest", "-movflags", "+faststart", str(out)]
 
 
 def build_clip_reel(clip, card_image, out, **kw):
