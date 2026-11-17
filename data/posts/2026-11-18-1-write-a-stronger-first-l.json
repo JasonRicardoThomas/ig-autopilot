@@ -22,27 +22,19 @@
   "scheduled_for": "2026-11-18T19:00:00+00:00",
   "slides": [
     {
-      "body": "Four small edits that make people keep reading.",
-      "headline": "Write a stronger first line",
-      "role": "cover"
+      "headline": "Write a stronger first line"
     },
     {
-      "body": "Skip 'I hope you are well.' Open with the decision, problem or moment that matters, then make one specific promise.",
-      "headline": "Start in the middle",
-      "role": "body"
+      "headline": "Start in the middle"
     },
     {
-      "body": "Delete sentences that only clear your throat. Then read it aloud: if you lose interest, your reader will too.",
-      "headline": "Cut the warm-up, then read aloud",
-      "role": "body"
+      "headline": "Cut the warm-up, then read aloud"
     },
     {
-      "body": "Book a session and work on your emails, reports and proposals with us.",
-      "headline": "Let's sharpen your writing",
-      "role": "cta"
+      "headline": "Let's sharpen your writing"
     }
   ],
-  "status": "pending",
+  "status": "approved",
   "warnings": [
     "Reels location tag may not be applied through the API; place name is in the caption",
     "no Facebook location ID yet (run Find location IDs)"
