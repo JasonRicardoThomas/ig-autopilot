@@ -25,7 +25,7 @@
   ],
   "require_verified_country": "place_posts",
   "min_vision_confidence": 0.7,
-  "max_vision_calls_per_run": 25,
+  "max_vision_calls_per_run": 60,
   "text_model": "claude-sonnet-5-5",
   "vision_model": "claude-haiku-5-5",
   "media_branch": "media",
