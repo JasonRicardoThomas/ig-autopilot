@@ -61,8 +61,12 @@ def cmd_index(args):
                 if cand["id"] in idx["photos"] or calls >= budget:
                     continue
                 dest = sources.CACHE / "photos" / f"{cand['id']}.jpg"
-                sources.normalise_jpeg(sources.download(cand["url"], sources.CACHE / "raw" / cand["id"]), dest)
-                v = vision.analyze(dest, cand["id"], client)
+                try:
+                    sources.normalise_jpeg(sources.download(cand["url"], sources.CACHE / "raw" / cand["id"]), dest)
+                    v = vision.analyze(dest, cand["id"], client)
+                except Exception as e:  # one bad image must not stop indexing
+                    print(f"index: skipped {cand['id']}: {type(e).__name__}: {str(e)[:160]}")
+                    continue
                 calls += 1
                 ok, why = vision.judge(v)
                 if ok:

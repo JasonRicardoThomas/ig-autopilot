@@ -50,15 +50,28 @@ PROMPT = (
 
 
 def claude_check(path, client):
+    """Ask Claude to describe the photo. Returns a dict, or None if no usable JSON came back."""
     s = settings()
-    msg = client.messages.create(
-        model=s["vision_model"], max_tokens=500,
-        messages=[{"role": "user", "content": [
-            {"type": "image", "source": {"type": "base64", "media_type": "image/jpeg", "data": _encode(path)}},
-            {"type": "text", "text": PROMPT}]}])
-    text = "".join(getattr(b, "text", "") for b in msg.content)
-    m = re.search(r"\{.*\}", text, re.S)
-    return json.loads(m.group(0))
+    for _ in range(2):
+        try:
+            msg = client.messages.create(
+                model=s["vision_model"], max_tokens=600,
+                messages=[{"role": "user", "content": [
+                    {"type": "image", "source": {"type": "base64", "media_type": "image/jpeg", "data": _encode(path)}},
+                    {"type": "text", "text": PROMPT}]}])
+        except Exception as e:  # API/network/model errors must not stop the whole run
+            print(f"vision: API error for {path}: {type(e).__name__}: {str(e)[:200]}")
+            continue
+        text = "".join(getattr(b, "text", "") for b in msg.content)
+        m = re.search(r"\{.*\}", text, re.S)
+        if not m:
+            print(f"vision: no JSON in reply for {path} (stop_reason={getattr(msg, 'stop_reason', '?')}): {text[:160]!r}")
+            continue
+        try:
+            return json.loads(m.group(0))
+        except ValueError:
+            print(f"vision: bad JSON for {path}: {m.group(0)[:160]!r}")
+    return None
 
 
 def analyze(path, key, client, clip=True):
@@ -72,7 +85,12 @@ def analyze(path, key, client, clip=True):
         verdict.update({"is_photograph": False, "is_drawing_or_graphic": True, "confidence": 1 - first["photo_prob"],
                         "stage": "clip", "reasons": ["CLIP: looks like an illustration or graphic"]})
     else:
-        verdict.update(claude_check(path, client))
+        result = claude_check(path, client)
+        if result is None:
+            # Not cached, so it can be retried on a later run.
+            return {"source_key": key, "is_photograph": False, "is_drawing_or_graphic": False, "confidence": 0,
+                    "stage": "error", "reasons": ["vision check failed"]}
+        verdict.update(result)
         verdict["stage"] = "claude"
     verdicts[key] = verdict
     write_json(VERDICTS_PATH, verdicts)

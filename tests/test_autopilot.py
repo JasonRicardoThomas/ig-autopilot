@@ -179,3 +179,28 @@ def test_network_is_blocked():
     import socket
     with pytest.raises(RuntimeError):
         socket.create_connection(("example.com", 80))
+
+
+def test_vision_survives_non_json_reply(tmp_path, monkeypatch):
+    from autopilot import vision
+    monkeypatch.setattr(vision, "VERDICTS_PATH", tmp_path / "verdicts.json")
+    monkeypatch.setattr(vision, "_encode", lambda p: "xx")
+
+    class Block:  # a reply with no JSON at all
+        text = "I can't help with that."
+
+    class Msg:
+        content = [Block()]
+        stop_reason = "end_turn"
+
+    class Client:
+        class messages:
+            @staticmethod
+            def create(**k):
+                return Msg()
+
+    v = vision.analyze(tmp_path / "x.jpg", "k1", Client(), clip=False)
+    assert v["stage"] == "error"
+    ok, _ = vision.judge(v)
+    assert not ok
+    assert not (tmp_path / "verdicts.json").exists()  # failures are not cached
