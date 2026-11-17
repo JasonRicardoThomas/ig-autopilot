@@ -95,6 +95,7 @@ def main(argv=None):
     c = sub.add_parser("calendar"); c.add_argument("--year", type=int)
     sub.add_parser("boost")
     sub.add_parser("test")
+    sub.add_parser("webhook-test")
     a = ap.parse_args(argv)
     if a.cmd == "draft":
         print(json.dumps(pipeline.draft(a.days, render=not a.no_render)))
@@ -114,6 +115,13 @@ def main(argv=None):
         print(calendar.as_markdown(a.year))
     elif a.cmd == "boost":
         print(json.dumps(boost.plan(), indent=2))
+    elif a.cmd == "webhook-test":
+        from . import publisher
+        sample = {"id": "sample", "kind": "carousel", "caption": "Test caption from autopilot", "alt_text": "Test image",
+                  "media_urls": ["https://picsum.photos/id/1015/1080/1350.jpg"] * 4, "location_name": "Polanco, Mexico City", "location_id": ""}
+        payload = publisher.build_payload(sample)
+        payload["is_test"] = True
+        print(publisher.send_webhook(payload))
     elif a.cmd == "test":
         sys.exit(subprocess.call([sys.executable, "-m", "pytest", "-q", str(ROOT / "tests")]))
 

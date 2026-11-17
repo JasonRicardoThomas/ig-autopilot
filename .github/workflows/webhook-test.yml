@@ -1,0 +1,14 @@
+name: Send test to Make
+on: workflow_dispatch
+jobs:
+  send:
+    runs-on: ubuntu-latest
+    env:
+      MAKE_WEBHOOK_URL: ${{ secrets.MAKE_WEBHOOK_URL }}
+      MAKE_WEBHOOK_SECRET: ${{ secrets.MAKE_WEBHOOK_SECRET }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.12"}
+      - run: pip install requests jinja2 pillow
+      - run: PYTHONPATH=src python -m autopilot webhook-test
