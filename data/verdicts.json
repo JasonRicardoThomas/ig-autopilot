@@ -1,34 +1,4 @@
 {
-  "unsplash-8eSrC43qdro": {
-    "confidence": 0.9822483863681555,
-    "is_drawing_or_graphic": true,
-    "is_photograph": false,
-    "reasons": [
-      "CLIP: looks like an illustration or graphic"
-    ],
-    "source_key": "unsplash-8eSrC43qdro",
-    "stage": "clip"
-  },
-  "unsplash-Bgd_03zqF9Q": {
-    "confidence": 0.8396385312080383,
-    "is_drawing_or_graphic": true,
-    "is_photograph": false,
-    "reasons": [
-      "CLIP: looks like an illustration or graphic"
-    ],
-    "source_key": "unsplash-Bgd_03zqF9Q",
-    "stage": "clip"
-  },
-  "unsplash-Hx-4TbpsoIw": {
-    "confidence": 0.9914744505658746,
-    "is_drawing_or_graphic": true,
-    "is_photograph": false,
-    "reasons": [
-      "CLIP: looks like an illustration or graphic"
-    ],
-    "source_key": "unsplash-Hx-4TbpsoIw",
-    "stage": "clip"
-  },
   "unsplash-MtcBG4y3JJ8": {
     "alt": "A child stands facing sunlit windows in an empty classroom with rows of desks and a chalkboard reading 'In The Beginning', in a soft, digitally rendered style.",
     "categories": [
@@ -49,16 +19,6 @@
     "source_key": "unsplash-MtcBG4y3JJ8",
     "stage": "claude"
   },
-  "unsplash-WDg7DlQmfhg": {
-    "confidence": 0.9529677703976631,
-    "is_drawing_or_graphic": true,
-    "is_photograph": false,
-    "reasons": [
-      "CLIP: looks like an illustration or graphic"
-    ],
-    "source_key": "unsplash-WDg7DlQmfhg",
-    "stage": "clip"
-  },
   "unsplash-alw-CwGFmwQ": {
     "alt": "Two men in business attire look at a smartphone together in a bright modern meeting room with large windows and a long wooden conference table.",
     "categories": [
@@ -77,56 +37,6 @@
     "season": "any",
     "source_key": "unsplash-alw-CwGFmwQ",
     "stage": "claude"
-  },
-  "unsplash-c-lUYtNjqxw": {
-    "confidence": 0.9170800745487213,
-    "is_drawing_or_graphic": true,
-    "is_photograph": false,
-    "reasons": [
-      "CLIP: looks like an illustration or graphic"
-    ],
-    "source_key": "unsplash-c-lUYtNjqxw",
-    "stage": "clip"
-  },
-  "unsplash-ddwbTn5HDdQ": {
-    "confidence": 0.9776298012584448,
-    "is_drawing_or_graphic": true,
-    "is_photograph": false,
-    "reasons": [
-      "CLIP: looks like an illustration or graphic"
-    ],
-    "source_key": "unsplash-ddwbTn5HDdQ",
-    "stage": "clip"
-  },
-  "unsplash-e5j8v-a35GY": {
-    "confidence": 0.8494723439216614,
-    "is_drawing_or_graphic": true,
-    "is_photograph": false,
-    "reasons": [
-      "CLIP: looks like an illustration or graphic"
-    ],
-    "source_key": "unsplash-e5j8v-a35GY",
-    "stage": "clip"
-  },
-  "unsplash-iiaUVel-cJE": {
-    "confidence": 0.9881677580997348,
-    "is_drawing_or_graphic": true,
-    "is_photograph": false,
-    "reasons": [
-      "CLIP: looks like an illustration or graphic"
-    ],
-    "source_key": "unsplash-iiaUVel-cJE",
-    "stage": "clip"
-  },
-  "unsplash-nNMBa7Y1Ymk": {
-    "confidence": 0.9484143294394016,
-    "is_drawing_or_graphic": true,
-    "is_photograph": false,
-    "reasons": [
-      "CLIP: looks like an illustration or graphic"
-    ],
-    "source_key": "unsplash-nNMBa7Y1Ymk",
-    "stage": "clip"
   },
   "unsplash-rRWiVQzLm7k": {
     "alt": "A woman with her hair in a bun, seen from behind in a dark green shirt, talks with a man in a gray t-shirt beside a whiteboard in a warmly lit indoor workspace, with a plastic cup with a red straw on the table.",
@@ -167,46 +77,6 @@
     "source_key": "unsplash-uYXnuQfewe0",
     "stage": "claude"
   },
-  "unsplash-ute2XAFQU2I": {
-    "confidence": 0.9645685963332653,
-    "is_drawing_or_graphic": true,
-    "is_photograph": false,
-    "reasons": [
-      "CLIP: looks like an illustration or graphic"
-    ],
-    "source_key": "unsplash-ute2XAFQU2I",
-    "stage": "clip"
-  },
-  "wikimedia-112963110": {
-    "confidence": 0.9152195006608963,
-    "is_drawing_or_graphic": true,
-    "is_photograph": false,
-    "reasons": [
-      "CLIP: looks like an illustration or graphic"
-    ],
-    "source_key": "wikimedia-112963110",
-    "stage": "clip"
-  },
-  "wikimedia-117883894": {
-    "confidence": 0.967104721814394,
-    "is_drawing_or_graphic": true,
-    "is_photograph": false,
-    "reasons": [
-      "CLIP: looks like an illustration or graphic"
-    ],
-    "source_key": "wikimedia-117883894",
-    "stage": "clip"
-  },
-  "wikimedia-131455374": {
-    "confidence": 0.8118032366037369,
-    "is_drawing_or_graphic": true,
-    "is_photograph": false,
-    "reasons": [
-      "CLIP: looks like an illustration or graphic"
-    ],
-    "source_key": "wikimedia-131455374",
-    "stage": "clip"
-  },
   "wikimedia-149941400": {
     "alt": "Three people pose in front of an American Hockey League backdrop at an awards event, with the middle woman holding a certificate for Most Unique Social Media Content.",
     "categories": [
@@ -244,55 +114,5 @@
     "season": "any",
     "source_key": "wikimedia-149941470",
     "stage": "claude"
-  },
-  "wikimedia-149941703": {
-    "confidence": 0.995767961256206,
-    "is_drawing_or_graphic": true,
-    "is_photograph": false,
-    "reasons": [
-      "CLIP: looks like an illustration or graphic"
-    ],
-    "source_key": "wikimedia-149941703",
-    "stage": "clip"
-  },
-  "wikimedia-201257723": {
-    "confidence": 0.814706102013588,
-    "is_drawing_or_graphic": true,
-    "is_photograph": false,
-    "reasons": [
-      "CLIP: looks like an illustration or graphic"
-    ],
-    "source_key": "wikimedia-201257723",
-    "stage": "clip"
-  },
-  "wikimedia-201257724": {
-    "confidence": 0.7687090337276459,
-    "is_drawing_or_graphic": true,
-    "is_photograph": false,
-    "reasons": [
-      "CLIP: looks like an illustration or graphic"
-    ],
-    "source_key": "wikimedia-201257724",
-    "stage": "clip"
-  },
-  "wikimedia-39964310": {
-    "confidence": 0.9571929946541786,
-    "is_drawing_or_graphic": true,
-    "is_photograph": false,
-    "reasons": [
-      "CLIP: looks like an illustration or graphic"
-    ],
-    "source_key": "wikimedia-39964310",
-    "stage": "clip"
-  },
-  "wikimedia-78463645": {
-    "confidence": 0.9895365061238408,
-    "is_drawing_or_graphic": true,
-    "is_photograph": false,
-    "reasons": [
-      "CLIP: looks like an illustration or graphic"
-    ],
-    "source_key": "wikimedia-78463645",
-    "stage": "clip"
   }
 }

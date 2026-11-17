@@ -55,7 +55,7 @@ def claude_check(path, client):
     for _ in range(2):
         try:
             msg = client.messages.create(
-                model=s["vision_model"], max_tokens=600,
+                model=s["vision_model"], max_tokens=1200,
                 messages=[{"role": "user", "content": [
                     {"type": "image", "source": {"type": "base64", "media_type": "image/jpeg", "data": _encode(path)}},
                     {"type": "text", "text": PROMPT}]}])
@@ -81,7 +81,7 @@ def analyze(path, key, client, clip=True):
         return verdicts[key]
     verdict = {"source_key": key}
     first = clip_first_pass(path) if clip else None
-    if first is not None and first["photo_prob"] < 0.25:
+    if first is not None and first["photo_prob"] < settings().get("clip_reject_below", 0.0):
         verdict.update({"is_photograph": False, "is_drawing_or_graphic": True, "confidence": 1 - first["photo_prob"],
                         "stage": "clip", "reasons": ["CLIP: looks like an illustration or graphic"]})
     else:
