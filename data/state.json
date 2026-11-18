@@ -1,32 +1,46 @@
 {
   "last_published": "2026-11-18T19:22:39.752564+00:00",
   "mix_debt": {
-    "carousel": -0.1,
-    "reel": -0.19999999999999973,
-    "single": 0.3
+    "carousel": 0.35,
+    "reel": 0.2000000000000004,
+    "single": -0.55
   },
-  "moment_posts": {},
-  "moment_week": {},
+  "moment_posts": {
+    "black_friday:2026-11-24": 1
+  },
+  "moment_week": {
+    "2026-W47": 1
+  },
   "pillar_debt": {
-    "business_english": 0.3846153846153848,
-    "city_life": -0.3076923076923076,
-    "consulting": -0.3076923076923076,
-    "english_tips": -0.07692307692307687,
-    "level_test": 0.46153846153846156,
-    "resources": -0.07692307692307687,
-    "writing": -0.07692307692307687
+    "business_english": -0.0528846153846152,
+    "city_life": -0.0264423076923076,
+    "consulting": -0.0264423076923076,
+    "english_tips": 0.29807692307692313,
+    "level_test": -0.35096153846153844,
+    "resources": 0.29807692307692313,
+    "sectors": -0.4375,
+    "writing": 0.29807692307692313
   },
   "region_debt": {
-    "madrid": 0.5,
-    "mexico_city": 0.0,
-    "seville": -0.5
+    "barcelona": -0.64,
+    "basque_country": 0.30000000000000004,
+    "cantabria": 0.21000000000000002,
+    "galicia": 0.24,
+    "madrid": -0.35,
+    "mallorca": 0.18,
+    "mexico_city": 0.29,
+    "seville": -0.4099999999999999,
+    "valladolid": 0.18
   },
   "topic_used": {
     "be_interrupt": "2026-11-18",
+    "be_smalltalk": "2026-11-20",
     "cl_lunch": "2026-11-19",
     "co_programme": "2026-11-19",
     "et_used_to": "2026-11-19",
+    "lt_find": "2026-11-20",
     "re_news_class": "2026-11-18",
+    "sec_retail_1": "2026-11-20",
     "wr_first_line": "2026-11-18"
   }
 }
