@@ -1,8 +1,9 @@
 {
   "alt_text": "Two students sit at wooden desks in a classroom with a green chalkboard, a wall clock, and a wooden floor, with warm light falling across the room. in Polanco, Mexico City. Text on the image: False friends: words that look Spanish but aren't",
-  "attempts": 0,
+  "attempts": 1,
   "caption": "False friends: words that look Spanish but aren't. • embarazada ≠ embarrassed (pregnant)\n• actually ≠ actualmente (in fact)\n• library ≠ librería (biblioteca)\n• assist ≠ asistir (help)\n\n#englishvocabulary #englishgrammar #englishtips #cdmx #growingconnections\n\nBook a free 15-min level chat: WhatsApp +52 1 55 1370 6864 or livinwithme.net/custom-offers\nReserva tu llamada gratis de nivel: WhatsApp +52 1 55 1370 6864",
   "cover_path": "posts/2026-11-19-0-false-friends-words-that/cover.jpg",
+  "cover_url": "https://cdn.jsdelivr.net/gh/JasonRicardoThomas/ig-autopilot@media/posts/2026-11-19-0-false-friends-words-that/cover.jpg",
   "created": "2026-11-17T07:10:21.190806+00:00",
   "date": "2026-11-19",
   "headline": "False friends: words that look Spanish but aren't",
@@ -14,10 +15,15 @@
     "posts/2026-11-19-0-false-friends-words-that/reel.mp4",
     "posts/2026-11-19-0-false-friends-words-that/cover.jpg"
   ],
+  "media_urls": [
+    "https://cdn.jsdelivr.net/gh/JasonRicardoThomas/ig-autopilot@media/posts/2026-11-19-0-false-friends-words-that/reel.mp4",
+    "https://cdn.jsdelivr.net/gh/JasonRicardoThomas/ig-autopilot@media/posts/2026-11-19-0-false-friends-words-that/cover.jpg"
+  ],
   "moment": null,
   "photo": "unsplash-e5j8v-a35GY",
   "photo_credit": "Pesce Huang / Unsplash",
   "pillar": "english_tips",
+  "published_at": "2026-11-19T18:13:22.137512+00:00",
   "region": "mexico_city",
   "scheduled_for": "2026-11-19T14:30:00+00:00",
   "slides": [
@@ -34,7 +40,7 @@
       "headline": "Book your free level chat"
     }
   ],
-  "status": "approved",
+  "status": "published",
   "warnings": [
     "Reels location tag may not be applied through the API; place name is in the caption",
     "no Facebook location ID yet (run Find location IDs)"
