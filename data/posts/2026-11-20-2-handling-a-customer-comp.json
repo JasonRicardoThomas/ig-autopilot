@@ -20,12 +20,10 @@
   "scheduled_for": "2026-11-21T01:00:00+00:00",
   "slides": [
     {
-      "body": "Listen first. Apologise once. Say what you can do now. Offer a clear next step. Confirm they're happy to proceed.",
-      "headline": "Handling a customer complaint in English",
-      "role": "cover"
+      "headline": "Handling a customer complaint in English"
     }
   ],
-  "status": "pending",
+  "status": "approved",
   "warnings": [
     "no Facebook location ID yet (run Find location IDs)"
   ]
