@@ -1,51 +1,50 @@
 {
-  "alt_text": "A smiling woman in glasses bites a yellow pencil while looking at a laptop on a wooden desk, with colored pencils in a mesh cup beside her. in Polanco, Mexico City. Text on the image: 5 ways to disagree politely in meetings",
-  "attempts": 1,
-  "caption": "5 ways to disagree politely in meetings. • \"I see your point, however…\"\n• \"Could we look at this from another angle?\"\n• \"I'd like to offer a different perspective.\"\n• \"Let's revisit this once we have the numbers.\"\n\n#learnenglishonline #englishforwork #inglesdenegocios #cdmx #growingconnections\n\nBook a free 15-min level chat: WhatsApp +52 1 55 1370 6864 or livinwithme.net/custom-offers\nReserva tu llamada gratis de nivel: WhatsApp +52 1 55 1370 6864",
-  "cover_path": "posts/2026-11-18-0-5-ways-to-disagree-polit/cover.jpg",
-  "cover_url": "https://cdn.jsdelivr.net/gh/JasonRicardoThomas/ig-autopilot@media/posts/2026-11-18-0-5-ways-to-disagree-polit/cover.jpg",
-  "created": "2026-11-17T07:09:12.690779+00:00",
-  "date": "2026-11-18",
-  "headline": "5 ways to disagree politely in meetings",
-  "id": "2026-11-18-0-5-ways-to-disagree-polit",
-  "kind": "reel",
-  "location_id": null,
-  "location_name": "Polanco, Mexico City",
-  "media": [
-    "posts/2026-11-18-0-5-ways-to-disagree-polit/reel.mp4",
-    "posts/2026-11-18-0-5-ways-to-disagree-polit/cover.jpg"
-  ],
-  "media_urls": [
-    "https://cdn.jsdelivr.net/gh/JasonRicardoThomas/ig-autopilot@media/posts/2026-11-18-0-5-ways-to-disagree-polit/reel.mp4",
-    "https://cdn.jsdelivr.net/gh/JasonRicardoThomas/ig-autopilot@media/posts/2026-11-18-0-5-ways-to-disagree-polit/cover.jpg"
-  ],
-  "moment": null,
-  "photo": "wikimedia-78463645",
-  "photo_credit": "Jan Vašek / Wikimedia Commons (CC0)",
-  "pillar": "business_english",
-  "published_at": "2026-11-18T19:22:39.752564+00:00",
-  "region": "mexico_city",
-  "scheduled_for": "2026-11-18T14:30:00+00:00",
-  "slides": [
-    {
-      "headline": "5 ways to disagree politely in meetings"
-    },
-    {
-      "headline": "1"
-    },
-    {
-      "headline": "2"
-    },
-    {
-      "headline": "3"
-    },
-    {
-      "headline": "Book your free level chat"
-    }
-  ],
-  "status": "published",
-  "warnings": [
-    "Reels location tag may not be applied through the API; place name is in the caption",
-    "no Facebook location ID yet (run Find location IDs)"
-  ]
+ "alt_text": "A smiling woman in glasses bites a yellow pencil while looking at a laptop on a wooden desk, with colored pencils in a mesh cup beside her. in Polanco, Mexico City. Text on the image: 5 ways to disagree politely in meetings",
+ "attempts": 0,
+ "caption": "5 ways to disagree politely in meetings. • \"I see your point, however…\"\n• \"Could we look at this from another angle?\"\n• \"I'd like to offer a different perspective.\"\n• \"Let's revisit this once we have the numbers.\"\n\n#learnenglishonline #englishforwork #inglesdenegocios #cdmx #growingconnections\n\nBook a free 15-min level chat: WhatsApp +52 1 55 1370 6864 or livinwithme.net/custom-offers\nReserva tu llamada gratis de nivel: WhatsApp +52 1 55 1370 6864",
+ "cover_path": "posts/2026-11-18-0-5-ways-to-disagree-polit/cover.jpg",
+ "cover_url": "https://cdn.jsdelivr.net/gh/JasonRicardoThomas/ig-autopilot@media/posts/2026-11-18-0-5-ways-to-disagree-polit/cover.jpg",
+ "created": "2026-11-17T07:09:12.690779+00:00",
+ "date": "2026-11-18",
+ "headline": "5 ways to disagree politely in meetings",
+ "id": "2026-11-18-0-5-ways-to-disagree-polit",
+ "kind": "reel",
+ "location_id": null,
+ "location_name": "Polanco, Mexico City",
+ "media": [
+  "posts/2026-11-18-0-5-ways-to-disagree-polit/reel.mp4",
+  "posts/2026-11-18-0-5-ways-to-disagree-polit/cover.jpg"
+ ],
+ "media_urls": [
+  "https://cdn.jsdelivr.net/gh/JasonRicardoThomas/ig-autopilot@media/posts/2026-11-18-0-5-ways-to-disagree-polit/reel.mp4",
+  "https://cdn.jsdelivr.net/gh/JasonRicardoThomas/ig-autopilot@media/posts/2026-11-18-0-5-ways-to-disagree-polit/cover.jpg"
+ ],
+ "moment": null,
+ "photo": "wikimedia-78463645",
+ "photo_credit": "Jan Vašek / Wikimedia Commons (CC0)",
+ "pillar": "business_english",
+ "region": "mexico_city",
+ "scheduled_for": "2026-11-18T14:30:00+00:00",
+ "slides": [
+  {
+   "headline": "5 ways to disagree politely in meetings"
+  },
+  {
+   "headline": "1"
+  },
+  {
+   "headline": "2"
+  },
+  {
+   "headline": "3"
+  },
+  {
+   "headline": "Book your free level chat"
+  }
+ ],
+ "status": "approved",
+ "warnings": [
+  "Reels location tag may not be applied through the API; place name is in the caption",
+  "no Facebook location ID yet (run Find location IDs)"
+ ]
 }
