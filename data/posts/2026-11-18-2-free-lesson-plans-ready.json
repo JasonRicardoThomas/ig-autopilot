@@ -1,6 +1,6 @@
 {
   "alt_text": "An open blank notebook, a closed-screen laptop, and a glass of water sit on a light wooden desk in a bright room near a window. in Barrio de Salamanca, Madrid. Text on the image: Free lesson plans, ready to teach",
-  "attempts": 0,
+  "attempts": 1,
   "caption": "A good lesson built on authentic material usually follows a simple shape, and it is the shape our plans use. First, a short lead-in so students activate what they already know about the topic. Then the news story or video for gist only: what is this about, and who is involved? Only after that do you go back for detail and language. Pre-teach four or five words, no more. Choose the ones students need to understand the story, not every unfamiliar item. Finish with a task where students use the language to react, argue or decide something. That is the moment real material becomes real speaking. Our free plans are built this way: real news and video, a student worksheet, slides and a teacher plan, from A2 to C1.\n\n#eslteacher #teachingresources #tefl #madrid #growingconnections\n\nBook a free 15-min level chat: WhatsApp +52 1 55 1370 6864 or livinwithme.net/custom-offers\nReserva tu llamada gratis de nivel: WhatsApp +52 1 55 1370 6864",
   "created": "2026-11-17T07:10:06.951359+00:00",
   "date": "2026-11-18",
@@ -15,10 +15,17 @@
     "posts/2026-11-18-2-free-lesson-plans-ready/slide_3.jpg",
     "posts/2026-11-18-2-free-lesson-plans-ready/slide_4.jpg"
   ],
+  "media_urls": [
+    "https://cdn.jsdelivr.net/gh/JasonRicardoThomas/ig-autopilot@media/posts/2026-11-18-2-free-lesson-plans-ready/slide_1.jpg",
+    "https://cdn.jsdelivr.net/gh/JasonRicardoThomas/ig-autopilot@media/posts/2026-11-18-2-free-lesson-plans-ready/slide_2.jpg",
+    "https://cdn.jsdelivr.net/gh/JasonRicardoThomas/ig-autopilot@media/posts/2026-11-18-2-free-lesson-plans-ready/slide_3.jpg",
+    "https://cdn.jsdelivr.net/gh/JasonRicardoThomas/ig-autopilot@media/posts/2026-11-18-2-free-lesson-plans-ready/slide_4.jpg"
+  ],
   "moment": null,
   "photo": "unsplash-WDg7DlQmfhg",
   "photo_credit": "Marissa Grootes / Unsplash",
   "pillar": "resources",
+  "published_at": "2026-11-19T09:06:27.280138+00:00",
   "region": "madrid",
   "scheduled_for": "2026-11-19T01:00:00+00:00",
   "slides": [
@@ -35,7 +42,7 @@
       "headline": "New plans every week"
     }
   ],
-  "status": "approved",
+  "status": "published",
   "warnings": [
     "no Facebook location ID yet (run Find location IDs)"
   ]
