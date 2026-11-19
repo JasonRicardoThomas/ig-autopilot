@@ -22,27 +22,19 @@
   "scheduled_for": "2026-11-20T19:00:00+00:00",
   "slides": [
     {
-      "body": "15 minutes. Free, online, and no sign-up needed to start.",
-      "headline": "Find your Business English level",
-      "role": "cover"
+      "headline": "Find your Business English level"
     },
     {
-      "body": "Grammar, vocabulary and reading: the foundations behind your emails, reports and meetings.",
-      "headline": "Three skills, one short test",
-      "role": "body"
+      "headline": "Three skills, one short test"
     },
     {
-      "body": "A clear result on the international scale, plus practical next steps for where to focus first.",
-      "headline": "You get a CEFR level",
-      "role": "body"
+      "headline": "You get a CEFR level"
     },
     {
-      "body": "We talk through your result and what to work on next. No pressure.",
-      "headline": "Then, a free chat",
-      "role": "cta"
+      "headline": "Then, a free chat"
     }
   ],
-  "status": "pending",
+  "status": "approved",
   "warnings": [
     "Reels location tag may not be applied through the API; place name is in the caption",
     "no Facebook location ID yet (run Find location IDs)"
