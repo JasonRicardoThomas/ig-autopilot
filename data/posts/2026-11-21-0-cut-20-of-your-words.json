@@ -1,0 +1,55 @@
+{
+  "alt_text": "A woman with long brown hair works on a silver laptop at a wooden counter by a cafe window, with a backpack, a coffee cup, and an orange external hard drive nearby. in Santa Fe, Mexico City. Text on the image: Cut 20% of your words",
+  "attempts": 0,
+  "caption": "Cut 20% of your words. • Delete \"very\", \"really\", \"just\".\n• Replace weak verb + adverb with one strong verb.\n• Remove sentences that repeat.\n• Keep what changes the reader.\n\n#amwriting #escribir #writingcommunity #cdmx #growingconnections\n\nBook a free 15-min level chat: WhatsApp +52 1 55 1370 6864 or livinwithme.net/custom-offers\nReserva tu llamada gratis de nivel: WhatsApp +52 1 55 1370 6864",
+  "cover_path": "posts/2026-11-21-0-cut-20-of-your-words/cover.jpg",
+  "created": "2026-11-19T19:40:08.317396+00:00",
+  "date": "2026-11-21",
+  "headline": "Cut 20% of your words",
+  "id": "2026-11-21-0-cut-20-of-your-words",
+  "kind": "reel",
+  "location_id": null,
+  "location_name": "Santa Fe, Mexico City",
+  "media": [
+    "posts/2026-11-21-0-cut-20-of-your-words/reel.mp4",
+    "posts/2026-11-21-0-cut-20-of-your-words/cover.jpg"
+  ],
+  "moment": null,
+  "photo": "unsplash-ute2XAFQU2I",
+  "photo_credit": "Andrew Neel / Unsplash",
+  "pillar": "writing",
+  "region": "mexico_city",
+  "scheduled_for": "2026-11-21T14:30:00+00:00",
+  "slides": [
+    {
+      "body": "",
+      "headline": "Cut 20% of your words",
+      "role": "cover"
+    },
+    {
+      "body": "Delete \"very\", \"really\", \"just\".",
+      "headline": "1",
+      "role": "body"
+    },
+    {
+      "body": "Replace weak verb + adverb with one strong verb.",
+      "headline": "2",
+      "role": "body"
+    },
+    {
+      "body": "Remove sentences that repeat.",
+      "headline": "3",
+      "role": "body"
+    },
+    {
+      "body": "WhatsApp +52 1 55 1370 6864",
+      "headline": "Book your free level chat",
+      "role": "cta"
+    }
+  ],
+  "status": "pending",
+  "warnings": [
+    "Reels location tag may not be applied through the API; place name is in the caption",
+    "no Facebook location ID yet (run Find location IDs)"
+  ]
+}

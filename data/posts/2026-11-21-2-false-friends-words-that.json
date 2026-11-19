@@ -1,0 +1,56 @@
+{
+  "alt_text": "Visitors walk across the tiled plaza of Seville's Plaza de España, with its brick Renaissance Revival palace, tall tower, fountain, and canal under a clear blue sky. in Roma Norte, Mexico City. Text on the image: False friends: words that look Spanish but aren't",
+  "attempts": 0,
+  "caption": "False friends: words that look Spanish but aren't. • embarazada ≠ embarrassed (pregnant)\n• actually ≠ actualmente (in fact)\n• library ≠ librería (biblioteca)\n• assist ≠ asistir (help)\n\n#englishtips #englishgrammar #englishvocabulary #cdmx #growingconnections\n\nBook a free 15-min level chat: WhatsApp +52 1 55 1370 6864 or livinwithme.net/custom-offers\nReserva tu llamada gratis de nivel: WhatsApp +52 1 55 1370 6864",
+  "created": "2026-11-19T19:40:52.360111+00:00",
+  "date": "2026-11-21",
+  "headline": "False friends: words that look Spanish but aren't",
+  "id": "2026-11-21-2-false-friends-words-that",
+  "kind": "carousel",
+  "location_id": null,
+  "location_name": "Roma Norte, Mexico City",
+  "media": [
+    "posts/2026-11-21-2-false-friends-words-that/slide_1.jpg",
+    "posts/2026-11-21-2-false-friends-words-that/slide_2.jpg",
+    "posts/2026-11-21-2-false-friends-words-that/slide_3.jpg",
+    "posts/2026-11-21-2-false-friends-words-that/slide_4.jpg",
+    "posts/2026-11-21-2-false-friends-words-that/slide_5.jpg"
+  ],
+  "moment": null,
+  "photo": "unsplash-vpgx4xHLtE4",
+  "photo_credit": "Klaudia Piaskowska / Unsplash",
+  "pillar": "english_tips",
+  "region": "mexico_city",
+  "scheduled_for": "2026-11-22T01:00:00+00:00",
+  "slides": [
+    {
+      "body": "",
+      "headline": "False friends: words that look Spanish but aren't",
+      "role": "cover"
+    },
+    {
+      "body": "embarazada ≠ embarrassed (pregnant)",
+      "headline": "1",
+      "role": "body"
+    },
+    {
+      "body": "actually ≠ actualmente (in fact)",
+      "headline": "2",
+      "role": "body"
+    },
+    {
+      "body": "library ≠ librería (biblioteca)",
+      "headline": "3",
+      "role": "body"
+    },
+    {
+      "body": "WhatsApp +52 1 55 1370 6864",
+      "headline": "Book your free level chat",
+      "role": "cta"
+    }
+  ],
+  "status": "pending",
+  "warnings": [
+    "no Facebook location ID yet (run Find location IDs)"
+  ]
+}
