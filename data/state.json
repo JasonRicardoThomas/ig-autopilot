@@ -1,9 +1,9 @@
 {
   "last_published": "2026-11-20T17:55:09.534056+00:00",
   "mix_debt": {
-    "carousel": -0.19999999999999996,
-    "reel": 0.6000000000000005,
-    "single": -0.4
+    "carousel": 0.25,
+    "reel": 6.661338147750939e-16,
+    "single": -0.25000000000000006
   },
   "moment_posts": {
     "black_friday:2026-11-24": 1
@@ -12,36 +12,39 @@
     "2026-W47": 1
   },
   "pillar_debt": {
-    "business_english": 0.5096153846153848,
-    "city_life": 0.2548076923076924,
-    "consulting": 0.2548076923076924,
-    "english_tips": -0.32692307692307687,
-    "level_test": -0.16346153846153844,
-    "resources": -0.32692307692307687,
-    "sectors": 0.125,
-    "writing": -0.32692307692307687
+    "business_english": 0.0721153846153848,
+    "city_life": 0.5360576923076924,
+    "consulting": -0.4639423076923076,
+    "english_tips": 0.04807692307692313,
+    "level_test": 0.024038461538461564,
+    "resources": 0.04807692307692313,
+    "sectors": -0.3125,
+    "writing": 0.04807692307692313
   },
   "region_debt": {
-    "barcelona": -0.28,
-    "basque_country": -0.4,
-    "cantabria": 0.42000000000000004,
-    "galicia": 0.48000000000000004,
-    "madrid": -0.2,
-    "mallorca": 0.36,
-    "mexico_city": -0.42000000000000004,
-    "seville": -0.31999999999999984,
-    "valladolid": 0.36
+    "barcelona": 0.07999999999999996,
+    "basque_country": -0.10000000000000003,
+    "cantabria": -0.36999999999999994,
+    "galicia": -0.2799999999999999,
+    "madrid": -0.05000000000000002,
+    "mallorca": 0.54,
+    "mexico_city": -0.13000000000000012,
+    "seville": -0.2299999999999998,
+    "valladolid": 0.54
   },
   "topic_used": {
     "be_interrupt": "2026-11-18",
+    "be_negotiate": "2026-11-22",
     "be_smalltalk": "2026-11-20",
     "cl_lunch": "2026-11-19",
+    "co_curriculum": "2026-11-22",
     "co_programme": "2026-11-19",
     "et_false_friends": "2026-11-21",
     "et_used_to": "2026-11-19",
     "lt_find": "2026-11-20",
     "re_news_class": "2026-11-18",
     "re_warmups": "2026-11-21",
+    "sec_csuite_2": "2026-11-22",
     "sec_retail_1": "2026-11-20",
     "wr_cut_20": "2026-11-21",
     "wr_first_line": "2026-11-18"
