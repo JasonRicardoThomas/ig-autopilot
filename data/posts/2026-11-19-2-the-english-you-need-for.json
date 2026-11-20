@@ -1,8 +1,9 @@
 {
   "alt_text": "Visitors row a small boat along the canal at Seville's Plaza de España, past the tiled bridge and ornate brick regionalist buildings under a clear blue sky. in Barrio Santa Cruz, Seville. Text on the image: The English you need for a business lunch in Seville",
-  "attempts": 0,
+  "attempts": 1,
   "caption": "The English you need for a business lunch in Seville. • Recommend a dish with confidence.\n• Move from small talk to business.\n• Pay the bill gracefully.\n• Follow up the next morning.\n\n📷 a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/46721 / Wikimedia Commons (CC BY 2.0)\n\n#networking #expatlife #englishspeaking #sevilla #growingconnections\n\nBook a free 15-min level chat: WhatsApp +52 1 55 1370 6864 or livinwithme.net/custom-offers\nReserva tu llamada gratis de nivel: WhatsApp +52 1 55 1370 6864",
   "cover_path": "posts/2026-11-19-2-the-english-you-need-for/cover.jpg",
+  "cover_url": "https://cdn.jsdelivr.net/gh/JasonRicardoThomas/ig-autopilot@media/posts/2026-11-19-2-the-english-you-need-for/cover.jpg",
   "created": "2026-11-17T07:11:10.347957+00:00",
   "date": "2026-11-19",
   "headline": "The English you need for a business lunch in Seville",
@@ -14,10 +15,15 @@
     "posts/2026-11-19-2-the-english-you-need-for/reel.mp4",
     "posts/2026-11-19-2-the-english-you-need-for/cover.jpg"
   ],
+  "media_urls": [
+    "https://cdn.jsdelivr.net/gh/JasonRicardoThomas/ig-autopilot@media/posts/2026-11-19-2-the-english-you-need-for/reel.mp4",
+    "https://cdn.jsdelivr.net/gh/JasonRicardoThomas/ig-autopilot@media/posts/2026-11-19-2-the-english-you-need-for/cover.jpg"
+  ],
   "moment": null,
   "photo": "wikimedia-185815500",
   "photo_credit": "a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/46721 / Wikimedia Commons (CC BY 2.0)",
   "pillar": "city_life",
+  "published_at": "2026-11-20T23:50:41.345146+00:00",
   "region": "seville",
   "scheduled_for": "2026-11-20T01:00:00+00:00",
   "slides": [
@@ -37,7 +43,7 @@
       "headline": "Book your free level chat"
     }
   ],
-  "status": "approved",
+  "status": "published",
   "warnings": [
     "Reels location tag may not be applied through the API; place name is in the caption",
     "no Facebook location ID yet (run Find location IDs)"
