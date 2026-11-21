@@ -1,8 +1,9 @@
 {
   "alt_text": "A woman with her hair in a bun, seen from behind in a dark green shirt, talks with a man in a gray t-shirt beside a whiteboard in a warmly lit indoor workspace, with a plastic cup with a red straw on the table. in Centro Histórico, Mexico City. Text on the image: Find your Business English level in 15 minutes",
-  "attempts": 0,
+  "attempts": 1,
   "caption": "Most professionals in Mexico City know their English is \"good\" or \"not bad\", but few know where it sits on the CEFR scale. That is the difference between guessing and planning. Our short level test takes about 15 minutes. It is free and online, and you can start without signing up. It looks at grammar, vocabulary and reading, then gives you a CEFR level and clear next steps. If you are thinking about gifts this season, skip the gadgets. A skill outlasts any device, and knowing your starting point is the first step to building it. Once you have your result, a free chat is there to talk it through.\n\n#learnenglish #englishtest #englishlevel #cdmx #growingconnections\n\nBook a free 15-min level chat: WhatsApp +52 1 55 1370 6864 or livinwithme.net/custom-offers\nReserva tu llamada gratis de nivel: WhatsApp +52 1 55 1370 6864",
   "cover_path": "posts/2026-11-20-1-find-your-business-engli/cover.jpg",
+  "cover_url": "https://cdn.jsdelivr.net/gh/JasonRicardoThomas/ig-autopilot@media/posts/2026-11-20-1-find-your-business-engli/cover.jpg",
   "created": "2026-11-18T20:03:58.238948+00:00",
   "date": "2026-11-20",
   "headline": "Find your Business English level in 15 minutes",
@@ -14,10 +15,15 @@
     "posts/2026-11-20-1-find-your-business-engli/reel.mp4",
     "posts/2026-11-20-1-find-your-business-engli/cover.jpg"
   ],
+  "media_urls": [
+    "https://cdn.jsdelivr.net/gh/JasonRicardoThomas/ig-autopilot@media/posts/2026-11-20-1-find-your-business-engli/reel.mp4",
+    "https://cdn.jsdelivr.net/gh/JasonRicardoThomas/ig-autopilot@media/posts/2026-11-20-1-find-your-business-engli/cover.jpg"
+  ],
   "moment": "black_friday",
   "photo": "unsplash-rRWiVQzLm7k",
   "photo_credit": "charlesdeluvio / Unsplash",
   "pillar": "level_test",
+  "published_at": "2026-11-21T14:54:08.006991+00:00",
   "region": "mexico_city",
   "scheduled_for": "2026-11-20T19:00:00+00:00",
   "slides": [
@@ -34,7 +40,7 @@
       "headline": "Then, a free chat"
     }
   ],
-  "status": "approved",
+  "status": "published",
   "warnings": [
     "Reels location tag may not be applied through the API; place name is in the caption",
     "no Facebook location ID yet (run Find location IDs)"
