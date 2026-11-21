@@ -1,0 +1,51 @@
+{
+  "alt_text": "Photo in Paseo Marítimo, Palma. Text on the image: A 5-minute daily writing habit",
+  "attempts": 0,
+  "caption": "A 5-minute daily writing habit. • Same time, same place.\n• One prompt, five minutes.\n• Do not edit while you write.\n• Keep a streak, not a standard.\n\n#escribir #amwriting #writingtips #mallorca #growingconnections\n\nBook a free 15-min level chat: WhatsApp +52 1 55 1370 6864 or livinwithme.net/custom-offers\nReserva tu llamada gratis de nivel: WhatsApp +52 1 55 1370 6864",
+  "created": "2026-11-21T18:20:50.207981+00:00",
+  "date": "2026-11-23",
+  "headline": "A 5-minute daily writing habit",
+  "id": "2026-11-23-2-a-5-minute-daily-writing",
+  "kind": "carousel",
+  "location_id": null,
+  "location_name": "Paseo Marítimo, Palma",
+  "media": [
+    "posts/2026-11-23-2-a-5-minute-daily-writing/slide_1.jpg",
+    "posts/2026-11-23-2-a-5-minute-daily-writing/slide_2.jpg",
+    "posts/2026-11-23-2-a-5-minute-daily-writing/slide_3.jpg",
+    "posts/2026-11-23-2-a-5-minute-daily-writing/slide_4.jpg"
+  ],
+  "moment": null,
+  "photo": null,
+  "photo_credit": null,
+  "pillar": "writing",
+  "region": "mallorca",
+  "scheduled_for": "2026-11-24T01:00:00+00:00",
+  "slides": [
+    {
+      "body": "",
+      "headline": "A 5-minute daily writing habit",
+      "role": "cover"
+    },
+    {
+      "body": "Same time, same place.",
+      "headline": "1",
+      "role": "body"
+    },
+    {
+      "body": "One prompt, five minutes.",
+      "headline": "2",
+      "role": "body"
+    },
+    {
+      "body": "WhatsApp +52 1 55 1370 6864",
+      "headline": "Book your free level chat",
+      "role": "cta"
+    }
+  ],
+  "status": "pending",
+  "warnings": [
+    "no verified real photo available; slides use the brand background",
+    "no Facebook location ID yet (run Find location IDs)"
+  ]
+}
