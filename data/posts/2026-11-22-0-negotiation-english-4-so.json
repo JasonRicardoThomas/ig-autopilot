@@ -22,32 +22,22 @@
   "scheduled_for": "2026-11-22T14:30:00+00:00",
   "slides": [
     {
-      "body": "",
-      "headline": "Negotiation English: 4 softeners that keep deals alive",
-      "role": "cover"
+      "headline": "Negotiation English: 4 softeners that keep deals alive"
     },
     {
-      "body": "\"We'd be open to…\"",
-      "headline": "1",
-      "role": "body"
+      "headline": "1"
     },
     {
-      "body": "\"Would it be possible to…?\"",
-      "headline": "2",
-      "role": "body"
+      "headline": "2"
     },
     {
-      "body": "\"If we could…, we'd be able to…\"",
-      "headline": "3",
-      "role": "body"
+      "headline": "3"
     },
     {
-      "body": "WhatsApp +52 1 55 1370 6864",
-      "headline": "Book your free level chat",
-      "role": "cta"
+      "headline": "Book your free level chat"
     }
   ],
-  "status": "pending",
+  "status": "approved",
   "warnings": [
     "Reels location tag may not be applied through the API; place name is in the caption",
     "no Facebook location ID yet (run Find location IDs)"
