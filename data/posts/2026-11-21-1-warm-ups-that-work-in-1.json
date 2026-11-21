@@ -22,32 +22,22 @@
   "scheduled_for": "2026-11-21T19:00:00+00:00",
   "slides": [
     {
-      "body": "",
-      "headline": "Warm-ups that work in 1-to-1 classes",
-      "role": "cover"
+      "headline": "Warm-ups that work in 1-to-1 classes"
     },
     {
-      "body": "Two truths and a lie, at work.",
-      "headline": "1",
-      "role": "body"
+      "headline": "1"
     },
     {
-      "body": "\"Answer without thinking\" starters.",
-      "headline": "2",
-      "role": "body"
+      "headline": "2"
     },
     {
-      "body": "A photo and three questions.",
-      "headline": "3",
-      "role": "body"
+      "headline": "3"
     },
     {
-      "body": "WhatsApp +52 1 55 1370 6864",
-      "headline": "Book your free level chat",
-      "role": "cta"
+      "headline": "Book your free level chat"
     }
   ],
-  "status": "pending",
+  "status": "approved",
   "warnings": [
     "no verified real photo available; slides use the brand background",
     "Reels location tag may not be applied through the API; place name is in the caption",
