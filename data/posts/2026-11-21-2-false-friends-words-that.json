@@ -24,32 +24,22 @@
   "scheduled_for": "2026-11-22T01:00:00+00:00",
   "slides": [
     {
-      "body": "",
-      "headline": "False friends: words that look Spanish but aren't",
-      "role": "cover"
+      "headline": "False friends: words that look Spanish but aren't"
     },
     {
-      "body": "embarazada ≠ embarrassed (pregnant)",
-      "headline": "1",
-      "role": "body"
+      "headline": "1"
     },
     {
-      "body": "actually ≠ actualmente (in fact)",
-      "headline": "2",
-      "role": "body"
+      "headline": "2"
     },
     {
-      "body": "library ≠ librería (biblioteca)",
-      "headline": "3",
-      "role": "body"
+      "headline": "3"
     },
     {
-      "body": "WhatsApp +52 1 55 1370 6864",
-      "headline": "Book your free level chat",
-      "role": "cta"
+      "headline": "Book your free level chat"
     }
   ],
-  "status": "pending",
+  "status": "approved",
   "warnings": [
     "no Facebook location ID yet (run Find location IDs)"
   ]
