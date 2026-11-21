@@ -1,8 +1,9 @@
 {
   "alt_text": "Ornate cream-stone Beaux-Arts facade of the Palacio de Cibeles in Madrid under a bright blue sky, with a Spanish flag flying from the roofline. in Gran Vía, Madrid. Text on the image: Small talk that builds client trust",
-  "attempts": 0,
+  "attempts": 1,
   "caption": "Small talk that builds client trust. • Ask about their week, then listen.\n• \"How was the trip in?\"\n• \"What's keeping you busy these days?\"\n• Link small talk to the agenda.\n\n#englishforwork #englishforprofessionals #inglesdenegocios #madrid #growingconnections\n\nBook a free 15-min level chat: WhatsApp +52 1 55 1370 6864 or livinwithme.net/custom-offers\nReserva tu llamada gratis de nivel: WhatsApp +52 1 55 1370 6864",
   "cover_path": "posts/2026-11-20-0-small-talk-that-builds-c/cover.jpg",
+  "cover_url": "https://cdn.jsdelivr.net/gh/JasonRicardoThomas/ig-autopilot@media/posts/2026-11-20-0-small-talk-that-builds-c/cover.jpg",
   "created": "2026-11-18T20:03:36.968594+00:00",
   "date": "2026-11-20",
   "headline": "Small talk that builds client trust",
@@ -14,10 +15,15 @@
     "posts/2026-11-20-0-small-talk-that-builds-c/reel.mp4",
     "posts/2026-11-20-0-small-talk-that-builds-c/cover.jpg"
   ],
+  "media_urls": [
+    "https://cdn.jsdelivr.net/gh/JasonRicardoThomas/ig-autopilot@media/posts/2026-11-20-0-small-talk-that-builds-c/reel.mp4",
+    "https://cdn.jsdelivr.net/gh/JasonRicardoThomas/ig-autopilot@media/posts/2026-11-20-0-small-talk-that-builds-c/cover.jpg"
+  ],
   "moment": null,
   "photo": "unsplash-d5vpK2XFF5E",
   "photo_credit": "Álvaro Bernal / Unsplash",
   "pillar": "business_english",
+  "published_at": "2026-11-21T06:27:10.447560+00:00",
   "region": "madrid",
   "scheduled_for": "2026-11-20T14:30:00+00:00",
   "slides": [
@@ -37,7 +43,7 @@
       "headline": "Book your free level chat"
     }
   ],
-  "status": "approved",
+  "status": "published",
   "warnings": [
     "Reels location tag may not be applied through the API; place name is in the caption",
     "no Facebook location ID yet (run Find location IDs)"
