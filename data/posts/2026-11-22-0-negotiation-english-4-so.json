@@ -1,8 +1,9 @@
 {
   "alt_text": "A blue-and-white azulejo ceramic urn in the foreground frames the brick Renaissance Revival tower of Seville's Plaza de España under a partly cloudy sky, with a few people walking near the arches. in Torre de Hércules, A Coruña. Text on the image: Negotiation English: 4 softeners that keep deals alive",
-  "attempts": 0,
+  "attempts": 1,
   "caption": "Negotiation English: 4 softeners that keep deals alive. • \"We'd be open to…\"\n• \"Would it be possible to…?\"\n• \"If we could…, we'd be able to…\"\n• \"That might be difficult, but…\"\n\n#englishforwork #learnenglishonline #businessenglish #galicia #growingconnections\n\nBook a free 15-min level chat: WhatsApp +52 1 55 1370 6864 or livinwithme.net/custom-offers\nReserva tu llamada gratis de nivel: WhatsApp +52 1 55 1370 6864",
   "cover_path": "posts/2026-11-22-0-negotiation-english-4-so/cover.jpg",
+  "cover_url": "https://cdn.jsdelivr.net/gh/JasonRicardoThomas/ig-autopilot@media/posts/2026-11-22-0-negotiation-english-4-so/cover.jpg",
   "created": "2026-11-20T19:18:39.826974+00:00",
   "date": "2026-11-22",
   "headline": "Negotiation English: 4 softeners that keep deals alive",
@@ -14,10 +15,15 @@
     "posts/2026-11-22-0-negotiation-english-4-so/reel.mp4",
     "posts/2026-11-22-0-negotiation-english-4-so/cover.jpg"
   ],
+  "media_urls": [
+    "https://cdn.jsdelivr.net/gh/JasonRicardoThomas/ig-autopilot@media/posts/2026-11-22-0-negotiation-english-4-so/reel.mp4",
+    "https://cdn.jsdelivr.net/gh/JasonRicardoThomas/ig-autopilot@media/posts/2026-11-22-0-negotiation-english-4-so/cover.jpg"
+  ],
   "moment": null,
   "photo": "unsplash-L0MTvo-s5TU",
   "photo_credit": "Freysteinn G. Jonsson / Unsplash",
   "pillar": "business_english",
+  "published_at": "2026-11-22T21:55:25.216772+00:00",
   "region": "galicia",
   "scheduled_for": "2026-11-22T14:30:00+00:00",
   "slides": [
@@ -37,7 +43,7 @@
       "headline": "Book your free level chat"
     }
   ],
-  "status": "approved",
+  "status": "published",
   "warnings": [
     "Reels location tag may not be applied through the API; place name is in the caption",
     "no Facebook location ID yet (run Find location IDs)"
