@@ -22,32 +22,22 @@
   "scheduled_for": "2026-11-23T19:00:00+00:00",
   "slides": [
     {
-      "body": "Four phrases for your next results meeting.",
-      "headline": "Talk about numbers like a pro",
-      "role": "cover"
+      "headline": "Talk about numbers like a pro"
     },
     {
-      "body": "Use 'by' for the size of the change. Use 'to' for the new figure: 'rose to 4.2 million'.",
-      "headline": "Revenue rose by 12%",
-      "role": "body"
+      "headline": "Revenue rose by 12%"
     },
     {
-      "body": "Pick small, precise words for small movements: flat, slight, steady. They keep your message in proportion.",
-      "headline": "Costs remained flat. A slight dip in Q3.",
-      "role": "body"
+      "headline": "Costs remained flat. A slight dip in Q3."
     },
     {
-      "body": "After 'growth', use 'of' for the amount. 'Year-on-year' names the comparison period, so say it clearly.",
-      "headline": "Year-on-year growth of 8%",
-      "role": "body"
+      "headline": "Year-on-year growth of 8%"
     },
     {
-      "body": "Practise your results updates in English, using your own reports and your own meetings.",
-      "headline": "Present your numbers with confidence",
-      "role": "cta"
+      "headline": "Present your numbers with confidence"
     }
   ],
-  "status": "pending",
+  "status": "approved",
   "warnings": [
     "no verified real photo available; slides use the brand background",
     "Reels location tag may not be applied through the API; place name is in the caption",
