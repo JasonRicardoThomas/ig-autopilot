@@ -1,6 +1,6 @@
 {
   "alt_text": "Visitors walk across the tiled plaza of Seville's Plaza de España, with its brick Renaissance Revival palace, tall tower, fountain, and canal under a clear blue sky. in Roma Norte, Mexico City. Text on the image: False friends: words that look Spanish but aren't",
-  "attempts": 0,
+  "attempts": 1,
   "caption": "False friends: words that look Spanish but aren't. • embarazada ≠ embarrassed (pregnant)\n• actually ≠ actualmente (in fact)\n• library ≠ librería (biblioteca)\n• assist ≠ asistir (help)\n\n#englishtips #englishgrammar #englishvocabulary #cdmx #growingconnections\n\nBook a free 15-min level chat: WhatsApp +52 1 55 1370 6864 or livinwithme.net/custom-offers\nReserva tu llamada gratis de nivel: WhatsApp +52 1 55 1370 6864",
   "created": "2026-11-19T19:40:52.360111+00:00",
   "date": "2026-11-21",
@@ -16,10 +16,18 @@
     "posts/2026-11-21-2-false-friends-words-that/slide_4.jpg",
     "posts/2026-11-21-2-false-friends-words-that/slide_5.jpg"
   ],
+  "media_urls": [
+    "https://cdn.jsdelivr.net/gh/JasonRicardoThomas/ig-autopilot@media/posts/2026-11-21-2-false-friends-words-that/slide_1.jpg",
+    "https://cdn.jsdelivr.net/gh/JasonRicardoThomas/ig-autopilot@media/posts/2026-11-21-2-false-friends-words-that/slide_2.jpg",
+    "https://cdn.jsdelivr.net/gh/JasonRicardoThomas/ig-autopilot@media/posts/2026-11-21-2-false-friends-words-that/slide_3.jpg",
+    "https://cdn.jsdelivr.net/gh/JasonRicardoThomas/ig-autopilot@media/posts/2026-11-21-2-false-friends-words-that/slide_4.jpg",
+    "https://cdn.jsdelivr.net/gh/JasonRicardoThomas/ig-autopilot@media/posts/2026-11-21-2-false-friends-words-that/slide_5.jpg"
+  ],
   "moment": null,
   "photo": "unsplash-vpgx4xHLtE4",
   "photo_credit": "Klaudia Piaskowska / Unsplash",
   "pillar": "english_tips",
+  "published_at": "2026-11-22T16:10:44.069799+00:00",
   "region": "mexico_city",
   "scheduled_for": "2026-11-22T01:00:00+00:00",
   "slides": [
@@ -39,7 +47,7 @@
       "headline": "Book your free level chat"
     }
   ],
-  "status": "approved",
+  "status": "published",
   "warnings": [
     "no Facebook location ID yet (run Find location IDs)"
   ]
