@@ -23,27 +23,19 @@
   "scheduled_for": "2026-11-24T01:00:00+00:00",
   "slides": [
     {
-      "body": "",
-      "headline": "A 5-minute daily writing habit",
-      "role": "cover"
+      "headline": "A 5-minute daily writing habit"
     },
     {
-      "body": "Same time, same place.",
-      "headline": "1",
-      "role": "body"
+      "headline": "1"
     },
     {
-      "body": "One prompt, five minutes.",
-      "headline": "2",
-      "role": "body"
+      "headline": "2"
     },
     {
-      "body": "WhatsApp +52 1 55 1370 6864",
-      "headline": "Book your free level chat",
-      "role": "cta"
+      "headline": "Book your free level chat"
     }
   ],
-  "status": "pending",
+  "status": "approved",
   "warnings": [
     "no verified real photo available; slides use the brand background",
     "no Facebook location ID yet (run Find location IDs)"
