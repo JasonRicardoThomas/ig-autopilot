@@ -1,0 +1,56 @@
+{
+  "alt_text": "Photo in Guggenheim Museum Bilbao. Text on the image: HR: Running an interview in English",
+  "attempts": 0,
+  "caption": "HR: Running an interview in English. • Open with a warm, clear structure.\n• Ask for one example, not a story.\n• Probe with follow-up questions.\n• Close by explaining next steps.\n\n#professionalenglish #englishforwork #englishforprofessionals #euskadi #growingconnections\n\nBook a free 15-min level chat: WhatsApp +52 1 55 1370 6864 or livinwithme.net/custom-offers\nReserva tu llamada gratis de nivel: WhatsApp +52 1 55 1370 6864",
+  "cover_path": "posts/2026-11-24-2-hr-running-an-interview/cover.jpg",
+  "created": "2026-11-22T18:45:04.349979+00:00",
+  "date": "2026-11-24",
+  "headline": "HR: Running an interview in English",
+  "id": "2026-11-24-2-hr-running-an-interview",
+  "kind": "reel",
+  "location_id": null,
+  "location_name": "Guggenheim Museum Bilbao",
+  "media": [
+    "posts/2026-11-24-2-hr-running-an-interview/reel.mp4",
+    "posts/2026-11-24-2-hr-running-an-interview/cover.jpg"
+  ],
+  "moment": null,
+  "photo": null,
+  "photo_credit": null,
+  "pillar": "sectors",
+  "region": "basque_country",
+  "scheduled_for": "2026-11-25T01:00:00+00:00",
+  "slides": [
+    {
+      "body": "",
+      "headline": "HR: Running an interview in English",
+      "role": "cover"
+    },
+    {
+      "body": "Open with a warm, clear structure.",
+      "headline": "1",
+      "role": "body"
+    },
+    {
+      "body": "Ask for one example, not a story.",
+      "headline": "2",
+      "role": "body"
+    },
+    {
+      "body": "Probe with follow-up questions.",
+      "headline": "3",
+      "role": "body"
+    },
+    {
+      "body": "WhatsApp +52 1 55 1370 6864",
+      "headline": "Book your free level chat",
+      "role": "cta"
+    }
+  ],
+  "status": "pending",
+  "warnings": [
+    "no verified real photo available; slides use the brand background",
+    "Reels location tag may not be applied through the API; place name is in the caption",
+    "no Facebook location ID yet (run Find location IDs)"
+  ]
+}
