@@ -227,6 +227,27 @@
     "source_key": "unsplash-WDg7DlQmfhg",
     "stage": "claude"
   },
+  "unsplash-Z44qEGdwaIo": {
+    "alt": "An open English-language book, a takeaway coffee cup with a chevron pattern, and a pen holder sit on a warm wooden desk in soft sunlight.",
+    "categories": [
+      "books",
+      "work",
+      "study",
+      "writing"
+    ],
+    "city": "unknown",
+    "confidence": 0.9,
+    "country": "unknown",
+    "generic_scene": true,
+    "has_text_or_logo": true,
+    "is_drawing_or_graphic": false,
+    "is_photograph": true,
+    "people_present": false,
+    "place": "unknown",
+    "season": "any",
+    "source_key": "unsplash-Z44qEGdwaIo",
+    "stage": "claude"
+  },
   "unsplash-aMWePU__xQo": {
     "alt": "The domed, green-roofed Metropolis building with its winged statue on Madrid's Gran Vía, with pedestrians on the sunny street below.",
     "categories": [
@@ -714,6 +735,27 @@
     "source_key": "wikimedia-185815500",
     "stage": "claude"
   },
+  "wikimedia-190586217": {
+    "alt": "A smiling man in a plaid shirt and jeans, with a blue shoulder bag, stands beside a lectern in a classroom with a whiteboard and a bulletin board of notices.",
+    "categories": [
+      "people",
+      "classroom",
+      "study",
+      "work"
+    ],
+    "city": "unknown",
+    "confidence": 0.8,
+    "country": "unknown",
+    "generic_scene": true,
+    "has_text_or_logo": true,
+    "is_drawing_or_graphic": false,
+    "is_photograph": true,
+    "people_present": true,
+    "place": "classroom with whiteboard, bulletin board and wooden lectern",
+    "season": "any",
+    "source_key": "wikimedia-190586217",
+    "stage": "claude"
+  },
   "wikimedia-190586226": {
     "alt": "A smiling teacher sits at a desk with a road atlas and notebook while five students stand behind him in front of a chalkboard covered with physics equations.",
     "categories": [
@@ -734,6 +776,27 @@
     "place": "classroom with a chalkboard of physics equations",
     "season": "any",
     "source_key": "wikimedia-190586226",
+    "stage": "claude"
+  },
+  "wikimedia-190586234": {
+    "alt": "A smiling woman in a tan blazer sits at a cluttered desk with binders and papers in an office or classroom with a whiteboard behind her.",
+    "categories": [
+      "people",
+      "work",
+      "classroom",
+      "study"
+    ],
+    "city": "unknown",
+    "confidence": 0.9,
+    "country": "unknown",
+    "generic_scene": true,
+    "has_text_or_logo": true,
+    "is_drawing_or_graphic": false,
+    "is_photograph": true,
+    "people_present": true,
+    "place": "office or classroom with a desk, whiteboard and binders",
+    "season": "any",
+    "source_key": "wikimedia-190586234",
     "stage": "claude"
   },
   "wikimedia-190586239": {
