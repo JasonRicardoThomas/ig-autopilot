@@ -1,8 +1,9 @@
 {
   "alt_text": "A woman with long brown hair works on a silver laptop at a wooden counter by a cafe window, with a backpack, a coffee cup, and an orange external hard drive nearby. in Santa Fe, Mexico City. Text on the image: Cut 20% of your words",
-  "attempts": 0,
+  "attempts": 1,
   "caption": "Cut 20% of your words. • Delete \"very\", \"really\", \"just\".\n• Replace weak verb + adverb with one strong verb.\n• Remove sentences that repeat.\n• Keep what changes the reader.\n\n#amwriting #escribir #writingcommunity #cdmx #growingconnections\n\nBook a free 15-min level chat: WhatsApp +52 1 55 1370 6864 or livinwithme.net/custom-offers\nReserva tu llamada gratis de nivel: WhatsApp +52 1 55 1370 6864",
   "cover_path": "posts/2026-11-21-0-cut-20-of-your-words/cover.jpg",
+  "cover_url": "https://cdn.jsdelivr.net/gh/JasonRicardoThomas/ig-autopilot@media/posts/2026-11-21-0-cut-20-of-your-words/cover.jpg",
   "created": "2026-11-19T19:40:08.317396+00:00",
   "date": "2026-11-21",
   "headline": "Cut 20% of your words",
@@ -14,10 +15,15 @@
     "posts/2026-11-21-0-cut-20-of-your-words/reel.mp4",
     "posts/2026-11-21-0-cut-20-of-your-words/cover.jpg"
   ],
+  "media_urls": [
+    "https://cdn.jsdelivr.net/gh/JasonRicardoThomas/ig-autopilot@media/posts/2026-11-21-0-cut-20-of-your-words/reel.mp4",
+    "https://cdn.jsdelivr.net/gh/JasonRicardoThomas/ig-autopilot@media/posts/2026-11-21-0-cut-20-of-your-words/cover.jpg"
+  ],
   "moment": null,
   "photo": "unsplash-ute2XAFQU2I",
   "photo_credit": "Andrew Neel / Unsplash",
   "pillar": "writing",
+  "published_at": "2026-11-22T01:04:32.781238+00:00",
   "region": "mexico_city",
   "scheduled_for": "2026-11-21T14:30:00+00:00",
   "slides": [
@@ -37,7 +43,7 @@
       "headline": "Book your free level chat"
     }
   ],
-  "status": "approved",
+  "status": "published",
   "warnings": [
     "Reels location tag may not be applied through the API; place name is in the caption",
     "no Facebook location ID yet (run Find location IDs)"
