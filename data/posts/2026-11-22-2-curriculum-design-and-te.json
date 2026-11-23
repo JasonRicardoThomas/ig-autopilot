@@ -1,8 +1,9 @@
 {
   "alt_text": "Visitors stroll across the tiled plaza in front of the ornate brick Renaissance Revival arcades and towers of Seville's Plaza de España under a clear blue sky. in Paseo de la Reforma, Mexico City. Text on the image: Curriculum design and teacher training",
-  "attempts": 0,
+  "attempts": 1,
   "caption": "Curriculum design and teacher training. • Map levels to job tasks.\n• Build units teachers can reuse.\n• Train teachers on the method.\n• Review results each quarter.\n\n#corporatetraining #professionaldevelopment #languagetraining #cdmx #growingconnections\n\nBook a free 15-min level chat: WhatsApp +52 1 55 1370 6864 or livinwithme.net/custom-offers\nReserva tu llamada gratis de nivel: WhatsApp +52 1 55 1370 6864",
   "cover_path": "posts/2026-11-22-2-curriculum-design-and-te/cover.jpg",
+  "cover_url": "https://cdn.jsdelivr.net/gh/JasonRicardoThomas/ig-autopilot@media/posts/2026-11-22-2-curriculum-design-and-te/cover.jpg",
   "created": "2026-11-20T19:19:37.151183+00:00",
   "date": "2026-11-22",
   "headline": "Curriculum design and teacher training",
@@ -14,10 +15,15 @@
     "posts/2026-11-22-2-curriculum-design-and-te/reel.mp4",
     "posts/2026-11-22-2-curriculum-design-and-te/cover.jpg"
   ],
+  "media_urls": [
+    "https://cdn.jsdelivr.net/gh/JasonRicardoThomas/ig-autopilot@media/posts/2026-11-22-2-curriculum-design-and-te/reel.mp4",
+    "https://cdn.jsdelivr.net/gh/JasonRicardoThomas/ig-autopilot@media/posts/2026-11-22-2-curriculum-design-and-te/cover.jpg"
+  ],
   "moment": null,
   "photo": "unsplash-QsusPXj3f54",
   "photo_credit": "Gary Ruiz / Unsplash",
   "pillar": "consulting",
+  "published_at": "2026-11-23T09:17:09.963568+00:00",
   "region": "mexico_city",
   "scheduled_for": "2026-11-23T01:00:00+00:00",
   "slides": [
@@ -34,7 +40,7 @@
       "headline": "Book your free level chat"
     }
   ],
-  "status": "approved",
+  "status": "published",
   "warnings": [
     "Reels location tag may not be applied through the API; place name is in the caption",
     "no Facebook location ID yet (run Find location IDs)"
