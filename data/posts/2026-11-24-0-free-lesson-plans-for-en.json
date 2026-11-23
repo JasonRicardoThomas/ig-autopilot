@@ -22,32 +22,22 @@
   "scheduled_for": "2026-11-24T14:30:00+00:00",
   "slides": [
     {
-      "body": "Ready to teach, from A2 to C1.",
-      "headline": "Free lesson plans for English teachers",
-      "role": "cover"
+      "headline": "Free lesson plans for English teachers"
     },
     {
-      "body": "Authentic material is already chosen and built into a lesson, so your prep time goes to your students, not to searching.",
-      "headline": "Real news and video, ready to teach",
-      "role": "body"
+      "headline": "Real news and video, ready to teach"
     },
     {
-      "body": "A student worksheet, slides for the classroom and a teacher plan that walks you through the lesson step by step.",
-      "headline": "Three documents in every plan",
-      "role": "body"
+      "headline": "Three documents in every plan"
     },
     {
-      "body": "Choose the plan that fits your group's level. New plans are added to the blog every week.",
-      "headline": "Levels A2 to C1, new every week",
-      "role": "body"
+      "headline": "Levels A2 to C1, new every week"
     },
     {
-      "body": "This week's plan is waiting on our blog.",
-      "headline": "Your next lesson is ready",
-      "role": "cta"
+      "headline": "Your next lesson is ready"
     }
   ],
-  "status": "pending",
+  "status": "approved",
   "warnings": [
     "no verified real photo available; slides use the brand background",
     "Reels location tag may not be applied through the API; place name is in the caption",
