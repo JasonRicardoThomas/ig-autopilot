@@ -1,0 +1,51 @@
+{
+  "alt_text": "Photo in Rúa do Franco, Santiago de Compostela. Text on the image: Email openers that sound confident, not stiff",
+  "attempts": 0,
+  "caption": "Email openers that sound confident, not stiff. • \"I'm writing to confirm…\"\n• \"Following up on our call…\"\n• \"Just a quick note to flag…\"\n• \"Further to your message…\"\n\n#learnenglishonline #englishforwork #inglesdenegocios #galicia #growingconnections\n\nBook a free 15-min level chat: WhatsApp +52 1 55 1370 6864 or livinwithme.net/custom-offers\nReserva tu llamada gratis de nivel: WhatsApp +52 1 55 1370 6864",
+  "created": "2026-11-23T23:05:11.738824+00:00",
+  "date": "2026-11-25",
+  "headline": "Email openers that sound confident, not stiff",
+  "id": "2026-11-25-1-email-openers-that-sound",
+  "kind": "carousel",
+  "location_id": null,
+  "location_name": "Rúa do Franco, Santiago de Compostela",
+  "media": [
+    "posts/2026-11-25-1-email-openers-that-sound/slide_1.jpg",
+    "posts/2026-11-25-1-email-openers-that-sound/slide_2.jpg",
+    "posts/2026-11-25-1-email-openers-that-sound/slide_3.jpg",
+    "posts/2026-11-25-1-email-openers-that-sound/slide_4.jpg"
+  ],
+  "moment": null,
+  "photo": null,
+  "photo_credit": null,
+  "pillar": "business_english",
+  "region": "galicia",
+  "scheduled_for": "2026-11-25T19:00:00+00:00",
+  "slides": [
+    {
+      "body": "",
+      "headline": "Email openers that sound confident, not stiff",
+      "role": "cover"
+    },
+    {
+      "body": "\"I'm writing to confirm…\"",
+      "headline": "1",
+      "role": "body"
+    },
+    {
+      "body": "\"Following up on our call…\"",
+      "headline": "2",
+      "role": "body"
+    },
+    {
+      "body": "WhatsApp +52 1 55 1370 6864",
+      "headline": "Book your free level chat",
+      "role": "cta"
+    }
+  ],
+  "status": "pending",
+  "warnings": [
+    "no verified real photo available; slides use the brand background",
+    "no Facebook location ID yet (run Find location IDs)"
+  ]
+}

@@ -1,9 +1,9 @@
 {
   "last_published": "2026-11-23T21:09:19.502650+00:00",
   "mix_debt": {
-    "carousel": 0.15000000000000005,
-    "reel": -0.19999999999999907,
-    "single": 0.04999999999999993
+    "carousel": -0.3999999999999999,
+    "reel": 0.20000000000000107,
+    "single": 0.19999999999999996
   },
   "moment_posts": {
     "black_friday:2026-11-24": 2
@@ -13,27 +13,28 @@
     "2026-W48": 1
   },
   "pillar_debt": {
-    "business_english": 0.1971153846153848,
-    "city_life": 0.0985576923076924,
-    "consulting": 0.0985576923076924,
-    "english_tips": -0.20192307692307687,
-    "level_test": 0.39903846153846156,
-    "resources": -0.20192307692307687,
-    "sectors": -0.1875,
-    "writing": -0.20192307692307687
+    "business_english": -0.2403846153846152,
+    "city_life": 0.3798076923076924,
+    "consulting": -0.6201923076923076,
+    "english_tips": 0.17307692307692313,
+    "level_test": -0.41346153846153844,
+    "resources": 0.17307692307692313,
+    "sectors": 0.375,
+    "writing": 0.17307692307692313
   },
   "region_debt": {
-    "barcelona": -0.20000000000000007,
-    "basque_country": -0.5,
-    "cantabria": 0.0500000000000001,
-    "galicia": 0.20000000000000012,
-    "madrid": 0.25,
-    "mallorca": -0.09999999999999981,
-    "mexico_city": 0.44999999999999984,
-    "seville": -0.049999999999999795,
-    "valladolid": -0.09999999999999992
+    "barcelona": 0.15999999999999992,
+    "basque_country": -0.20000000000000004,
+    "cantabria": 0.2600000000000001,
+    "galicia": -0.5599999999999999,
+    "madrid": 0.39999999999999997,
+    "mallorca": 0.08000000000000018,
+    "mexico_city": -0.2600000000000001,
+    "seville": 0.0400000000000002,
+    "valladolid": 0.08000000000000007
   },
   "topic_used": {
+    "be_email_openers": "2026-11-25",
     "be_interrupt": "2026-11-18",
     "be_negotiate": "2026-11-22",
     "be_numbers": "2026-11-23",
@@ -41,11 +42,13 @@
     "cl_intro": "2026-11-23",
     "cl_lunch": "2026-11-19",
     "co_curriculum": "2026-11-22",
+    "co_generic": "2026-11-25",
     "co_programme": "2026-11-19",
     "et_false_friends": "2026-11-21",
     "et_make_do": "2026-11-24",
     "et_used_to": "2026-11-19",
     "lt_find": "2026-11-20",
+    "lt_levels": "2026-11-25",
     "re_free_plans": "2026-11-24",
     "re_news_class": "2026-11-18",
     "re_warmups": "2026-11-21",

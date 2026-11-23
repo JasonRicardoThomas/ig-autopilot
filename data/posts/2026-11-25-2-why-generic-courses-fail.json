@@ -1,0 +1,51 @@
+{
+  "alt_text": "Photo in Centro Histórico, Mexico City. Text on the image: Why generic courses fail corporate teams",
+  "attempts": 0,
+  "caption": "Why generic courses fail corporate teams. • They teach topics nobody uses.\n• No link to daily tasks.\n• No feedback on real emails.\n• Progress is never measured.\n\n#businesscommunication #languagetraining #corporatetraining #cdmx #growingconnections\n\nBook a free 15-min level chat: WhatsApp +52 1 55 1370 6864 or livinwithme.net/custom-offers\nReserva tu llamada gratis de nivel: WhatsApp +52 1 55 1370 6864",
+  "cover_path": "posts/2026-11-25-2-why-generic-courses-fail/cover.jpg",
+  "created": "2026-11-23T23:05:26.095420+00:00",
+  "date": "2026-11-25",
+  "headline": "Why generic courses fail corporate teams",
+  "id": "2026-11-25-2-why-generic-courses-fail",
+  "kind": "reel",
+  "location_id": null,
+  "location_name": "Centro Histórico, Mexico City",
+  "media": [
+    "posts/2026-11-25-2-why-generic-courses-fail/reel.mp4",
+    "posts/2026-11-25-2-why-generic-courses-fail/cover.jpg"
+  ],
+  "moment": null,
+  "photo": null,
+  "photo_credit": null,
+  "pillar": "consulting",
+  "region": "mexico_city",
+  "scheduled_for": "2026-11-26T01:00:00+00:00",
+  "slides": [
+    {
+      "body": "",
+      "headline": "Why generic courses fail corporate teams",
+      "role": "cover"
+    },
+    {
+      "body": "They teach topics nobody uses.",
+      "headline": "1",
+      "role": "body"
+    },
+    {
+      "body": "No link to daily tasks.",
+      "headline": "2",
+      "role": "body"
+    },
+    {
+      "body": "WhatsApp +52 1 55 1370 6864",
+      "headline": "Book your free level chat",
+      "role": "cta"
+    }
+  ],
+  "status": "pending",
+  "warnings": [
+    "no verified real photo available; slides use the brand background",
+    "Reels location tag may not be applied through the API; place name is in the caption",
+    "no Facebook location ID yet (run Find location IDs)"
+  ]
+}

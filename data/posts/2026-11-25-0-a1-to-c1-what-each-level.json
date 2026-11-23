@@ -1,0 +1,51 @@
+{
+  "alt_text": "Photo in Santa Fe, Mexico City. Text on the image: A1 to C1: what each level can do at work",
+  "attempts": 0,
+  "caption": "A1 to C1: what each level can do at work. • A2: simple emails and small talk.\n• B1: handle most meetings.\n• B2: negotiate and present.\n• C1: lead in English.\n\n#cefr #englishtest #learnenglish #cdmx #growingconnections\n\nBook a free 15-min level chat: WhatsApp +52 1 55 1370 6864 or livinwithme.net/custom-offers\nReserva tu llamada gratis de nivel: WhatsApp +52 1 55 1370 6864",
+  "cover_path": "posts/2026-11-25-0-a1-to-c1-what-each-level/cover.jpg",
+  "created": "2026-11-23T23:04:50.855286+00:00",
+  "date": "2026-11-25",
+  "headline": "A1 to C1: what each level can do at work",
+  "id": "2026-11-25-0-a1-to-c1-what-each-level",
+  "kind": "reel",
+  "location_id": null,
+  "location_name": "Santa Fe, Mexico City",
+  "media": [
+    "posts/2026-11-25-0-a1-to-c1-what-each-level/reel.mp4",
+    "posts/2026-11-25-0-a1-to-c1-what-each-level/cover.jpg"
+  ],
+  "moment": null,
+  "photo": null,
+  "photo_credit": null,
+  "pillar": "level_test",
+  "region": "mexico_city",
+  "scheduled_for": "2026-11-25T14:30:00+00:00",
+  "slides": [
+    {
+      "body": "",
+      "headline": "A1 to C1: what each level can do at work",
+      "role": "cover"
+    },
+    {
+      "body": "A2: simple emails and small talk.",
+      "headline": "1",
+      "role": "body"
+    },
+    {
+      "body": "B1: handle most meetings.",
+      "headline": "2",
+      "role": "body"
+    },
+    {
+      "body": "WhatsApp +52 1 55 1370 6864",
+      "headline": "Book your free level chat",
+      "role": "cta"
+    }
+  ],
+  "status": "pending",
+  "warnings": [
+    "no verified real photo available; slides use the brand background",
+    "Reels location tag may not be applied through the API; place name is in the caption",
+    "no Facebook location ID yet (run Find location IDs)"
+  ]
+}
