@@ -1,8 +1,9 @@
 {
   "alt_text": "A view through a large paned window of the domed Almudena Cathedral with its twin bell towers, beside the classical facade of the Royal Palace under a partly cloudy sky. in Palacio de la Magdalena, Santander. Text on the image: C-suite: Executive presence in English",
-  "attempts": 0,
+  "attempts": 1,
   "caption": "C-suite: Executive presence in English. • Say less, mean more.\n• Frame every point as a decision.\n• Handle tough questions calmly.\n• End with the ask.\n\n📷 div class=\"fn value\"\na rel=\"nofollow\" class=\"external text\" href=\"https://500px. / Wikimedia Commons (CC BY 3.0)\n\n#corporatetraining #professionalenglish #englishforprofessionals #cantabria #growingconnections\n\nBook a free 15-min level chat: WhatsApp +52 1 55 1370 6864 or livinwithme.net/custom-offers\nReserva tu llamada gratis de nivel: WhatsApp +52 1 55 1370 6864",
   "cover_path": "posts/2026-11-22-1-c-suite-executive-presen/cover.jpg",
+  "cover_url": "https://cdn.jsdelivr.net/gh/JasonRicardoThomas/ig-autopilot@media/posts/2026-11-22-1-c-suite-executive-presen/cover.jpg",
   "created": "2026-11-20T19:19:11.979502+00:00",
   "date": "2026-11-22",
   "headline": "C-suite: Executive presence in English",
@@ -14,10 +15,15 @@
     "posts/2026-11-22-1-c-suite-executive-presen/reel.mp4",
     "posts/2026-11-22-1-c-suite-executive-presen/cover.jpg"
   ],
+  "media_urls": [
+    "https://cdn.jsdelivr.net/gh/JasonRicardoThomas/ig-autopilot@media/posts/2026-11-22-1-c-suite-executive-presen/reel.mp4",
+    "https://cdn.jsdelivr.net/gh/JasonRicardoThomas/ig-autopilot@media/posts/2026-11-22-1-c-suite-executive-presen/cover.jpg"
+  ],
   "moment": null,
   "photo": "wikimedia-74504797",
   "photo_credit": "div class=\"fn value\"\na rel=\"nofollow\" class=\"external text\" href=\"https://500px. / Wikimedia Commons (CC BY 3.0)",
   "pillar": "sectors",
+  "published_at": "2026-11-23T02:25:21.724139+00:00",
   "region": "cantabria",
   "scheduled_for": "2026-11-22T19:00:00+00:00",
   "slides": [
@@ -34,7 +40,7 @@
       "headline": "Book your free level chat"
     }
   ],
-  "status": "approved",
+  "status": "published",
   "warnings": [
     "Reels location tag may not be applied through the API; place name is in the caption",
     "no Facebook location ID yet (run Find location IDs)"
