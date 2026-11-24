@@ -22,27 +22,19 @@
   "scheduled_for": "2026-11-25T14:30:00+00:00",
   "slides": [
     {
-      "body": "",
-      "headline": "A1 to C1: what each level can do at work",
-      "role": "cover"
+      "headline": "A1 to C1: what each level can do at work"
     },
     {
-      "body": "A2: simple emails and small talk.",
-      "headline": "1",
-      "role": "body"
+      "headline": "1"
     },
     {
-      "body": "B1: handle most meetings.",
-      "headline": "2",
-      "role": "body"
+      "headline": "2"
     },
     {
-      "body": "WhatsApp +52 1 55 1370 6864",
-      "headline": "Book your free level chat",
-      "role": "cta"
+      "headline": "Book your free level chat"
     }
   ],
-  "status": "pending",
+  "status": "approved",
   "warnings": [
     "no verified real photo available; slides use the brand background",
     "Reels location tag may not be applied through the API; place name is in the caption",
