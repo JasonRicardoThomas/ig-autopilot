@@ -22,27 +22,19 @@
   "scheduled_for": "2026-11-26T01:00:00+00:00",
   "slides": [
     {
-      "body": "",
-      "headline": "Why generic courses fail corporate teams",
-      "role": "cover"
+      "headline": "Why generic courses fail corporate teams"
     },
     {
-      "body": "They teach topics nobody uses.",
-      "headline": "1",
-      "role": "body"
+      "headline": "1"
     },
     {
-      "body": "No link to daily tasks.",
-      "headline": "2",
-      "role": "body"
+      "headline": "2"
     },
     {
-      "body": "WhatsApp +52 1 55 1370 6864",
-      "headline": "Book your free level chat",
-      "role": "cta"
+      "headline": "Book your free level chat"
     }
   ],
-  "status": "pending",
+  "status": "approved",
   "warnings": [
     "no verified real photo available; slides use the brand background",
     "Reels location tag may not be applied through the API; place name is in the caption",
