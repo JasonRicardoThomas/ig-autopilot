@@ -23,32 +23,22 @@
   "scheduled_for": "2026-11-28T14:30:00+00:00",
   "slides": [
     {
-      "body": "",
-      "headline": "Legal: Explaining legal risk to the business",
-      "role": "cover"
+      "headline": "Legal: Explaining legal risk to the business"
     },
     {
-      "body": "Lead with the conclusion.",
-      "headline": "1",
-      "role": "body"
+      "headline": "1"
     },
     {
-      "body": "Rate the risk: low, medium, high.",
-      "headline": "2",
-      "role": "body"
+      "headline": "2"
     },
     {
-      "body": "Give the options and the cost.",
-      "headline": "3",
-      "role": "body"
+      "headline": "3"
     },
     {
-      "body": "WhatsApp +52 1 55 1370 6864",
-      "headline": "Book your free level chat",
-      "role": "cta"
+      "headline": "Book your free level chat"
     }
   ],
-  "status": "pending",
+  "status": "approved",
   "topic_id": "sec_legal_2",
   "warnings": [
     "no verified real photo available; slides use the brand background",
