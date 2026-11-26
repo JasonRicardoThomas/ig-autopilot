@@ -20,12 +20,10 @@
   "scheduled_for": "2026-11-27T19:00:00+00:00",
   "slides": [
     {
-      "body": "/t/ after unvoiced sounds: worked",
-      "headline": "The three sounds of -ed endings",
-      "role": "cover"
+      "headline": "The three sounds of -ed endings"
     }
   ],
-  "status": "pending",
+  "status": "rejected",
   "warnings": [
     "no verified real photo available; slides use the brand background",
     "no Facebook location ID yet (run Find location IDs)"
