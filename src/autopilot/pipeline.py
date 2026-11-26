@@ -51,6 +51,7 @@ def make_post(plan, day, index, used, render=True, client=None):
         "location_name": loc_name, "location_id": loc_id, "photo": photo["id"] if photo else None,
         "photo_credit": (photo or {}).get("credit"), "warnings": warnings, "media": [], "attempts": 0,
         "created": now_utc().isoformat(),
+        "topic_id": plan["topic"]["id"], "place": plan["place"],
     }
     if photo:
         photos.mark_used(used, photo["id"], day, pid)
@@ -100,20 +101,35 @@ def draft(days_ahead=2, render=True, client=None, today=None):
     return made
 
 
+def _redo_plan(p):
+    """Rebuild the plan a post was made from, keeping its topic, place, format and size."""
+    pillar = next(pl for pl in cfg("pillars") if pl["id"] == p["pillar"])
+    topic = (next((t for t in pillar["topics"] if t["id"] == p.get("topic_id")), None)
+             or next((t for t in pillar["topics"] if t["title"].strip().lower() == p["headline"].strip().lower()), None)
+             or pillar["topics"][0])
+    region = cfg("regions")[p["region"]]
+    places = region["places"]
+    place = p.get("place") if p.get("place") in places else None
+    if not place:
+        locs = cfg("locations")
+        place = next((k for k in places if (locs.get(k) or {}).get("name") and
+                      (p.get("location_name") or "").startswith(locs[k]["name"])), places[0])
+    return {"slot": int(p["id"].split("-")[3]) if p["id"].count("-") > 3 else 0, "scheduled_for": p["scheduled_for"],
+            "kind": p["kind"], "pillar": p["pillar"], "region": p["region"], "moment": p["moment"], "moment_approx": False,
+            "n_slides": p.get("n_slides") or len(p["slides"]), "place": place, "topic": topic}
+
+
 def redo_unapproved(render=True, client=None):
-    """Rebuild every pending post; approved and published posts are never touched."""
+    """Rebuild every pending or rejected post; approved and published posts are never touched."""
     used = photos.load_used()
     index = photos.load_index()
     redone = []
     for p in load_posts():
-        if p["status"] != "pending":
+        if p["status"] not in ("pending", "rejected"):
             continue
         photos.release_post(used, p["id"])
         day = dt.date.fromisoformat(p["date"])
-        plan = {"slot": int(p["id"].split("-")[3]) if p["id"].count("-") > 3 else 0, "scheduled_for": p["scheduled_for"], "kind": p["kind"],
-                "pillar": p["pillar"], "region": p["region"], "moment": p["moment"], "moment_approx": False,
-                "n_slides": len(p["slides"]), "place": cfg("regions")[p["region"]]["places"][0],
-                "topic": next(t for pl in cfg("pillars") if pl["id"] == p["pillar"] for t in pl["topics"])}
+        plan = _redo_plan(p)
         post_path(p["id"]).unlink()
         new = make_post(plan, day, index, used, render=render, client=client)
         write_json(post_path(new["id"]), new)

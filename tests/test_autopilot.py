@@ -220,3 +220,15 @@ def test_every_region_place_has_a_location_and_sectors_are_covered():
     sectors = next(p for p in cfg("pillars") if p["id"] == "sectors")
     assert len(sectors["topics"]) >= 22
     assert {"Basque", "Cantabria", "Galicia", "Valladolid", "Mallorca", "Barcelona"} <= {r["city"].split()[0] if r["city"] not in ("Bilbao", "Santander", "Santiago de Compostela", "Palma de Mallorca") else {"Bilbao": "Basque", "Santander": "Cantabria", "Santiago de Compostela": "Galicia", "Palma de Mallorca": "Mallorca"}[r["city"]] for r in cfg("regions").values()}
+
+
+def test_redo_keeps_topic_place_and_size_of_rejected_post():
+    from autopilot import pipeline
+    p = {"id": "2026-11-27-1-the-three-sounds-of-ed-e", "status": "rejected", "pillar": "english_tips",
+         "region": "mexico_city", "moment": None, "kind": "carousel", "n_slides": 5,
+         "scheduled_for": "2026-11-27T19:00:00+00:00", "headline": "The three sounds of -ed endings",
+         "slides": [{"headline": "x"}], "location_name": "Polanco, Mexico City"}
+    plan = pipeline._redo_plan(p)
+    assert plan["topic"]["id"] == "et_ed_endings"
+    assert plan["place"] == "polanco_cdmx"
+    assert plan["kind"] == "carousel" and plan["n_slides"] == 5 and plan["slot"] == 1

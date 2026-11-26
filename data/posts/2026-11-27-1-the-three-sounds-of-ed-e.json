@@ -6,7 +6,7 @@
   "date": "2026-11-27",
   "headline": "The three sounds of -ed endings",
   "id": "2026-11-27-1-the-three-sounds-of-ed-e",
-  "kind": "single",
+  "kind": "carousel",
   "location_id": null,
   "location_name": "Polanco, Mexico City",
   "media": [
@@ -23,9 +23,12 @@
       "headline": "The three sounds of -ed endings"
     }
   ],
-  "status": "rejected",
+  "status": "pending",
   "warnings": [
     "no verified real photo available; slides use the brand background",
     "no Facebook location ID yet (run Find location IDs)"
-  ]
+  ],
+  "n_slides": 5,
+  "topic_id": "et_ed_endings",
+  "place": "polanco_cdmx"
 }
