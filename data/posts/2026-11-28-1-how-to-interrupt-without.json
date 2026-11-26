@@ -25,32 +25,22 @@
   "scheduled_for": "2026-11-28T19:00:00+00:00",
   "slides": [
     {
-      "body": "",
-      "headline": "How to interrupt without sounding rude",
-      "role": "cover"
+      "headline": "How to interrupt without sounding rude"
     },
     {
-      "body": "\"Sorry to jump in, but…\"",
-      "headline": "1",
-      "role": "body"
+      "headline": "1"
     },
     {
-      "body": "\"May I add something here?\"",
-      "headline": "2",
-      "role": "body"
+      "headline": "2"
     },
     {
-      "body": "\"Before we move on…\"",
-      "headline": "3",
-      "role": "body"
+      "headline": "3"
     },
     {
-      "body": "WhatsApp +52 1 55 1370 6864",
-      "headline": "Book your free level chat",
-      "role": "cta"
+      "headline": "Book your free level chat"
     }
   ],
-  "status": "pending",
+  "status": "approved",
   "topic_id": "be_interrupt",
   "warnings": [
     "no verified real photo available; slides use the brand background",
