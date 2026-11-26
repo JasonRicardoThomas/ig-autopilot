@@ -22,27 +22,19 @@
   "scheduled_for": "2026-11-26T19:00:00+00:00",
   "slides": [
     {
-      "body": "",
-      "headline": "A writing hour in a Mexico City café",
-      "role": "cover"
+      "headline": "A writing hour in a Mexico City café"
     },
     {
-      "body": "Pick a corner and a time limit.",
-      "headline": "1",
-      "role": "body"
+      "headline": "1"
     },
     {
-      "body": "One scene, one email, one page.",
-      "headline": "2",
-      "role": "body"
+      "headline": "2"
     },
     {
-      "body": "WhatsApp +52 1 55 1370 6864",
-      "headline": "Book your free level chat",
-      "role": "cta"
+      "headline": "Book your free level chat"
     }
   ],
-  "status": "pending",
+  "status": "approved",
   "warnings": [
     "no verified real photo available; slides use the brand background",
     "Reels location tag may not be applied through the API; place name is in the caption",
