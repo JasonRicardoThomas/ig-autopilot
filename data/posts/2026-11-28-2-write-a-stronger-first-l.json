@@ -23,32 +23,22 @@
   "scheduled_for": "2026-11-29T01:00:00+00:00",
   "slides": [
     {
-      "body": "",
-      "headline": "Write a stronger first line",
-      "role": "cover"
+      "headline": "Write a stronger first line"
     },
     {
-      "body": "Start in the middle of the action.",
-      "headline": "1",
-      "role": "body"
+      "headline": "1"
     },
     {
-      "body": "Make one specific promise.",
-      "headline": "2",
-      "role": "body"
+      "headline": "2"
     },
     {
-      "body": "Cut warm-up sentences.",
-      "headline": "3",
-      "role": "body"
+      "headline": "3"
     },
     {
-      "body": "WhatsApp +52 1 55 1370 6864",
-      "headline": "Book your free level chat",
-      "role": "cta"
+      "headline": "Book your free level chat"
     }
   ],
-  "status": "pending",
+  "status": "approved",
   "topic_id": "wr_first_line",
   "warnings": [
     "no verified real photo available; slides use the brand background",
