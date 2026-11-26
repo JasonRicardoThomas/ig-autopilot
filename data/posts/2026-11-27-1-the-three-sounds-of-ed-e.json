@@ -1,8 +1,8 @@
 {
   "alt_text": "Photo in Polanco, Mexico City. Text on the image: The three sounds of -ed endings",
   "attempts": 0,
-  "caption": "Skip the gadgets: gift a skill. The three sounds of -ed endings. • /t/ after unvoiced sounds: worked\n• /d/ after voiced sounds: played\n• /ɪd/ after t or d: wanted\n• Say it out loud, then record yourself.\n\n#aprenderingles #englishvocabulary #englishgrammar #cdmx #growingconnections\n\nBook a free 15-min level chat: WhatsApp +52 1 55 1370 6864 or livinwithme.net/custom-offers\nReserva tu llamada gratis de nivel: WhatsApp +52 1 55 1370 6864",
-  "created": "2026-11-25T20:47:21.461835+00:00",
+  "caption": "Skip the gadgets: gift a skill. The three sounds of -ed endings. • /t/ after unvoiced sounds: worked\n• /d/ after voiced sounds: played\n• /ɪd/ after t or d: wanted\n• Say it out loud, then record yourself.\n\n#englishgrammar #aprenderingles #learnenglish #cdmx #growingconnections\n\nBook a free 15-min level chat: WhatsApp +52 1 55 1370 6864 or livinwithme.net/custom-offers\nReserva tu llamada gratis de nivel: WhatsApp +52 1 55 1370 6864",
+  "created": "2026-11-26T06:32:17.964494+00:00",
   "date": "2026-11-27",
   "headline": "The three sounds of -ed endings",
   "id": "2026-11-27-1-the-three-sounds-of-ed-e",
@@ -10,25 +10,50 @@
   "location_id": null,
   "location_name": "Polanco, Mexico City",
   "media": [
-    "posts/2026-11-27-1-the-three-sounds-of-ed-e/slide_1.jpg"
+    "posts/2026-11-27-1-the-three-sounds-of-ed-e/slide_1.jpg",
+    "posts/2026-11-27-1-the-three-sounds-of-ed-e/slide_2.jpg",
+    "posts/2026-11-27-1-the-three-sounds-of-ed-e/slide_3.jpg",
+    "posts/2026-11-27-1-the-three-sounds-of-ed-e/slide_4.jpg",
+    "posts/2026-11-27-1-the-three-sounds-of-ed-e/slide_5.jpg"
   ],
   "moment": "black_friday",
   "photo": null,
   "photo_credit": null,
   "pillar": "english_tips",
+  "place": "polanco_cdmx",
   "region": "mexico_city",
   "scheduled_for": "2026-11-27T19:00:00+00:00",
   "slides": [
     {
-      "headline": "The three sounds of -ed endings"
+      "body": "",
+      "headline": "The three sounds of -ed endings",
+      "role": "cover"
+    },
+    {
+      "body": "/t/ after unvoiced sounds: worked",
+      "headline": "1",
+      "role": "body"
+    },
+    {
+      "body": "/d/ after voiced sounds: played",
+      "headline": "2",
+      "role": "body"
+    },
+    {
+      "body": "/ɪd/ after t or d: wanted",
+      "headline": "3",
+      "role": "body"
+    },
+    {
+      "body": "WhatsApp +52 1 55 1370 6864",
+      "headline": "Book your free level chat",
+      "role": "cta"
     }
   ],
   "status": "pending",
+  "topic_id": "et_ed_endings",
   "warnings": [
     "no verified real photo available; slides use the brand background",
     "no Facebook location ID yet (run Find location IDs)"
-  ],
-  "n_slides": 5,
-  "topic_id": "et_ed_endings",
-  "place": "polanco_cdmx"
+  ]
 }
