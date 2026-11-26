@@ -1,0 +1,46 @@
+name: Push out all approved posts now
+# Publishes every approved post in order, ignoring scheduled times, with a fixed gap between posts.
+# Runs up to 4 posts per job (GitHub's 6-hour limit), then starts itself again if posts are left.
+on:
+  workflow_dispatch:
+    inputs:
+      gap_minutes: {description: "Minutes between posts", default: "77"}
+concurrency: {group: drain-queue, cancel-in-progress: false}
+permissions: {contents: write, actions: write}
+jobs:
+  drain:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    env:
+      MAKE_WEBHOOK_URL: ${{ secrets.MAKE_WEBHOOK_URL }}
+      MAKE_WEBHOOK_SECRET: ${{ secrets.MAKE_WEBHOOK_SECRET }}
+      GAP: ${{ inputs.gap_minutes || '77' }}
+      GH_TOKEN: ${{ github.token }}
+    steps:
+      - uses: actions/checkout@v4
+        with: {fetch-depth: 0}
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.12", cache: pip}
+      - run: pip install -r requirements.txt
+      - name: Publish, wait, repeat
+        run: |
+          left() { python3 -c "import json,glob;print(sum(json.load(open(f))['status']=='approved' for f in glob.glob('data/posts/*.json')))"; }
+          for i in 1 2 3 4; do
+            git pull -q --rebase origin main
+            [ "$(left)" = "0" ] && { echo "queue empty"; exit 0; }
+            # wait until the gap since the last post has passed, then publish one
+            for t in $(seq 1 100); do
+              out=$(PYTHONPATH=src python -m autopilot publish --now --gap "$GAP"); echo "$out"
+              echo "$out" | grep -q "minimum gap" || break
+              sleep 60
+            done
+            ./scripts/commit.sh "drain: publish one approved post"
+            [ "$i" = "4" ] && break
+            git pull -q --rebase origin main
+            [ "$(left)" = "0" ] && { echo "queue empty"; exit 0; }
+            sleep $(( GAP * 60 ))
+          done
+          git pull -q --rebase origin main
+          if [ "$(left)" != "0" ]; then
+            gh workflow run drain.yml -f gap_minutes="$GAP" || gh api -X POST repos/${{ github.repository }}/actions/workflows/drain.yml/dispatches -f ref=main -f "inputs[gap_minutes]=$GAP"
+          fi

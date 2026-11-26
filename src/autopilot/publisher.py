@@ -56,11 +56,12 @@ def live_urls(relpaths, http=requests, **kw):
     return out
 
 
-def min_gap_ok(last_published_iso, now=None):
+def min_gap_ok(last_published_iso, now=None, gap_minutes=None):
     if not last_published_iso:
         return True
     now = now or now_utc()
-    return (now - parse_iso(last_published_iso)) >= dt.timedelta(minutes=settings()["min_gap_minutes"])
+    gap = gap_minutes if gap_minutes is not None else settings()["min_gap_minutes"]
+    return (now - parse_iso(last_published_iso)) >= dt.timedelta(minutes=gap)
 
 
 def due(post, now=None):

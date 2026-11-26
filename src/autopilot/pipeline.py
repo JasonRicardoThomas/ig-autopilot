@@ -69,7 +69,7 @@ def render_post(post, photo):
     files = render.render_slides(post["slides"], fmt, work, photo_path=local)
     out = {}
     if post["kind"] == "reel":
-        mp4 = reels.build_reel(files, work / "reel.mp4")
+        mp4 = reels.build_reel(files, work / "reel.mp4", seconds_each=reels.seconds_per_frame(len(files)))
         out[f"posts/{post['id']}/reel.mp4"] = mp4
         out[f"posts/{post['id']}/cover.jpg"] = files[0]
         post["cover_path"] = f"posts/{post['id']}/cover.jpg"
@@ -150,13 +150,16 @@ def reset_everything(wipe_index=False):
                 f.unlink()
 
 
-def publish_due(http=None, now=None, dry_run=False):
-    """Publish at most ONE approved post whose time has come, respecting the minimum gap."""
+def publish_due(http=None, now=None, dry_run=False, ignore_schedule=False, gap_minutes=None):
+    """Publish at most ONE approved post whose time has come, respecting the minimum gap.
+
+    ignore_schedule=True publishes the earliest approved post even if its time hasn't come (used to drain the queue)."""
     now = now or now_utc()
     state = planner.load_state()
-    if not publisher.min_gap_ok(state.get("last_published"), now):
+    if not publisher.min_gap_ok(state.get("last_published"), now, gap_minutes):
         return {"skipped": "minimum gap not reached"}
-    due = sorted([p for p in load_posts() if publisher.due(p, now)], key=lambda p: p["scheduled_for"])
+    ready = (lambda p: p["status"] == "approved") if ignore_schedule else (lambda p: publisher.due(p, now))
+    due = sorted([p for p in load_posts() if ready(p)], key=lambda p: p["scheduled_for"])
     if not due:
         return {"skipped": "nothing due"}
     post = due[0]

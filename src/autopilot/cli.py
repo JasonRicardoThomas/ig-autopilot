@@ -94,7 +94,7 @@ def main(argv=None):
     d = sub.add_parser("draft"); d.add_argument("--days", type=int, default=2); d.add_argument("--no-render", action="store_true")
     r = sub.add_parser("redo"); r.add_argument("--no-render", action="store_true")
     x = sub.add_parser("reset"); x.add_argument("--wipe-index", action="store_true")
-    pb = sub.add_parser("publish"); pb.add_argument("--dry-run", action="store_true")
+    pb = sub.add_parser("publish"); pb.add_argument("--dry-run", action="store_true"); pb.add_argument("--now", action="store_true", help="ignore scheduled times (drain the queue)"); pb.add_argument("--gap", type=int, default=None, help="minimum minutes since the last post")
     sub.add_parser("index"); sub.add_parser("locations"); sub.add_parser("refresh-token")
     c = sub.add_parser("calendar"); c.add_argument("--year", type=int)
     sub.add_parser("boost")
@@ -108,7 +108,7 @@ def main(argv=None):
     elif a.cmd == "reset":
         pipeline.reset_everything(a.wipe_index); print("reset done")
     elif a.cmd == "publish":
-        print(json.dumps(pipeline.publish_due(dry_run=a.dry_run)))
+        print(json.dumps(pipeline.publish_due(dry_run=a.dry_run, ignore_schedule=a.now, gap_minutes=a.gap)))
     elif a.cmd == "index":
         cmd_index(a)
     elif a.cmd == "locations":

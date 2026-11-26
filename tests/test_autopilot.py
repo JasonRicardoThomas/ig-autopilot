@@ -232,3 +232,26 @@ def test_redo_keeps_topic_place_and_size_of_rejected_post():
     assert plan["topic"]["id"] == "et_ed_endings"
     assert plan["place"] == "polanco_cdmx"
     assert plan["kind"] == "carousel" and plan["n_slides"] == 5 and plan["slot"] == 1
+
+
+def test_publish_now_ignores_schedule_and_custom_gap(monkeypatch):
+    import datetime as dt
+    from autopilot import pipeline, publisher
+    now = dt.datetime(2026, 11, 26, 21, 0, tzinfo=dt.timezone.utc)
+    posts = [{"id": "b", "status": "approved", "scheduled_for": "2026-11-28T01:00:00+00:00", "media": [], "kind": "reel"},
+             {"id": "a", "status": "approved", "scheduled_for": "2026-11-27T14:30:00+00:00", "media": [], "kind": "reel"}]
+    monkeypatch.setattr(pipeline, "load_posts", lambda: posts)
+    monkeypatch.setattr(pipeline.planner, "load_state", lambda: {"last_published": "2026-11-26T19:50:00+00:00"})
+    monkeypatch.setattr(publisher, "live_urls", lambda m, **k: ["u"])
+    monkeypatch.setattr(publisher, "build_payload", lambda p: {"post_id": p["id"]})
+    assert pipeline.publish_due(now=now, dry_run=True, gap_minutes=60)["skipped"] == "nothing due"
+    assert pipeline.publish_due(now=now, dry_run=True, ignore_schedule=True)["skipped"] == "minimum gap not reached"
+    assert pipeline.publish_due(now=now, dry_run=True, ignore_schedule=True, gap_minutes=60)["post"] == "a"
+
+
+def test_reels_last_thirty_seconds():
+    from autopilot import reels
+    for n in (4, 5):
+        s = reels.seconds_per_frame(n, fade=0.5, total=30)
+        assert abs(s * n - 0.5 * (n - 1) - 30) < 0.05
+    assert reels.clip_command("c.mp4", "card.jpg", "o.mp4", audio="a.mp3")[3] == "27.0"

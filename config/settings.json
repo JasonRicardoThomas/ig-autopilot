@@ -46,5 +46,7 @@
     5
   ],
   "caption_max_chars": 2200,
-  "clip_reject_below": 0.0
+  "clip_reject_below": 0.0,
+  "reel_seconds": 30,
+  "drain_gap_minutes": 77
 }

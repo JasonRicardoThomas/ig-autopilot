@@ -57,14 +57,26 @@ def build_command(images, out, seconds_each=3.0, fade=0.5, styles=None, audio=No
     return cmd
 
 
+def reel_seconds():
+    from .util import settings
+    return float(settings().get("reel_seconds", 12))
+
+
+def seconds_per_frame(n, fade=0.5, total=None):
+    """Seconds each image shows so that n images with crossfades last `total` seconds."""
+    total = total or reel_seconds()
+    return round((total + fade * max(n - 1, 0)) / max(n, 1), 2)
+
+
 def build_reel(images, out, **kw):
     cmd = build_command(images, out, **kw)
     subprocess.run(cmd, check=True, capture_output=True)
     return Path(out)
 
 
-def clip_command(clip, card_image, out, card_seconds=3.0, max_seconds=24, audio=None):
+def clip_command(clip, card_image, out, card_seconds=3.0, max_seconds=None, audio=None):
     """Short clip scaled/cropped to 1080x1920, then the booking card."""
+    max_seconds = max_seconds or max(reel_seconds() - card_seconds, 3)
     flt = (f"[0:v]scale={W}:{H}:force_original_aspect_ratio=increase,crop={W}:{H},fps={FPS},setsar=1,format=yuv420p[a];"
            f"[1:v]scale={W}:{H},fps={FPS},setsar=1,format=yuv420p[b];[a][b]concat=n=2:v=1:a=0[v]")
     audio = audio or pick_audio()
