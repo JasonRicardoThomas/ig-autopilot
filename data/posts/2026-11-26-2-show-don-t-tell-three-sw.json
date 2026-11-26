@@ -22,27 +22,19 @@
   "scheduled_for": "2026-11-27T01:00:00+00:00",
   "slides": [
     {
-      "body": "Small rewrites that make your English writing vivid.",
-      "headline": "Show, don't tell: three swaps",
-      "role": "cover"
+      "headline": "Show, don't tell: three swaps"
     },
     {
-      "body": "\"She was nervous\" → her fingers tapped the table. \"He was tired\" → he read the same line twice.",
-      "headline": "Swap the label for an action",
-      "role": "body"
+      "headline": "Swap the label for an action"
     },
     {
-      "body": "\"It was cold\" → breath fogged the glass. Pick one detail the senses can check.",
-      "headline": "Then let the senses work",
-      "role": "body"
+      "headline": "Then let the senses work"
     },
     {
-      "body": "Our Days & Futures: English teaching and writing support for professionals.",
-      "headline": "Write with more precision",
-      "role": "cta"
+      "headline": "Write with more precision"
     }
   ],
-  "status": "pending",
+  "status": "approved",
   "warnings": [
     "no verified real photo available; slides use the brand background",
     "Reels location tag may not be applied through the API; place name is in the caption",
