@@ -1,0 +1,59 @@
+{
+  "alt_text": "Photo in Guggenheim Museum Bilbao. Text on the image: How to interrupt without sounding rude",
+  "attempts": 0,
+  "caption": "How to interrupt without sounding rude. • \"Sorry to jump in, but…\"\n• \"May I add something here?\"\n• \"Before we move on…\"\n• \"Can I just clarify one point?\"\n\n#businessenglish #englishforprofessionals #englishforwork #euskadi #growingconnections\n\nBook a free 15-min level chat: WhatsApp +52 1 55 1370 6864 or livinwithme.net/custom-offers\nReserva tu llamada gratis de nivel: WhatsApp +52 1 55 1370 6864",
+  "created": "2026-11-26T20:37:06.374294+00:00",
+  "date": "2026-11-28",
+  "headline": "How to interrupt without sounding rude",
+  "id": "2026-11-28-1-how-to-interrupt-without",
+  "kind": "carousel",
+  "location_id": null,
+  "location_name": "Guggenheim Museum Bilbao",
+  "media": [
+    "posts/2026-11-28-1-how-to-interrupt-without/slide_1.jpg",
+    "posts/2026-11-28-1-how-to-interrupt-without/slide_2.jpg",
+    "posts/2026-11-28-1-how-to-interrupt-without/slide_3.jpg",
+    "posts/2026-11-28-1-how-to-interrupt-without/slide_4.jpg",
+    "posts/2026-11-28-1-how-to-interrupt-without/slide_5.jpg"
+  ],
+  "moment": null,
+  "photo": null,
+  "photo_credit": null,
+  "pillar": "business_english",
+  "place": "guggenheim_bilbao",
+  "region": "basque_country",
+  "scheduled_for": "2026-11-28T19:00:00+00:00",
+  "slides": [
+    {
+      "body": "",
+      "headline": "How to interrupt without sounding rude",
+      "role": "cover"
+    },
+    {
+      "body": "\"Sorry to jump in, but…\"",
+      "headline": "1",
+      "role": "body"
+    },
+    {
+      "body": "\"May I add something here?\"",
+      "headline": "2",
+      "role": "body"
+    },
+    {
+      "body": "\"Before we move on…\"",
+      "headline": "3",
+      "role": "body"
+    },
+    {
+      "body": "WhatsApp +52 1 55 1370 6864",
+      "headline": "Book your free level chat",
+      "role": "cta"
+    }
+  ],
+  "status": "pending",
+  "topic_id": "be_interrupt",
+  "warnings": [
+    "no verified real photo available; slides use the brand background",
+    "no Facebook location ID yet (run Find location IDs)"
+  ]
+}
