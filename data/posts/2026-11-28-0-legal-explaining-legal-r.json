@@ -1,8 +1,9 @@
 {
   "alt_text": "Photo in Paseo de la Reforma, Mexico City. Text on the image: Legal: Explaining legal risk to the business",
-  "attempts": 0,
+  "attempts": 1,
   "caption": "Legal: Explaining legal risk to the business. • Lead with the conclusion.\n• Rate the risk: low, medium, high.\n• Give the options and the cost.\n• Recommend, then let them decide.\n\n#englishforprofessionals #professionalenglish #corporatetraining #cdmx #growingconnections\n\nBook a free 15-min level chat: WhatsApp +52 1 55 1370 6864 or livinwithme.net/custom-offers\nReserva tu llamada gratis de nivel: WhatsApp +52 1 55 1370 6864",
   "cover_path": "posts/2026-11-28-0-legal-explaining-legal-r/cover.jpg",
+  "cover_url": "https://cdn.jsdelivr.net/gh/JasonRicardoThomas/ig-autopilot@media/posts/2026-11-28-0-legal-explaining-legal-r/cover.jpg",
   "created": "2026-11-26T20:36:42.841411+00:00",
   "date": "2026-11-28",
   "headline": "Legal: Explaining legal risk to the business",
@@ -14,11 +15,16 @@
     "posts/2026-11-28-0-legal-explaining-legal-r/reel.mp4",
     "posts/2026-11-28-0-legal-explaining-legal-r/cover.jpg"
   ],
+  "media_urls": [
+    "https://cdn.jsdelivr.net/gh/JasonRicardoThomas/ig-autopilot@media/posts/2026-11-28-0-legal-explaining-legal-r/reel.mp4",
+    "https://cdn.jsdelivr.net/gh/JasonRicardoThomas/ig-autopilot@media/posts/2026-11-28-0-legal-explaining-legal-r/cover.jpg"
+  ],
   "moment": null,
   "photo": null,
   "photo_credit": null,
   "pillar": "sectors",
   "place": "reforma_cdmx",
+  "published_at": "2026-11-27T05:31:11.975129+00:00",
   "region": "mexico_city",
   "scheduled_for": "2026-11-28T14:30:00+00:00",
   "slides": [
@@ -38,7 +44,7 @@
       "headline": "Book your free level chat"
     }
   ],
-  "status": "approved",
+  "status": "published",
   "topic_id": "sec_legal_2",
   "warnings": [
     "no verified real photo available; slides use the brand background",
