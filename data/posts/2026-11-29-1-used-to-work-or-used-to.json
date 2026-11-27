@@ -23,27 +23,19 @@
   "scheduled_for": "2026-11-29T19:00:00+00:00",
   "slides": [
     {
-      "body": "Two similar phrases with very different meanings at work.",
-      "headline": "Used to work or used to working?",
-      "role": "cover"
+      "headline": "Used to work or used to working?"
     },
     {
-      "body": "Familiar with something, so it no longer feels strange. I'm used to working late.",
-      "headline": "Be used to + -ing",
-      "role": "body"
+      "headline": "Be used to + -ing"
     },
     {
-      "body": "A past habit that has stopped. I used to work late. No 'be', and the verb stays in its base form.",
-      "headline": "Used to + verb",
-      "role": "body"
+      "headline": "Used to + verb"
     },
     {
-      "body": "One describes how things are now, the other how they were. Practise both with examples from your own week.",
-      "headline": "Same words, different story",
-      "role": "cta"
+      "headline": "Same words, different story"
     }
   ],
-  "status": "pending",
+  "status": "approved",
   "topic_id": "et_used_to",
   "warnings": [
     "no verified real photo available; slides use the brand background",
