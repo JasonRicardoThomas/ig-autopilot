@@ -1,8 +1,9 @@
 {
   "alt_text": "Photo in Palacio de la Magdalena, Santander. Text on the image: Fact, claim or opinion? A B2+ skill",
-  "attempts": 0,
+  "attempts": 1,
   "caption": "Fact, claim or opinion? A B2+ skill. • Fact: can be checked.\n• Claim: someone says it is true.\n• Opinion: a personal view.\n• Label first, then discuss.\n\n#englishteacher #eslresources #tefl #cantabria #growingconnections\n\nBook a free 15-min level chat: WhatsApp +52 1 55 1370 6864 or livinwithme.net/custom-offers\nReserva tu llamada gratis de nivel: WhatsApp +52 1 55 1370 6864",
   "cover_path": "posts/2026-11-27-0-fact-claim-or-opinion-a/cover.jpg",
+  "cover_url": "https://cdn.jsdelivr.net/gh/JasonRicardoThomas/ig-autopilot@media/posts/2026-11-27-0-fact-claim-or-opinion-a/cover.jpg",
   "created": "2026-11-25T20:47:01.464659+00:00",
   "date": "2026-11-27",
   "headline": "Fact, claim or opinion? A B2+ skill",
@@ -14,10 +15,15 @@
     "posts/2026-11-27-0-fact-claim-or-opinion-a/reel.mp4",
     "posts/2026-11-27-0-fact-claim-or-opinion-a/cover.jpg"
   ],
+  "media_urls": [
+    "https://cdn.jsdelivr.net/gh/JasonRicardoThomas/ig-autopilot@media/posts/2026-11-27-0-fact-claim-or-opinion-a/reel.mp4",
+    "https://cdn.jsdelivr.net/gh/JasonRicardoThomas/ig-autopilot@media/posts/2026-11-27-0-fact-claim-or-opinion-a/cover.jpg"
+  ],
   "moment": null,
   "photo": null,
   "photo_credit": null,
   "pillar": "resources",
+  "published_at": "2026-11-27T01:39:19.656591+00:00",
   "region": "cantabria",
   "scheduled_for": "2026-11-27T14:30:00+00:00",
   "slides": [
@@ -37,7 +43,7 @@
       "headline": "Book your free level chat"
     }
   ],
-  "status": "approved",
+  "status": "published",
   "warnings": [
     "no verified real photo available; slides use the brand background",
     "Reels location tag may not be applied through the API; place name is in the caption",
