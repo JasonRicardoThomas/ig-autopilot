@@ -1,0 +1,58 @@
+{
+  "alt_text": "Photo in Santa Fe, Mexico City. Text on the image: High fashion: English for showroom and press events",
+  "attempts": 0,
+  "caption": "High fashion: English for showroom and press events. • Greet buyers by name.\n• Explain craftsmanship simply.\n• Answer sizing and stock questions.\n• Invite orders before they leave.\n\n#englishforwork #englishforprofessionals #businessenglish #cdmx #growingconnections\n\nBook a free 15-min level chat: WhatsApp +52 1 55 1370 6864 or livinwithme.net/custom-offers\nReserva tu llamada gratis de nivel: WhatsApp +52 1 55 1370 6864",
+  "cover_path": "posts/2026-11-29-2-high-fashion-english-for/cover.jpg",
+  "created": "2026-11-27T20:24:06.354878+00:00",
+  "date": "2026-11-29",
+  "headline": "High fashion: English for showroom and press events",
+  "id": "2026-11-29-2-high-fashion-english-for",
+  "kind": "reel",
+  "location_id": null,
+  "location_name": "Santa Fe, Mexico City",
+  "media": [
+    "posts/2026-11-29-2-high-fashion-english-for/reel.mp4",
+    "posts/2026-11-29-2-high-fashion-english-for/cover.jpg"
+  ],
+  "moment": null,
+  "photo": null,
+  "photo_credit": null,
+  "pillar": "sectors",
+  "place": "santa_fe_cdmx",
+  "region": "mexico_city",
+  "scheduled_for": "2026-11-30T01:00:00+00:00",
+  "slides": [
+    {
+      "body": "",
+      "headline": "High fashion: English for showroom and press events",
+      "role": "cover"
+    },
+    {
+      "body": "Greet buyers by name.",
+      "headline": "1",
+      "role": "body"
+    },
+    {
+      "body": "Explain craftsmanship simply.",
+      "headline": "2",
+      "role": "body"
+    },
+    {
+      "body": "Answer sizing and stock questions.",
+      "headline": "3",
+      "role": "body"
+    },
+    {
+      "body": "WhatsApp +52 1 55 1370 6864",
+      "headline": "Book your free level chat",
+      "role": "cta"
+    }
+  ],
+  "status": "pending",
+  "topic_id": "sec_fashion_2",
+  "warnings": [
+    "no verified real photo available; slides use the brand background",
+    "Reels location tag may not be applied through the API; place name is in the caption",
+    "no Facebook location ID yet (run Find location IDs)"
+  ]
+}

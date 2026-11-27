@@ -1,0 +1,53 @@
+{
+  "alt_text": "Photo in Lomas de Chapultepec, Mexico City. Text on the image: Turn a news article into a 45-minute speaking class",
+  "attempts": 0,
+  "caption": "Turn a news article into a 45-minute speaking class. • Warm-up question from the topic.\n• Pre-teach 8 words.\n• Read or watch with a task.\n• Finish with a role-play.\n\n#tefl #eslteacher #englishteacher #cdmx #growingconnections\n\nBook a free 15-min level chat: WhatsApp +52 1 55 1370 6864 or livinwithme.net/custom-offers\nReserva tu llamada gratis de nivel: WhatsApp +52 1 55 1370 6864",
+  "cover_path": "posts/2026-11-29-0-turn-a-news-article-into/cover.jpg",
+  "created": "2026-11-27T20:23:11.128801+00:00",
+  "date": "2026-11-29",
+  "headline": "Turn a news article into a 45-minute speaking class",
+  "id": "2026-11-29-0-turn-a-news-article-into",
+  "kind": "reel",
+  "location_id": null,
+  "location_name": "Lomas de Chapultepec, Mexico City",
+  "media": [
+    "posts/2026-11-29-0-turn-a-news-article-into/reel.mp4",
+    "posts/2026-11-29-0-turn-a-news-article-into/cover.jpg"
+  ],
+  "moment": null,
+  "photo": null,
+  "photo_credit": null,
+  "pillar": "resources",
+  "place": "lomas_chapultepec_cdmx",
+  "region": "mexico_city",
+  "scheduled_for": "2026-11-29T14:30:00+00:00",
+  "slides": [
+    {
+      "body": "",
+      "headline": "Turn a news article into a 45-minute speaking class",
+      "role": "cover"
+    },
+    {
+      "body": "Warm-up question from the topic.",
+      "headline": "1",
+      "role": "body"
+    },
+    {
+      "body": "Pre-teach 8 words.",
+      "headline": "2",
+      "role": "body"
+    },
+    {
+      "body": "WhatsApp +52 1 55 1370 6864",
+      "headline": "Book your free level chat",
+      "role": "cta"
+    }
+  ],
+  "status": "pending",
+  "topic_id": "re_news_class",
+  "warnings": [
+    "no verified real photo available; slides use the brand background",
+    "Reels location tag may not be applied through the API; place name is in the caption",
+    "no Facebook location ID yet (run Find location IDs)"
+  ]
+}
