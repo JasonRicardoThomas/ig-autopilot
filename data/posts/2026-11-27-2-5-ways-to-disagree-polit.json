@@ -1,8 +1,9 @@
 {
   "alt_text": "Photo in Catedral de Mallorca, Palma. Text on the image: 5 ways to disagree politely in meetings",
-  "attempts": 0,
+  "attempts": 1,
   "caption": "5 ways to disagree politely in meetings. • \"I see your point, however…\"\n• \"Could we look at this from another angle?\"\n• \"I'd like to offer a different perspective.\"\n• \"Let's revisit this once we have the numbers.\"\n\n#businessenglish #englishforwork #englishforprofessionals #mallorca #growingconnections\n\nBook a free 15-min level chat: WhatsApp +52 1 55 1370 6864 or livinwithme.net/custom-offers\nReserva tu llamada gratis de nivel: WhatsApp +52 1 55 1370 6864",
   "cover_path": "posts/2026-11-27-2-5-ways-to-disagree-polit/cover.jpg",
+  "cover_url": "https://cdn.jsdelivr.net/gh/JasonRicardoThomas/ig-autopilot@media/posts/2026-11-27-2-5-ways-to-disagree-polit/cover.jpg",
   "created": "2026-11-25T20:47:35.454502+00:00",
   "date": "2026-11-27",
   "headline": "5 ways to disagree politely in meetings",
@@ -14,10 +15,15 @@
     "posts/2026-11-27-2-5-ways-to-disagree-polit/reel.mp4",
     "posts/2026-11-27-2-5-ways-to-disagree-polit/cover.jpg"
   ],
+  "media_urls": [
+    "https://cdn.jsdelivr.net/gh/JasonRicardoThomas/ig-autopilot@media/posts/2026-11-27-2-5-ways-to-disagree-polit/reel.mp4",
+    "https://cdn.jsdelivr.net/gh/JasonRicardoThomas/ig-autopilot@media/posts/2026-11-27-2-5-ways-to-disagree-polit/cover.jpg"
+  ],
   "moment": null,
   "photo": null,
   "photo_credit": null,
   "pillar": "business_english",
+  "published_at": "2026-11-27T04:14:07.426074+00:00",
   "region": "mallorca",
   "scheduled_for": "2026-11-28T01:00:00+00:00",
   "slides": [
@@ -37,7 +43,7 @@
       "headline": "Book your free level chat"
     }
   ],
-  "status": "approved",
+  "status": "published",
   "warnings": [
     "no verified real photo available; slides use the brand background",
     "Reels location tag may not be applied through the API; place name is in the caption",
