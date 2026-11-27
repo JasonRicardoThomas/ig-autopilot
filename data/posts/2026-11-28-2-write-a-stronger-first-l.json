@@ -1,8 +1,9 @@
 {
   "alt_text": "Photo in Campo Grande, Valladolid. Text on the image: Write a stronger first line",
-  "attempts": 0,
+  "attempts": 1,
   "caption": "Write a stronger first line. • Start in the middle of the action.\n• Make one specific promise.\n• Cut warm-up sentences.\n• Read it aloud: does it pull you in?\n\n#writingcommunity #creativewriting #amwriting #valladolid #growingconnections\n\nBook a free 15-min level chat: WhatsApp +52 1 55 1370 6864 or livinwithme.net/custom-offers\nReserva tu llamada gratis de nivel: WhatsApp +52 1 55 1370 6864",
   "cover_path": "posts/2026-11-28-2-write-a-stronger-first-l/cover.jpg",
+  "cover_url": "https://cdn.jsdelivr.net/gh/JasonRicardoThomas/ig-autopilot@media/posts/2026-11-28-2-write-a-stronger-first-l/cover.jpg",
   "created": "2026-11-26T20:37:21.770366+00:00",
   "date": "2026-11-28",
   "headline": "Write a stronger first line",
@@ -14,11 +15,16 @@
     "posts/2026-11-28-2-write-a-stronger-first-l/reel.mp4",
     "posts/2026-11-28-2-write-a-stronger-first-l/cover.jpg"
   ],
+  "media_urls": [
+    "https://cdn.jsdelivr.net/gh/JasonRicardoThomas/ig-autopilot@media/posts/2026-11-28-2-write-a-stronger-first-l/reel.mp4",
+    "https://cdn.jsdelivr.net/gh/JasonRicardoThomas/ig-autopilot@media/posts/2026-11-28-2-write-a-stronger-first-l/cover.jpg"
+  ],
   "moment": null,
   "photo": null,
   "photo_credit": null,
   "pillar": "writing",
   "place": "campo_grande_valladolid",
+  "published_at": "2026-11-27T08:06:01.518190+00:00",
   "region": "valladolid",
   "scheduled_for": "2026-11-29T01:00:00+00:00",
   "slides": [
@@ -38,7 +44,7 @@
       "headline": "Book your free level chat"
     }
   ],
-  "status": "approved",
+  "status": "published",
   "topic_id": "wr_first_line",
   "warnings": [
     "no verified real photo available; slides use the brand background",
