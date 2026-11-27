@@ -23,32 +23,22 @@
   "scheduled_for": "2026-11-30T01:00:00+00:00",
   "slides": [
     {
-      "body": "",
-      "headline": "High fashion: English for showroom and press events",
-      "role": "cover"
+      "headline": "High fashion: English for showroom and press events"
     },
     {
-      "body": "Greet buyers by name.",
-      "headline": "1",
-      "role": "body"
+      "headline": "1"
     },
     {
-      "body": "Explain craftsmanship simply.",
-      "headline": "2",
-      "role": "body"
+      "headline": "2"
     },
     {
-      "body": "Answer sizing and stock questions.",
-      "headline": "3",
-      "role": "body"
+      "headline": "3"
     },
     {
-      "body": "WhatsApp +52 1 55 1370 6864",
-      "headline": "Book your free level chat",
-      "role": "cta"
+      "headline": "Book your free level chat"
     }
   ],
-  "status": "pending",
+  "status": "approved",
   "topic_id": "sec_fashion_2",
   "warnings": [
     "no verified real photo available; slides use the brand background",
