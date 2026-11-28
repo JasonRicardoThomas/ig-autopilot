@@ -10,7 +10,7 @@
   "whatsapp_url": "https://wa.me/5215513706864",
   "brand_hashtag": "#growingconnections",
   "colors": {"ink": "#0A1525", "teal": "#00838F", "gold": "#D4A017", "cream": "#F6F1E1", "white": "#FFFFFF"},
-  "cta_en": "Book a free 15-min level chat: WhatsApp +52 1 55 1370 6864 or livinwithme.net/custom-offers",
-  "cta_es": "Reserva tu llamada gratis de nivel: WhatsApp +52 1 55 1370 6864",
-  "booking_card": {"headline": "Book your free level chat", "sub": "WhatsApp +52 1 55 1370 6864", "url": "livinwithme.net/custom-offers"}
+  "cta_en": "💬 Free 15-min level chat on WhatsApp: livinwithme.net/chat (+52 1 55 1370 6864)",
+  "cta_es": "💬 Llamada gratis de nivel por WhatsApp: livinwithme.net/chat/es",
+  "booking_card": {"headline": "Book your free level chat", "sub": "WhatsApp +52 1 55 1370 6864", "url": "livinwithme.net/chat"}
 }
